@@ -1,0 +1,20 @@
+{
+  "name": "borclar-hukuku-ozel",
+  "version": "1.0.0",
+  "description": "İsimli sözleşmeler: satış (ayıptan/zapttan sorumluluk), kira, eser, vekâlet, kefalet, bağışlama, ödünç ve hizmet sözleşmeleri; her sözleşme tipi için kuruluş, ifa ve sorumluluk denetim şeması.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "satış sözleşmesi",
+    "kira",
+    "eser sözleşmesi",
+    "vekâlet",
+    "kefalet",
+    "bağışlama",
+    "ayıp",
+    "zapttan sorumluluk"
+  ]
+}

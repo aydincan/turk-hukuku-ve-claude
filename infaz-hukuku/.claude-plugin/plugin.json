@@ -1,0 +1,20 @@
+{
+  "name": "infaz-hukuku",
+  "version": "1.0.0",
+  "description": "Ceza ve güvenlik tedbirlerinin infazı: 5275 sayılı Kanun — infaz rejimi ve hesabı, koşullu salıverilme ve denetimli serbestlik, açık kuruma ayrılma, disiplin ve infaz hâkimliği başvuruları.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "koşullu salıverilme",
+    "denetimli serbestlik",
+    "açık ceza infaz",
+    "infaz hesabı",
+    "disiplin",
+    "mahsup",
+    "erteleme",
+    "af"
+  ]
+}

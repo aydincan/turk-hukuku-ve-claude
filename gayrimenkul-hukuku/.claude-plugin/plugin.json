@@ -1,0 +1,19 @@
+{
+  "name": "gayrimenkul-hukuku",
+  "version": "1.0.0",
+  "description": "Gayrimenkul işlem ve uyuşmazlıkları: taşınmaz satış vaadi, kat karşılığı inşaat sözleşmesi, arsa payı düzeltimi, ön ödemeli konut satışı; tapu, sözleşme ve dava boyutlarının birlikte ele alındığı uygulama eklentisi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "gayrimenkul satışı",
+    "taşınmaz satış vaadi",
+    "kat karşılığı inşaat",
+    "arsa payı",
+    "ön ödemeli konut",
+    "ayni hak",
+    "ipotek tesisi"
+  ]
+}

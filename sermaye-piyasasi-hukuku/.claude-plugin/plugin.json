@@ -1,0 +1,20 @@
+{
+  "name": "sermaye-piyasasi-hukuku",
+  "version": "1.0.0",
+  "description": "Sermaye piyasası: 6362 sayılı Kanun kapsamında halka arz ve izahname, kamuyu aydınlatma, piyasa dolandırıcılığı ve içeriden öğrenenlerin ticareti, yatırım kuruluşları ve SPK idari yaptırımları.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "halka arz",
+    "izahname",
+    "SPK",
+    "kamuyu aydınlatma",
+    "içeriden öğrenenlerin ticareti",
+    "manipülasyon",
+    "yatırım kuruluşu",
+    "pay geri alımı"
+  ]
+}

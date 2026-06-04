@@ -1,0 +1,20 @@
+{
+  "name": "tasima-hukuku",
+  "version": "1.0.0",
+  "description": "Kara taşıması ve lojistik: TTK taşıma hükümleri ve CMR Konvansiyonu, taşıyıcının ziya/hasar/gecikme sorumluluğu, taşıma senedi, sorumluluk sınırları ve taşıma işleri komisyonculuğu.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "taşıma sözleşmesi",
+    "taşıyıcı sorumluluğu",
+    "CMR",
+    "taşıma senedi",
+    "ziya hasar",
+    "gecikme",
+    "freight forwarder",
+    "yük"
+  ]
+}

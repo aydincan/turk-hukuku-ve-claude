@@ -1,0 +1,739 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "turk-hukuku-skills",
+  "description": "Claude ve Türk Hukuku — Türk hukuku için deneysel skill (beceri) koleksiyonu. Avukat, hukuk müşaviri, hâkim/savcı adayı ve hukuk öğrencisi için metodoloji, atıf hijyeni, sözleşme, dava ve mütalaa iş akışları. Katı kaynak hijyeni: içtihat yalnızca mahkeme + daire + esas/karar no + tarih + doğrulanabilir kaynakla; uydurma karar numarası yok.",
+  "owner": {
+    "name": "Aydın Can Polatkan"
+  },
+  "plugins": [
+    {
+      "name": "hukuk-metodolojisi",
+      "source": "./hukuk-metodolojisi",
+      "description": "Türk hukukunda yöntem ve hukuk uygulaması: TMK m.1 çerçevesinde lafzî/amaçsal/sistematik/tarihsel yorum, kıyas ve evleviyet, hâkimin hukuk yaratması, kanun boşluğu, içtihat çalışması ve gerekçeli (mütalaa) üslubu.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "atif-turk-hukuku",
+      "source": "./atif-turk-hukuku",
+      "description": "Türk hukukçusunun ev içi atıf düzeni: içtihat yalnızca mahkeme, daire, esas/karar numarası, tarih ve doğrulanabilir kaynakla; mevzuat madde/fıkra/bent ile; doktrin yazar-eser-sayfa ile. Model hafızasından karar zikretme yok.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "hukuk-felsefesi-genel-teori",
+      "source": "./hukuk-felsefesi-genel-teori",
+      "description": "Hukuk teorisi ve felsefesi katmanı: hukuki pozitivizm, doğal hukuk, norm geçerliliği, hukuk sosyolojisi, hukuki realizm ve eleştirel yaklaşımlar; hukuk öğrencisi ve akademik tartışma için metodolojik derinlik.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "roma-hukuku",
+      "source": "./roma-hukuku",
+      "description": "Türk medeni hukukunun tarihî kökenleri: Roma hukuku kavramları, pandekt sistemi, İsviçre Medeni Kanunu ve Borçlar Kanunu resepsiyonu; modern TMK/TBK kavramlarının soykütüğü ve akademik temel.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "medeni-hukuk-baslangic",
+      "source": "./medeni-hukuk-baslangic",
+      "description": "TMK başlangıç hükümleri ve genel ilkeler: dürüstlük kuralı (m.2), iyiniyetin korunması (m.3), hâkimin takdir yetkisi (m.4), ispat yükü (m.6), hakkın kötüye kullanılması yasağı; tüm medeni hukuk için temel süzgeç.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "kisiler-hukuku",
+      "source": "./kisiler-hukuku",
+      "description": "Gerçek ve tüzel kişiler hukuku: hak ve fiil ehliyeti, kişilik haklarının korunması (m.23-25), ad, yerleşim yeri, dernek ve vakıf; kişilik hakkı ihlali ve manevi tazminat denetim şeması.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "aile-hukuku",
+      "source": "./aile-hukuku",
+      "description": "Aile hukuku uygulaması: evlenme, boşanma sebepleri (TMK m.161-166), nafaka türleri, velayet ve kişisel ilişki, mal rejimleri ve tasfiye, soybağı; 6284 sayılı Kanun kapsamında koruma tedbirleri.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "miras-hukuku",
+      "source": "./miras-hukuku",
+      "description": "Miras hukuku: yasal ve atanmış mirasçılık, saklı paylı mirasçılar (m.505-506), ölüme bağlı tasarruflar, tenkis ve denkleştirme davaları, mirasın reddi, tereke tespiti ve paylaşma.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "esya-hukuku",
+      "source": "./esya-hukuku",
+      "description": "Eşya hukuku: zilyetlik ve tapu sicili, taşınır/taşınmaz mülkiyeti, sınırlı ayni haklar (irtifak, rehin, intifa), istihkak ve el atmanın önlenmesi (müdahalenin meni) davaları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "tapu-kadastro",
+      "source": "./tapu-kadastro",
+      "description": "Tapu ve kadastro uygulaması: tapu sicili ilkeleri, kadastro tespitine itiraz, tapu iptali ve tescil davaları, kazandırıcı zamanaşımı, şerh-beyan-rehin işlemleri ve yolsuz tescilin düzeltilmesi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "kat-mulkiyeti",
+      "source": "./kat-mulkiyeti",
+      "description": "Kat Mülkiyeti Kanunu uygulaması: kat irtifakı/kat mülkiyeti kurulması, yönetim planı, kat malikleri kurulu kararları, aidat ve ortak gider, ortak alan kullanımı ve projeye aykırılığın giderilmesi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "borclar-hukuku-genel",
+      "source": "./borclar-hukuku-genel",
+      "description": "TBK genel hükümler: sözleşmenin kurulması ve geçerliliği, irade sakatlıkları (hata-hile-korkutma), temsil, hükümsüzlük, ifa ve ifa engelleri, borçlu temerrüdü, zamanaşımı; borç ilişkisinin kaynak piramidi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "borclar-hukuku-ozel",
+      "source": "./borclar-hukuku-ozel",
+      "description": "İsimli sözleşmeler: satış (ayıptan/zapttan sorumluluk), kira, eser, vekâlet, kefalet, bağışlama, ödünç ve hizmet sözleşmeleri; her sözleşme tipi için kuruluş, ifa ve sorumluluk denetim şeması.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "haksiz-fiil-tazminat",
+      "source": "./haksiz-fiil-tazminat",
+      "description": "Haksız fiil sorumluluğu: TBK m.49 vd. unsurları (fiil, hukuka aykırılık, kusur, zarar, illiyet), kusursuz sorumluluk halleri, maddi/manevi tazminatın hesabı, destekten yoksun kalma ve tazminattan indirim sebepleri.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "sebepsiz-zenginlesme",
+      "source": "./sebepsiz-zenginlesme",
+      "description": "Sebepsiz zenginleşmeden doğan borç ilişkisi: TBK m.77 vd. — haklı sebep olmaksızın malvarlığı kayması, iade kapsamı, iyiniyetli/kötüniyetli zenginleşen ayrımı ve diğer taleplerle yarışma.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "tuketici-hukuku",
+      "source": "./tuketici-hukuku",
+      "description": "Tüketicinin Korunması Hakkında Kanun uygulaması: ayıplı mal/hizmet, cayma hakkı, mesafeli ve kapıdan satış, haksız sözleşme şartları, tüketici kredisi; tüketici hakem heyeti ve tüketici mahkemesi yolu.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "kira-hukuku",
+      "source": "./kira-hukuku",
+      "description": "Konut ve çatılı işyeri kiraları: kira sözleşmesi, kira bedelinin belirlenmesi ve tespit davası, tahliye sebepleri (ihtiyaç, yeniden inşa, tahliye taahhüdü, iki haklı ihtar, temerrüt) ve ilamsız tahliye icrası.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "gayrimenkul-hukuku",
+      "source": "./gayrimenkul-hukuku",
+      "description": "Gayrimenkul işlem ve uyuşmazlıkları: taşınmaz satış vaadi, kat karşılığı inşaat sözleşmesi, arsa payı düzeltimi, ön ödemeli konut satışı; tapu, sözleşme ve dava boyutlarının birlikte ele alındığı uygulama eklentisi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "ticari-isletme-hukuku",
+      "source": "./ticari-isletme-hukuku",
+      "description": "TTK genel hükümler ve ticari işletme: tacir sıfatı ve sonuçları, ticari iş ve hükümler, ticaret unvanı ve sicil, cari hesap, ticari işlerde faiz ve TTK kapsamında haksız rekabet.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "sirketler-hukuku",
+      "source": "./sirketler-hukuku",
+      "description": "Sermaye şirketleri: anonim ve limited şirket kuruluşu, organlar, pay ve pay sahipliği, sermaye artırımı/azaltımı, yönetici sorumluluğu (TTK m.553 vd.), sermaye kaybı ve borca batıklık (TTK m.376).",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "anonim-sirket-genel-kurul",
+      "source": "./anonim-sirket-genel-kurul",
+      "description": "AŞ genel kurulu hazırlık ve icrası: çağrı usulü, gündem, toplantı ve karar nisapları, vekâleten temsil, tutanak, genel kurul kararlarının iptali (TTK m.445 vd.) ve azlık haklarının kullanımı.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "kiymetli-evrak",
+      "source": "./kiymetli-evrak",
+      "description": "Kıymetli evrak ve kambiyo senetleri: çek, bono ve poliçenin unsurları, ciro ve devir, aval, müracaat hakkı, kambiyo senetlerine özgü takip; karşılıksız çek ve çek düzenleme yasağı.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "sigorta-hukuku",
+      "source": "./sigorta-hukuku",
+      "description": "Sigorta hukuku: sigorta sözleşmesi, beyan yükümlülüğü, prim ve riziko, tazminat ve rücu; zorunlu/ihtiyari sigortalar, trafik sigortası ve Sigorta Tahkim Komisyonu yolu.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "deniz-ticareti-hukuku",
+      "source": "./deniz-ticareti-hukuku",
+      "description": "Deniz ticareti: gemi ve donatan, navlun sözleşmeleri ve konişmento, deniz alacakları ve gemi ipoteği, müşterek avarya, çatma ve kurtarma; TTK Beşinci Kitap uygulaması.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "tasima-hukuku",
+      "source": "./tasima-hukuku",
+      "description": "Kara taşıması ve lojistik: TTK taşıma hükümleri ve CMR Konvansiyonu, taşıyıcının ziya/hasar/gecikme sorumluluğu, taşıma senedi, sorumluluk sınırları ve taşıma işleri komisyonculuğu.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "bankacilik-hukuku",
+      "source": "./bankacilik-hukuku",
+      "description": "Bankacılık hukuku: 5411 sayılı Kanun çerçevesinde bankacılık faaliyeti ve BDDK denetimi, kredi ve teminat sözleşmeleri, mevduat, banka sırrı; banka-müşteri uyuşmazlıkları ve hukuk müşavirliği.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "sermaye-piyasasi-hukuku",
+      "source": "./sermaye-piyasasi-hukuku",
+      "description": "Sermaye piyasası: 6362 sayılı Kanun kapsamında halka arz ve izahname, kamuyu aydınlatma, piyasa dolandırıcılığı ve içeriden öğrenenlerin ticareti, yatırım kuruluşları ve SPK idari yaptırımları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "rekabet-hukuku",
+      "source": "./rekabet-hukuku",
+      "description": "Rekabet hukuku: 4054 sayılı Kanun — rekabeti sınırlayıcı anlaşmalar (m.4), hâkim durumun kötüye kullanılması (m.6), birleşme/devralma denetimi (m.7), pazar tanımı, muafiyet ve Rekabet Kurulu süreçleri.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "birlesme-devralma-ma",
+      "source": "./birlesme-devralma-ma",
+      "description": "Birleşme-devralma işlemleri: hukuki durum tespiti (due diligence), pay/varlık devri yapıları, pay alım satım sözleşmesi (SPA), beyan ve tekeffüller, kapanış şartları ve işlem sonrası entegrasyon; ihtiyaç halinde rekabet izni.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "girisim-startup-hukuku",
+      "source": "./girisim-startup-hukuku",
+      "description": "Girişim hukuku: kuruluş ve ortaklık yapısı, yatırım turları, term sheet, pay sahipleri sözleşmesi, kurucu vesting ve çalışan hisse opsiyonu, tasfiye tercihi ve sulandırma; yatırımcı-girişimci dengeleri.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "marka-hukuku",
+      "source": "./marka-hukuku",
+      "description": "Marka hukuku: 6769 sayılı SMK kapsamında marka tescili ve mutlak/nispi ret sebepleri, karıştırılma ihtimali, tanınmış marka koruması, hükümsüzlük ve iptal, marka hakkına tecavüz ve tazminat.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "patent-faydali-model",
+      "source": "./patent-faydali-model",
+      "description": "Patent ve faydalı model: patentlenebilirlik şartları (yenilik, buluş basamağı, sanayiye uygulanabilirlik), istem yorumu, hükümsüzlük, çalışan buluşları ve patent hakkına tecavüz; SMK uygulaması.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "tasarim-hukuku",
+      "source": "./tasarim-hukuku",
+      "description": "Tasarım hukuku: tescilli ve tescilsiz tasarım koruması, yenilik ve ayırt edici nitelik, bilgilenmiş kullanıcı ölçütü, hükümsüzlük ve tasarım hakkına tecavüz; SMK kapsamında uygulama.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "telif-haklari",
+      "source": "./telif-haklari",
+      "description": "Fikir ve Sanat Eserleri Kanunu: eser türleri ve sahipliği, mali ve manevi haklar, işleme ve umuma iletim, bağlantılı haklar, lisans ve devir sözleşmeleri, tecavüzün ref'i/men'i ve tazminat.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "fikri-mulkiyet-dava",
+      "source": "./fikri-mulkiyet-dava",
+      "description": "Fikri ve sınai haklarda dava: Fikri ve Sınai Haklar Hukuk/Ceza Mahkemeleri, ihtiyati tedbir ve delil tespiti, tecavüzün tespiti ve durdurulması, tazminat hesabı ve gümrükte el koyma süreçleri.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "is-hukuku-bireysel",
+      "source": "./is-hukuku-bireysel",
+      "description": "Bireysel iş hukuku: iş sözleşmesi türleri, feshin geçerli/haklı sebebi, iş güvencesi ve işe iade (m.18-21), kıdem ve ihbar tazminatı, fazla çalışma, yıllık izin; işçilik alacakları denetim şeması.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "is-hukuku-toplu",
+      "source": "./is-hukuku-toplu",
+      "description": "Toplu iş hukuku: 6356 sayılı Kanun — sendika özgürlüğü ve güvenceler, toplu iş sözleşmesi yetkisi ve bağıtlanması, toplu hak/menfaat uyuşmazlıkları, grev ve lokavt; barışçıl çözüm yolları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "sosyal-guvenlik",
+      "source": "./sosyal-guvenlik",
+      "description": "Sosyal güvenlik: 5510 sayılı Kanun — sigortalılık türleri, hizmet tespiti davası, prim ve borçlanma, iş kazası/meslek hastalığı, gelir-aylık bağlanması ve SGK rücu davaları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "is-sagligi-guvenligi",
+      "source": "./is-sagligi-guvenligi",
+      "description": "İş sağlığı ve güvenliği: 6331 sayılı Kanun — işverenin önleme yükümlülükleri, risk değerlendirmesi, İSG profesyonelleri, iş kazası bildirimi ve sorumluluk, idari yaptırımlar ve işverenin tazminat sorumluluğu.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "ik-insan-kaynaklari",
+      "source": "./ik-insan-kaynaklari",
+      "description": "İşveren/İK perspektifi: işe alım ve sözleşme şablonları, disiplin ve savunma süreçleri, performans ve fesih yönetimi, işyeri yönetmelikleri, çalışan kişisel verilerinin KVKK uyumu; risk azaltıcı süreç tasarımı.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "ceza-hukuku-genel",
+      "source": "./ceza-hukuku-genel",
+      "description": "TCK genel hükümler ve suç genel teorisi: tipiklik, hukuka aykırılık ve kusurluluk katmanları, kast/taksir, hukuka uygunluk sebepleri, teşebbüs, iştirak, içtima ve yaptırım teorisi; suç denetim şeması.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "ceza-hukuku-ozel",
+      "source": "./ceza-hukuku-ozel",
+      "description": "TCK özel hükümler: kişilere karşı (yaralama, tehdit, hakaret), malvarlığına karşı (hırsızlık, dolandırıcılık, güveni kötüye kullanma), kamu idaresine ve güvene karşı suçların unsurları ve nitelikli halleri.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "ceza-muhakemesi",
+      "source": "./ceza-muhakemesi",
+      "description": "Ceza muhakemesi: soruşturma ve kovuşturma, koruma tedbirleri (yakalama, gözaltı, tutuklama, arama-el koyma), delil yasakları, savunma hakları, iddianame, hüküm ve istinaf/temyiz kanun yolları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "ekonomik-ceza",
+      "source": "./ekonomik-ceza",
+      "description": "Ekonomik ceza hukuku: aklama (5549/MASAK), vergi kaçakçılığı (VUK m.359), nitelikli dolandırıcılık, zimmet/rüşvet, sermaye piyasası suçları; şirketler ve yöneticiler için ceza riski yönetimi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "infaz-hukuku",
+      "source": "./infaz-hukuku",
+      "description": "Ceza ve güvenlik tedbirlerinin infazı: 5275 sayılı Kanun — infaz rejimi ve hesabı, koşullu salıverilme ve denetimli serbestlik, açık kuruma ayrılma, disiplin ve infaz hâkimliği başvuruları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "kabahatler-hukuku",
+      "source": "./kabahatler-hukuku",
+      "description": "Kabahatler hukuku: 5326 sayılı Kanun — idari para cezalarının genel rejimi, kabahat-suç ayrımı, idari yaptırım kararına karşı başvuru (sulh ceza hâkimliği), zamanaşımı ve iptal denetimi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "anayasa-hukuku",
+      "source": "./anayasa-hukuku",
+      "description": "Anayasa hukuku: temel hak ve hürriyetlerin sınırlanması rejimi (m.13), ölçülülük ve kanunilik, eşitlik ilkesi, devletin temel organları ve yetki ilişkileri; norm denetimi mantığı.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "anayasa-mahkemesi-bireysel-basvuru",
+      "source": "./anayasa-mahkemesi-bireysel-basvuru",
+      "description": "Anayasa Mahkemesi'ne bireysel başvuru: konu ve kişi bakımından yetki, başvuru yollarının tüketilmesi ve süre, kabul edilebilirlik kriterleri, ihlal kararı ve sonuçları; AİHM ile ilişki.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "idare-hukuku-genel",
+      "source": "./idare-hukuku-genel",
+      "description": "İdare hukuku: idari işlemin unsurları ve sakatlık halleri (yetki-şekil-sebep-konu-maksat), idari sözleşmeler, kamu hizmeti, kamulaştırma ve idarenin kusurlu/kusursuz sorumluluğu.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "idari-yargilama",
+      "source": "./idari-yargilama",
+      "description": "İdari yargılama: 2577 sayılı İYUK — iptal ve tam yargı davaları, dava açma süreleri ve dava şartları (ehliyet/menfaat), yürütmenin durdurulması, idari merci tecavüzü ve istinaf/temyiz.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "imar-hukuku",
+      "source": "./imar-hukuku",
+      "description": "İmar hukuku: 3194 sayılı Kanun — imar planları ve plan değişikliklerine karşı dava, yapı ruhsatı ve yapı kullanma izni, kaçak yapı ve yıkım kararları, imar para cezaları ve planlama hiyerarşisi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "cevre-hukuku",
+      "source": "./cevre-hukuku",
+      "description": "Çevre hukuku: 2872 sayılı Kanun — ÇED süreci ve iptali, çevre izin ve lisansları, kirletenin sorumluluğu, idari yaptırımlar; çevresel uyuşmazlıklarda idari ve adli yargı yolları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "kamu-ihale-hukuku",
+      "source": "./kamu-ihale-hukuku",
+      "description": "Kamu ihale hukuku: 4734/4735 sayılı Kanunlar — ihale usulleri, yeterlik ve teklif değerlendirme, aşırı düşük teklif, şikâyet ve itirazen şikâyet (KİK), ihale sözleşmesi ve yasaklama.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "vergi-hukuku",
+      "source": "./vergi-hukuku",
+      "description": "Vergi hukuku: VUK genel esasları, vergiyi doğuran olay ve tarhiyat, vergi ziyaı ve usulsüzlük cezaları, uzlaşma ve düzeltme, gelir/kurumlar/KDV temel kavramları; mükellef hakları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "vergi-davalari",
+      "source": "./vergi-davalari",
+      "description": "Vergi yargısı: vergi/ceza ihbarnamesine ve ödeme emrine karşı dava, ihtirazi kayıtla beyan, dava açma süreleri, yürütmenin durdurulması, matrah/ceza denetimi; vergi mahkemesi-BİM-Danıştay yolu.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "gumruk-disticaret",
+      "source": "./gumruk-disticaret",
+      "description": "Gümrük ve dış ticaret: 4458 sayılı Gümrük Kanunu — gümrük rejimleri, kıymet ve menşe, ek tahakkuk ve ceza kararları, idari itiraz ve dava yolu; dış ticaret mevzuatı uyumu.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "enerji-hukuku",
+      "source": "./enerji-hukuku",
+      "description": "Enerji hukuku: EPDK düzenlemesi altında elektrik/doğal gaz piyasaları, lisanslama, yenilenebilir enerji destekleri (YEKDEM), tarifeler ve düzenleyici uyum; enerji yatırım sözleşmeleri.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "saglik-hukuku",
+      "source": "./saglik-hukuku",
+      "description": "Sağlık hukuku: hekimin hukuki/cezai sorumluluğu, aydınlatılmış onam, malpraktis-komplikasyon ayrımı, hasta hakları, ATK/bilirkişi raporu değerlendirmesi; tıbbi uyuşmazlık denetim şeması.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "eczacilik-ilac",
+      "source": "./eczacilik-ilac",
+      "description": "İlaç ve eczacılık hukuku: eczane açılışı ve nakli, beşeri tıbbi ürün ruhsatı, fiyatlandırma ve geri ödeme, tanıtım kuralları ve TİTCK düzenlemeleri; sektörel uyum ve uyuşmazlık.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "telekomunikasyon-bilisim",
+      "source": "./telekomunikasyon-bilisim",
+      "description": "Telekom ve internet düzenlemesi: 5809 sayılı Kanun ve BTK yetkilendirme, 5651 kapsamında içerik/yer/erişim sağlayıcı sorumluluğu, erişim engelleme ve içerik kaldırma; düzenleyici uyum.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "kvkk-veri-koruma",
+      "source": "./kvkk-veri-koruma",
+      "description": "KVKK uyumu: veri işleme şartları ve açık rıza, aydınlatma yükümlülüğü, VERBİS, yurt içi/yurt dışı aktarım, veri ihlali bildirimi, ilgili kişi başvurusu ve Kurul yaptırımları; uyum programı.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "bilisim-hukuku-siber",
+      "source": "./bilisim-hukuku-siber",
+      "description": "Bilişim hukuku: bilişim suçları (TCK m.243-245), veri ihlali ve siber olay müdahalesi, dijital delilin elde edilmesi ve değerlendirilmesi, kurumsal siber güvenlik yükümlülükleri ve hukuki sorumluluk.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "e-ticaret-hukuku",
+      "source": "./e-ticaret-hukuku",
+      "description": "Elektronik ticaret: 6563 sayılı Kanun — hizmet/aracı hizmet sağlayıcı yükümlülükleri, ticari elektronik ileti ve İYS, mesafeli sözleşmeler ve tüketici hakları, platform düzenlemesi ve uyum.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "yapay-zeka-hukuku",
+      "source": "./yapay-zeka-hukuku",
+      "description": "Yapay zekâ hukuku: otomatik karar ve profilleme (KVKK), algoritmik şeffaflık ve sorumluluk, veri yönetişimi, AB Yapay Zekâ Tüzüğü ile karşılaştırmalı yaklaşım ve sözleşmesel risk dağıtımı.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "spor-hukuku",
+      "source": "./spor-hukuku",
+      "description": "Spor hukuku: federasyon ve TFF düzenlemeleri, disiplin ve tahkim (Tahkim Kurulu/CAS), sporcu ve menajer sözleşmeleri, transfer ve doping; spor kulüpleri için uyuşmazlık yönetimi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "basin-medya-hukuku",
+      "source": "./basin-medya-hukuku",
+      "description": "Basın ve medya hukuku: basın özgürlüğü ile kişilik hakkı dengesi, cevap ve düzeltme (tekzip), basın yoluyla kişilik hakkı ihlali ve tazminat, RTÜK düzenlemesi ve sorumluluk rejimi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "goc-yabancilar-hukuku",
+      "source": "./goc-yabancilar-hukuku",
+      "description": "Yabancılar ve uluslararası koruma: 6458 sayılı Kanun — ikamet izinleri, sınır dışı etme ve idari gözetim, uluslararası koruma başvurusu, çalışma izni ve vatandaşlık; idari dava yolları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "hukuk-muhakemesi",
+      "source": "./hukuk-muhakemesi",
+      "description": "Medeni yargılama: 6100 sayılı HMK — dava şartları ve ilk itirazlar, görev ve yetki, dilekçeler ve ön inceleme, ispat yükü ve deliller, tahkikat ve hüküm, istinaf/temyiz; usul denetim şeması.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "icra-iflas-hukuku",
+      "source": "./icra-iflas-hukuku",
+      "description": "İcra ve iflas: 2004 sayılı İİK — ilamlı/ilamsız takip, ödeme emrine itiraz ve itirazın iptali/kaldırılması, kambiyo senetlerine özgü takip, haciz ve satış, sıra cetveli, iflas yolları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "konkordato-yeniden-yapilandirma",
+      "source": "./konkordato-yeniden-yapilandirma",
+      "description": "Konkordato hukuku: geçici ve kesin mühlet, konkordato komiseri ve alacaklılar kurulu, projenin hazırlanması ve tasdiki, sözleşmesel yeniden yapılandırma; mali güçlük yönetimi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "tahkim-arabuluculuk",
+      "source": "./tahkim-arabuluculuk",
+      "description": "Alternatif uyuşmazlık çözümü: iç ve milletlerarası tahkim (4686/HMK), tahkim sözleşmesi ve hakem kararının iptali/tenfizi; 6325 sayılı HUAK kapsamında ihtiyari ve dava şartı arabuluculuk.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "dava-dilekce-atolyesi",
+      "source": "./dava-dilekce-atolyesi",
+      "description": "Layiha üretimi: HMK/İYUK/CMK'ya uygun dava, cevap, replik-düplik, istinaf ve temyiz dilekçeleri; vakıa-hukuki sebep-talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "hukuki-mutalaa",
+      "source": "./hukuki-mutalaa",
+      "description": "Hukuki mütalaa ve görüş yazımı: olayın tespiti, hukuki sorunun çerçevelenmesi, mevzuat-içtihat-doktrin değerlendirmesi (altlama), seçeneklerin tartılması ve gerekçeli sonuç; risk haritası ve eylem önerisi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "avukatlik-meslek-kurallari",
+      "source": "./avukatlik-meslek-kurallari",
+      "description": "Avukatlık hukuku: 1136 sayılı Kanun ve meslek kuralları — sır saklama, çıkar çatışması, vekâlet sözleşmesi ve ücret, reklam yasağı, disiplin sorumluluğu; büroda uyum ve etik denetim.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "hukuk-burosu-yonetimi",
+      "source": "./hukuk-burosu-yonetimi",
+      "description": "Hukuk bürosu işletmesi: müvekkil kabulü ve çıkar çatışması taraması, dosya ve süre yönetimi, vekâlet ücreti ve tahsilat, büro KVKK uyumu, iş akışı ve kalite kontrol panoları.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "dava-dosya-takip",
+      "source": "./dava-dosya-takip",
+      "description": "Dava dosyası işleme: yapılandırılmış dosya özeti, taraf-vekil ve süre takvimi, vakıa kronolojisi, delil dizini ve eksik/çelişki listesi; dosyaya hızlı hâkim olmayı sağlayan Excel'lenebilir çıktılar.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "sozlesme-inceleme-redline",
+      "source": "./sozlesme-inceleme-redline",
+      "description": "Sözleşme inceleme: madde madde risk analizi, eksik/asimetrik/geçersiz şart tespiti, redline önerileri ve alternatif lafızlar, müzakere notu ve risk skoru; TBK ve emredici hükümler süzgeci.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "kvkk-uyum-checker",
+      "source": "./kvkk-uyum-checker",
+      "description": "KVKK uyum tarayıcısı: veri işleme envanteri, aydınlatma ve açık rıza metinleri, saklama-imha politikası, aktarım ve VERBİS kontrolü; uyum boşluğu raporu ve eylem planı çıktısı.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "kendini-temsil-asliye",
+      "source": "./kendini-temsil-asliye",
+      "description": "Vekille temsil edilmeyen tarafa rehber: küçük alacak ve sulh hukuk uyuşmazlıkları, tüketici hakem heyeti başvurusu, dilekçe ve delil hazırlığı, duruşma hazırlığı; hukuki danışmanlık yerine geçmez.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "bilirkisi-rapor-inceleme",
+      "source": "./bilirkisi-rapor-inceleme",
+      "description": "Bilirkişi raporu analizi: görevlendirme kapsamına uygunluk, metodoloji ve dayanak denetimi, hesap ve maddi hata kontrolü, çelişki tespiti; gerekçeli itiraz ve ek rapor/yeni bilirkişi talebi taslağı.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    },
+    {
+      "name": "sade-hukuk-dili",
+      "source": "./sade-hukuk-dili",
+      "description": "Sade hukuk dili: karmaşık dilekçe, karar ve sözleşmeleri müvekkilin anlayacağı yalın Türkçeye çevirme; hukuki doğruluğu koruyarak özetleme, terim açıklama ve bilgilendirme metni üretimi.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aydın Can Polatkan"
+      }
+    }
+  ]
+}

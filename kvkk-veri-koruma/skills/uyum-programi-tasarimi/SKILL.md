@@ -1,0 +1,65 @@
+---
+name: uyum-programi-tasarimi
+description: "Bir şirket için sıfırdan KVKK uyum programı kurulurken ya da mevcut uyumda boşluk analizi yapılırken; envanter, politika seti, sözleşme zinciri ve rol yapısı bütüncül tasarlanırken kullanılır."
+---
+
+# Kurumsal KVKK Uyum Programı Tasarımı
+
+## Görev
+Veri sorumlusu kuruluş için uçtan uca KVKK uyum programını tasarlamak: kişisel veri envanterinden politika setine, sözleşme zincirinden eğitim ve denetime kadar bütünsel uyum mimarisi kurmak.
+
+## Soğuk başlangıç (intake)
+1. Kuruluşun sektörü, ölçeği ve işlediği başlıca veri kategorileri nedir?
+2. Mevcutta hangi belgeler var (aydınlatma, rıza, politika, VERBİS)?
+3. Veri işleyen/alt yüklenici zinciri ve yurt dışı aktarım var mı?
+4. İç organizasyon nasıl — irtibat kişisi, komite, sorumluluk dağılımı var mı?
+
+## Denetim şeması
+1. **Envanter — temel taş**: Kişisel veri işleme envanteri çıkarılır (faaliyet, veri kategorisi, amaç, hukuki sebep m.5/m.6, alıcı, aktarım, saklama süresi). Tüm diğer belgeler envanterle tutarlı olmak zorundadır.
+2. **Hukuki sebep haritalama (m.4-5-6)**: Her işleme bir geçerli şarta bağlanır; açık rızaya gereksiz bağımlılık azaltılır, meşru menfaat için denge testleri belgelenir.
+3. **Belge seti**: Aydınlatma metinleri (m.10), gerektiğinde açık rıza beyanları, Saklama ve İmha Politikası, Kişisel Veri İşleme ve Koruma Politikası, ilgili kişi başvuru prosedürü, veri ihlali müdahale planı (m.12).
+4. **Sözleşme zinciri**: Veri işleyenlerle m.12 sözleşmeleri; yurt dışı aktarımda m.9 standart sözleşme/güvenceler; çalışan ve tedarikçi taahhütleri.
+5. **VERBİS ve organizasyon**: m.16 kayıt yükümlülüğü kontrolü, irtibat kişisi atanması, iç rol ve yetki matrisi, periyodik eğitim ve denetim döngüsü.
+6. **Ara sonuç**: Boşluk analizi her başlık için "var/eksik/güncelleme gerekli" olarak skorlanır ve önceliklendirilmiş eylem planına bağlanır.
+
+İspat yükü (hesap verebilirlik): Veri sorumlusu, m.4 ilkelerine ve tüm yükümlülüklere uyumu belgelerle ispatlayabilmelidir; uyum, kâğıt değil işleyen süreç olarak kurulur.
+
+## Çıktı modülleri
+- Boşluk analizi (gap analysis) skor tablosu ve eylem planı.
+- Politika ve belge seti yapılandırma listesi.
+- Sözleşme zinciri ve aktarım haritası.
+
+## Plugin bağlamı
+
+Bu beceri `kvkk-veri-koruma` eklentisinin parçasıdır. Eklentinin diğer becerileriyle birlikte
+çalışır; bir konu eklentinin dışına taştığında ilgili başka eklentiyi işaret eder,
+aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
+
+## Kaynak kuralı (katı)
+
+- **İçtihat yalnızca doğrulanmış künyeyle.** Her karar; mahkeme (Yargıtay / Danıştay /
+  Anayasa Mahkemesi / Bölge Adliye Mahkemesi / Bölge İdare Mahkemesi), daire, **esas ve
+  karar numarası**, tarih ve doğrulanabilir kaynak ile verilir
+  (ör. `karararama.yargitay.gov.tr`, `karararama.danistay.gov.tr`,
+  `kararlarbilgibankasi.anayasa.gov.tr`, `mevzuat.gov.tr`, UYAP Emsal).
+  **Model hafızasından karar numarası ÜRETME.** Emin olunmayan her künye `[doğrulanacak]`
+  olarak işaretlenir.
+- **Mevzuat** madde / fıkra / bent ile gösterilir (ör. "TBK m.49/1", "HMK m.114/1-ç").
+- **Doktrin** yalnızca kullanıcı kaynağı sağladığında veya lisanslı canlı erişim
+  belgelendiğinde kullanılır; yazar, eser, baskı ve sayfa ile.
+- Varsayımlar açıkça **"varsayım"** diye işaretlenir; sahte kesinlik üretilmez.
+
+## Bu beceri ne yapmaz
+
+- Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
+  hukukçudadır.
+- Müvekkili, onun açık kararı olmadan bağlamaz.
+- Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
+- Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
+  görülürse dosyadan sorumlu avukata yönlendirir.
+
+---
+
+*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
+sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
+edilmelidir. Hukuki danışmanlık değildir.*

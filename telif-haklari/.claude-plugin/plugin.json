@@ -1,0 +1,20 @@
+{
+  "name": "telif-haklari",
+  "version": "1.0.0",
+  "description": "Fikir ve Sanat Eserleri Kanunu: eser türleri ve sahipliği, mali ve manevi haklar, işleme ve umuma iletim, bağlantılı haklar, lisans ve devir sözleşmeleri, tecavüzün ref'i/men'i ve tazminat.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "eser",
+    "mali haklar",
+    "manevi haklar",
+    "işleme",
+    "bağlantılı haklar",
+    "lisans",
+    "tecavüzün ref'i",
+    "tazminat"
+  ]
+}

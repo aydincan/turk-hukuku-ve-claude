@@ -1,0 +1,20 @@
+{
+  "name": "hukuk-muhakemesi",
+  "version": "1.0.0",
+  "description": "Medeni yargılama: 6100 sayılı HMK — dava şartları ve ilk itirazlar, görev ve yetki, dilekçeler ve ön inceleme, ispat yükü ve deliller, tahkikat ve hüküm, istinaf/temyiz; usul denetim şeması.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "dava şartları",
+    "görev yetki",
+    "ispat",
+    "deliller",
+    "dilekçeler aşaması",
+    "ön inceleme",
+    "istinaf",
+    "tahkikat"
+  ]
+}

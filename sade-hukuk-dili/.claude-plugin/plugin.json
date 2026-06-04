@@ -1,0 +1,20 @@
+{
+  "name": "sade-hukuk-dili",
+  "version": "1.0.0",
+  "description": "Sade hukuk dili: karmaşık dilekçe, karar ve sözleşmeleri müvekkilin anlayacağı yalın Türkçeye çevirme; hukuki doğruluğu koruyarak özetleme, terim açıklama ve bilgilendirme metni üretimi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "sade dil",
+    "müvekkil iletişimi",
+    "özet",
+    "anlaşılır anlatım",
+    "hukuki terim",
+    "bilgilendirme",
+    "yalın anlatım",
+    "özetleme"
+  ]
+}

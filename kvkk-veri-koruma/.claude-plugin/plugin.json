@@ -1,0 +1,20 @@
+{
+  "name": "kvkk-veri-koruma",
+  "version": "1.0.0",
+  "description": "KVKK uyumu: veri işleme şartları ve açık rıza, aydınlatma yükümlülüğü, VERBİS, yurt içi/yurt dışı aktarım, veri ihlali bildirimi, ilgili kişi başvurusu ve Kurul yaptırımları; uyum programı.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "kişisel veri",
+    "açık rıza",
+    "aydınlatma",
+    "VERBİS",
+    "veri ihlali",
+    "aktarım",
+    "ilgili kişi başvurusu",
+    "Kurul kararı"
+  ]
+}

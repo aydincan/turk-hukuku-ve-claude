@@ -1,0 +1,20 @@
+{
+  "name": "ik-insan-kaynaklari",
+  "version": "1.0.0",
+  "description": "İşveren/İK perspektifi: işe alım ve sözleşme şablonları, disiplin ve savunma süreçleri, performans ve fesih yönetimi, işyeri yönetmelikleri, çalışan kişisel verilerinin KVKK uyumu; risk azaltıcı süreç tasarımı.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "İK politikaları",
+    "işe alım",
+    "disiplin",
+    "performans",
+    "fesih süreci",
+    "çalışan KVKK",
+    "işyeri yönetmeliği",
+    "tutanak"
+  ]
+}

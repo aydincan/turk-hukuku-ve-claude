@@ -1,0 +1,19 @@
+{
+  "name": "tapu-kadastro",
+  "version": "1.0.0",
+  "description": "Tapu ve kadastro uygulaması: tapu sicili ilkeleri, kadastro tespitine itiraz, tapu iptali ve tescil davaları, kazandırıcı zamanaşımı, şerh-beyan-rehin işlemleri ve yolsuz tescilin düzeltilmesi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "tapu sicili",
+    "kadastro tespiti",
+    "tapu iptali tescil",
+    "kazandırıcı zamanaşımı",
+    "şerh beyan",
+    "ipotek",
+    "yolsuz tescil"
+  ]
+}

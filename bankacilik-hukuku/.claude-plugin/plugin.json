@@ -1,0 +1,20 @@
+{
+  "name": "bankacilik-hukuku",
+  "version": "1.0.0",
+  "description": "Bankacılık hukuku: 5411 sayılı Kanun çerçevesinde bankacılık faaliyeti ve BDDK denetimi, kredi ve teminat sözleşmeleri, mevduat, banka sırrı; banka-müşteri uyuşmazlıkları ve hukuk müşavirliği.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "banka",
+    "kredi sözleşmesi",
+    "mevduat",
+    "teminat",
+    "BDDK",
+    "genel kredi sözleşmesi",
+    "banka sırrı",
+    "tüketici kredisi"
+  ]
+}

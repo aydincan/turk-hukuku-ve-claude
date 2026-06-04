@@ -1,0 +1,20 @@
+{
+  "name": "hukuki-mutalaa",
+  "version": "1.0.0",
+  "description": "Hukuki mütalaa ve görüş yazımı: olayın tespiti, hukuki sorunun çerçevelenmesi, mevzuat-içtihat-doktrin değerlendirmesi (altlama), seçeneklerin tartılması ve gerekçeli sonuç; risk haritası ve eylem önerisi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "hukuki mütalaa",
+    "görüş",
+    "olay tespiti",
+    "hukuki değerlendirme",
+    "sonuç",
+    "risk haritası",
+    "gerekçeli görüş",
+    "altlama"
+  ]
+}

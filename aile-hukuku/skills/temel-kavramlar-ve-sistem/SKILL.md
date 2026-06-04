@@ -1,0 +1,62 @@
+---
+name: temel-kavramlar-ve-sistem
+description: "Aile hukuku dosyasına ilk girişte statü, ilişki ve uygulanacak rejim haritasını çıkarmak; hangi alt-konunun (evlilik, boşanma, velayet, nafaka, mal rejimi, soybağı, koruma) devreye gireceğini ayırt etmek için kullanılır."
+---
+
+# Aile Hukuku Temel Kavramlar ve Sistematik
+
+## Görev
+Olayı TMK İkinci Kitap sistematiğine yerleştirmek; evlilik hukuku, hısımlık (soybağı/velayet/nafaka) ve vesayet eksenlerinden hangisinin devreye girdiğini, görevli mahkemeyi ve uygulanacak mal rejimini belirleyerek doğru alt-beceriye yönlendirmek.
+
+## Soğuk başlangıç (intake)
+1. Taraflar evli mi, nişanlı mı, evlilik dışı birliktelik mi; evliyse evlenme tarihi nedir?
+2. Müşterek çocuk var mı, varsa yaşları ve kiminle yaşıyor?
+3. Talep ne: boşanma, nafaka, velayet, mal paylaşımı, soybağı mı yoksa şiddet/koruma mı?
+4. Açılmış dava/başvuru, geçici tedbir kararı veya yurt dışı/yabancı unsur var mı?
+
+## Denetim şeması
+1. **İlişki tipi.** Evlilik geçerli ve devam ediyorsa TMK m.185 vd. (evlilik birliği) uygulanır; butlan iddiası varsa mutlak (m.145) / nispi (m.148) butlan ayrımı yapılır. Evlilik dışı ilişkide soybağı (m.295, m.301) ve velayet (m.337) ekseni öne çıkar.
+2. **Mal rejimi tespiti.** 01.01.2002 sonrası evliliklerde yasal rejim edinilmiş mallara katılmadır (m.202). Daha eski evliliklerde 4722 sK. yürürlük hükümleri ve eski mal ayrılığı dönemi dikkate alınır. Eşler sözleşmeyle (m.203) başka rejim seçmiş olabilir; tarih ve rejim türü hesabın temelidir.
+3. **Çocuk varsa.** Velayet (m.335-336), kişisel ilişki (m.182-183) ve iştirak nafakası (m.182, m.328) birlikte değerlendirilir; çocuğun üstün yararı (m.339 vd.) süzgeçtir.
+4. **Aciliyet.** Şiddet/tehdit varsa 6284 sK. tedbirleri (m.4, m.5, m.8) önceliklidir; boşanma davasıyla paralel yürür.
+5. **Görev-yetki ara sonucu.** Görevli mahkeme aile mahkemesidir (4787 sK.); yetki boşanmada TMK m.168'e göre saptanır.
+
+## Çıktı modülleri
+- Statü ve ilişki haritası (evlilik/çocuk/mal rejimi/tarih tablosu).
+- İlgili alt-beceri yönlendirmesi ve görev-yetki notu.
+- Aciliyet bayrağı (6284 gerekiyor mu) ve ilk süre uyarıları.
+
+## Plugin bağlamı
+
+Bu beceri `aile-hukuku` eklentisinin parçasıdır. Eklentinin diğer becerileriyle birlikte
+çalışır; bir konu eklentinin dışına taştığında ilgili başka eklentiyi işaret eder,
+aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
+
+## Kaynak kuralı (katı)
+
+- **İçtihat yalnızca doğrulanmış künyeyle.** Her karar; mahkeme (Yargıtay / Danıştay /
+  Anayasa Mahkemesi / Bölge Adliye Mahkemesi / Bölge İdare Mahkemesi), daire, **esas ve
+  karar numarası**, tarih ve doğrulanabilir kaynak ile verilir
+  (ör. `karararama.yargitay.gov.tr`, `karararama.danistay.gov.tr`,
+  `kararlarbilgibankasi.anayasa.gov.tr`, `mevzuat.gov.tr`, UYAP Emsal).
+  **Model hafızasından karar numarası ÜRETME.** Emin olunmayan her künye `[doğrulanacak]`
+  olarak işaretlenir.
+- **Mevzuat** madde / fıkra / bent ile gösterilir (ör. "TBK m.49/1", "HMK m.114/1-ç").
+- **Doktrin** yalnızca kullanıcı kaynağı sağladığında veya lisanslı canlı erişim
+  belgelendiğinde kullanılır; yazar, eser, baskı ve sayfa ile.
+- Varsayımlar açıkça **"varsayım"** diye işaretlenir; sahte kesinlik üretilmez.
+
+## Bu beceri ne yapmaz
+
+- Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
+  hukukçudadır.
+- Müvekkili, onun açık kararı olmadan bağlamaz.
+- Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
+- Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
+  görülürse dosyadan sorumlu avukata yönlendirir.
+
+---
+
+*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
+sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
+edilmelidir. Hukuki danışmanlık değildir.*

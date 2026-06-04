@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editör
+.idea/
+.vscode/
+*.swp
+
+# Geçici
+*.tmp
+*.log
+.git-commit-msg.tmp
+
+# Claude Code yerel/kişisel ayarlar (paylaşılmaz)
+.claude/settings.local.json
+.remember/

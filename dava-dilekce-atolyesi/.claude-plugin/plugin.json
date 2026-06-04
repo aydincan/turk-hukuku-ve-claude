@@ -1,0 +1,20 @@
+{
+  "name": "dava-dilekce-atolyesi",
+  "version": "1.0.0",
+  "description": "Layiha üretimi: HMK/İYUK/CMK'ya uygun dava, cevap, replik-düplik, istinaf ve temyiz dilekçeleri; vakıa-hukuki sebep-talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "dava dilekçesi",
+    "cevap dilekçesi",
+    "layiha",
+    "talep sonucu",
+    "vakıa",
+    "hukuki sebep",
+    "temyiz dilekçesi",
+    "istinaf dilekçesi"
+  ]
+}

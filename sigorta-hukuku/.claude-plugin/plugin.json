@@ -1,0 +1,20 @@
+{
+  "name": "sigorta-hukuku",
+  "version": "1.0.0",
+  "description": "Sigorta hukuku: sigorta sözleşmesi, beyan yükümlülüğü, prim ve riziko, tazminat ve rücu; zorunlu/ihtiyari sigortalar, trafik sigortası ve Sigorta Tahkim Komisyonu yolu.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "sigorta sözleşmesi",
+    "prim",
+    "rizikonun gerçekleşmesi",
+    "rücu",
+    "zorunlu trafik sigortası",
+    "hayat sigortası",
+    "beyan yükümlülüğü",
+    "tahkim"
+  ]
+}

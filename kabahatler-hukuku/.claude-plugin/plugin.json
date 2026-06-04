@@ -1,0 +1,20 @@
+{
+  "name": "kabahatler-hukuku",
+  "version": "1.0.0",
+  "description": "Kabahatler hukuku: 5326 sayılı Kanun — idari para cezalarının genel rejimi, kabahat-suç ayrımı, idari yaptırım kararına karşı başvuru (sulh ceza hâkimliği), zamanaşımı ve iptal denetimi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "idari para cezası",
+    "kabahat",
+    "başvuru yolu",
+    "sulh ceza hâkimliği",
+    "zamanaşımı",
+    "idari yaptırım",
+    "itiraz",
+    "tekerrür"
+  ]
+}

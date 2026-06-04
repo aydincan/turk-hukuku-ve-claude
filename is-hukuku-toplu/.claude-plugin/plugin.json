@@ -1,0 +1,20 @@
+{
+  "name": "is-hukuku-toplu",
+  "version": "1.0.0",
+  "description": "Toplu iş hukuku: 6356 sayılı Kanun — sendika özgürlüğü ve güvenceler, toplu iş sözleşmesi yetkisi ve bağıtlanması, toplu hak/menfaat uyuşmazlıkları, grev ve lokavt; barışçıl çözüm yolları.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "sendika",
+    "toplu iş sözleşmesi",
+    "yetki tespiti",
+    "grev",
+    "lokavt",
+    "arabuluculuk",
+    "işkolu",
+    "toplu menfaat uyuşmazlığı"
+  ]
+}

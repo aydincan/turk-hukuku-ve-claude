@@ -1,0 +1,20 @@
+{
+  "name": "tahkim-arabuluculuk",
+  "version": "1.0.0",
+  "description": "Alternatif uyuşmazlık çözümü: iç ve milletlerarası tahkim (4686/HMK), tahkim sözleşmesi ve hakem kararının iptali/tenfizi; 6325 sayılı HUAK kapsamında ihtiyari ve dava şartı arabuluculuk.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "tahkim",
+    "tahkim şartı",
+    "hakem kararı",
+    "milletlerarası tahkim",
+    "arabuluculuk",
+    "dava şartı arabuluculuk",
+    "ihtiyari tahkim",
+    "iptal davası"
+  ]
+}

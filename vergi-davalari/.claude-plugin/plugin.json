@@ -1,0 +1,20 @@
+{
+  "name": "vergi-davalari",
+  "version": "1.0.0",
+  "description": "Vergi yargısı: vergi/ceza ihbarnamesine ve ödeme emrine karşı dava, ihtirazi kayıtla beyan, dava açma süreleri, yürütmenin durdurulması, matrah/ceza denetimi; vergi mahkemesi-BİM-Danıştay yolu.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "vergi davası",
+    "tarhiyat iptali",
+    "ihtirazi kayıt",
+    "ödeme emri",
+    "tahsilat",
+    "yürütmenin durdurulması",
+    "vergi mahkemesi",
+    "matrah"
+  ]
+}

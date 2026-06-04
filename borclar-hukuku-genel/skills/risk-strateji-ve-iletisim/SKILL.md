@@ -1,0 +1,63 @@
+---
+name: risk-strateji-ve-iletisim
+description: "Borç uyuşmazlığında dava/sulh kararı, kazanma şansı, maliyet-tahsilat riski değerlendirilirken ve müvekkile yalın bir yol haritası sunulurken kullanılır."
+---
+
+# Risk Değerlendirmesi, Strateji ve Müvekkil İletişimi
+
+## Görev
+Borç uyuşmazlığında hukuki ve pratik riskleri tartmak, dava/sulh/uyarlama seçenekleri arasında strateji önermek ve müvekkile anlaşılır bir yol haritası sunmak.
+
+## Soğuk başlangıç (intake)
+- Müvekkilin önceliği ne: para tahsili, ilişkiyi sürdürme, hızlı çözüm, risk minimizasyonu?
+- Karşı tarafın ödeme gücü ve mal varlığı durumu biliniyor mu?
+- Elde edilebilir delil ne kadar güçlü; tanık/belge eksiği var mı?
+- Zaman baskısı veya zamanaşımı riski var mı?
+
+## Denetim şeması
+1. Hukuki güç analizi: Talebin dayanağı (sözleşme/haksız fiil/sebepsiz zenginleşme), unsurların kanıtlanabilirliği, karşı tarafın olası def'ileri (zamanaşımı m.161, ifa, takas m.139) ve emredici hüküm engelleri.
+2. Tahsilat/icra riski: Lehe karar alınsa bile İİK çerçevesinde tahsil edilebilirlik; borçlunun aciz/iflas riski, teminat ve haciz imkânları, ihtiyati haciz (İİK m.257) gereği.
+3. Maliyet-fayda: Harç ve yargılama gideri (HMK m.323), vekâlet ücreti riski, yargılama süresi; küçük alacakta dava şartı arabuluculuk ve sulhün avantajı.
+4. Strateji seçimi: İhtarname/ödeme baskısı, dava şartı arabuluculuk, sulh/uyarlama (m.138) ya da dava; menfi tespit ile savunmaya geçiş. Süre korumak için belirsiz alacak/ihtiyati tedbir.
+5. Çatışma ve etik: Çıkar çatışması taraması, sır saklama; iletişimde gerçekçi beklenti yönetimi, sonucu garanti etmeme.
+6. Ara sonuç: Önerilen senaryo(lar), olasılık aralığı ve eylem sıralaması.
+
+## Çıktı modülleri
+- Risk matrisi (hukuki güç x tahsilat x maliyet).
+- Strateji önerisi ve alternatif senaryolar.
+- Müvekkile yalın dille yol haritası ve karar noktaları.
+
+## Plugin bağlamı
+
+Bu beceri `borclar-hukuku-genel` eklentisinin parçasıdır. Eklentinin diğer becerileriyle birlikte
+çalışır; bir konu eklentinin dışına taştığında ilgili başka eklentiyi işaret eder,
+aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
+
+## Kaynak kuralı (katı)
+
+- **İçtihat yalnızca doğrulanmış künyeyle.** Her karar; mahkeme (Yargıtay / Danıştay /
+  Anayasa Mahkemesi / Bölge Adliye Mahkemesi / Bölge İdare Mahkemesi), daire, **esas ve
+  karar numarası**, tarih ve doğrulanabilir kaynak ile verilir
+  (ör. `karararama.yargitay.gov.tr`, `karararama.danistay.gov.tr`,
+  `kararlarbilgibankasi.anayasa.gov.tr`, `mevzuat.gov.tr`, UYAP Emsal).
+  **Model hafızasından karar numarası ÜRETME.** Emin olunmayan her künye `[doğrulanacak]`
+  olarak işaretlenir.
+- **Mevzuat** madde / fıkra / bent ile gösterilir (ör. "TBK m.49/1", "HMK m.114/1-ç").
+- **Doktrin** yalnızca kullanıcı kaynağı sağladığında veya lisanslı canlı erişim
+  belgelendiğinde kullanılır; yazar, eser, baskı ve sayfa ile.
+- Varsayımlar açıkça **"varsayım"** diye işaretlenir; sahte kesinlik üretilmez.
+
+## Bu beceri ne yapmaz
+
+- Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
+  hukukçudadır.
+- Müvekkili, onun açık kararı olmadan bağlamaz.
+- Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
+- Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
+  görülürse dosyadan sorumlu avukata yönlendirir.
+
+---
+
+*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
+sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
+edilmelidir. Hukuki danışmanlık değildir.*

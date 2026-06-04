@@ -1,0 +1,20 @@
+{
+  "name": "fikri-mulkiyet-dava",
+  "version": "1.0.0",
+  "description": "Fikri ve sınai haklarda dava: Fikri ve Sınai Haklar Hukuk/Ceza Mahkemeleri, ihtiyati tedbir ve delil tespiti, tecavüzün tespiti ve durdurulması, tazminat hesabı ve gümrükte el koyma süreçleri.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "FSHM",
+    "ihtiyati tedbir",
+    "delil tespiti",
+    "tecavüz tespiti",
+    "hesap verme",
+    "gümrükte el koyma",
+    "yargı yolu",
+    "yetkili mahkeme"
+  ]
+}

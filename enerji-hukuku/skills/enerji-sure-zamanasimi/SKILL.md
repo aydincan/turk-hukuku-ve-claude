@@ -1,0 +1,64 @@
+---
+name: enerji-sure-zamanasimi
+description: "Lisans yükümlülük süreleri, EPDK dava açma süresi, YEKDEM kayıt son tarihleri, sözleşmesel ve idari para cezası zamanaşımı gibi tüm süre hesapları yapılırken kullanılır."
+---
+
+# Enerji Hukukunda Süreler ve Zamanaşımı
+
+## Görev
+Bir enerji dosyasındaki tüm süreleri tek tabloda toplamak; hak düşürücü süre, dava süresi ve zamanaşımını ayırarak süre kaçırma riskini ortadan kaldırmak.
+
+## Soğuk başlangıç (intake)
+1. Hangi işlem/olay için süre soruluyor (lisans yükümlülüğü, EPDK işlemi, alacak, ceza)?
+2. Başlangıç tarihi nedir (tebliğ, öğrenme, ifa, işletmeye giriş)?
+3. Süreyi durduran/keser bir başvuru/işlem yapıldı mı?
+4. Olay tarihindeki yürürlük hali hangisi?
+
+## Denetim şeması
+1. **İdari dava süresi**: EPDK işlemlerine karşı İYUK m.7 — kural 60 gün; özel kanunda farklı süre varsa o uygulanır. İdari başvuru (İYUK m.11) süreyi durdurur; başvurunun reddi/zımni ret ile yeniden işler.
+2. **Lisans/önlisans yükümlülük süreleri**: 6446 m.7 önlisans süresi ve Lisans Yönetmeliğindeki tamamlanma/inşa süreleri hak düşürücü niteliktedir; mücbir sebep uzatımı belgeyle aranır.
+3. **YEKDEM ve uzlaştırma**: YEKDEM kayıt ve dönemsel beyan son tarihleri kaçırılırsa o dönem destek dışı kalınır; bu süreler hak kaybı doğurur, durmaz.
+4. **İdari para cezası zamanaşımı**: Kabahatler bakımından 5326 s.K. soruşturma/yerine getirme zamanaşımı; 6446/4646 özel hükmü varsa öncelikli.
+5. **Sözleşmesel zamanaşımı**: TBK m.146 genel 10 yıl, m.147 bazı alacaklarda 5 yıl; haksız fiilde TBK m.72; tüketici işlemlerinde 6502 özel süreleri. Faiz ve uzlaştırma alacaklarında tür ayrımı yapılır.
+
+Tüm süreler başlangıç tarihi + dayanak madde + hak düşürücü/zamanaşımı ayrımı ile yazılır; tereddütte en kısa süreye göre hareket edilir.
+
+## Çıktı modülleri
+- Konsolide süre takvimi tablosu (olay/dayanak/son gün).
+- Durma-kesilme notları.
+- Kritik süre uyarı listesi.
+
+## Plugin bağlamı
+
+Bu beceri `enerji-hukuku` eklentisinin parçasıdır. Eklentinin diğer becerileriyle birlikte
+çalışır; bir konu eklentinin dışına taştığında ilgili başka eklentiyi işaret eder,
+aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
+
+## Kaynak kuralı (katı)
+
+- **İçtihat yalnızca doğrulanmış künyeyle.** Her karar; mahkeme (Yargıtay / Danıştay /
+  Anayasa Mahkemesi / Bölge Adliye Mahkemesi / Bölge İdare Mahkemesi), daire, **esas ve
+  karar numarası**, tarih ve doğrulanabilir kaynak ile verilir
+  (ör. `karararama.yargitay.gov.tr`, `karararama.danistay.gov.tr`,
+  `kararlarbilgibankasi.anayasa.gov.tr`, `mevzuat.gov.tr`, UYAP Emsal).
+  **Model hafızasından karar numarası ÜRETME.** Emin olunmayan her künye `[doğrulanacak]`
+  olarak işaretlenir.
+- **Mevzuat** madde / fıkra / bent ile gösterilir (ör. "TBK m.49/1", "HMK m.114/1-ç").
+- **Doktrin** yalnızca kullanıcı kaynağı sağladığında veya lisanslı canlı erişim
+  belgelendiğinde kullanılır; yazar, eser, baskı ve sayfa ile.
+- Varsayımlar açıkça **"varsayım"** diye işaretlenir; sahte kesinlik üretilmez.
+
+## Bu beceri ne yapmaz
+
+- Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
+  hukukçudadır.
+- Müvekkili, onun açık kararı olmadan bağlamaz.
+- Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
+- Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
+  görülürse dosyadan sorumlu avukata yönlendirir.
+
+---
+
+*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
+sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
+edilmelidir. Hukuki danışmanlık değildir.*

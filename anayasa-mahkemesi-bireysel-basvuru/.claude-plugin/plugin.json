@@ -1,0 +1,20 @@
+{
+  "name": "anayasa-mahkemesi-bireysel-basvuru",
+  "version": "1.0.0",
+  "description": "Anayasa Mahkemesi'ne bireysel başvuru: konu ve kişi bakımından yetki, başvuru yollarının tüketilmesi ve süre, kabul edilebilirlik kriterleri, ihlal kararı ve sonuçları; AİHM ile ilişki.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "bireysel başvuru",
+    "temel hak ihlali",
+    "başvuru yolu tüketme",
+    "süre",
+    "kabul edilebilirlik",
+    "ihlal",
+    "yeniden yargılama",
+    "AİHM"
+  ]
+}

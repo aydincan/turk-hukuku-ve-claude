@@ -1,0 +1,20 @@
+{
+  "name": "tasarim-hukuku",
+  "version": "1.0.0",
+  "description": "Tasarım hukuku: tescilli ve tescilsiz tasarım koruması, yenilik ve ayırt edici nitelik, bilgilenmiş kullanıcı ölçütü, hükümsüzlük ve tasarım hakkına tecavüz; SMK kapsamında uygulama.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "tasarım tescili",
+    "yenilik",
+    "ayırt edici nitelik",
+    "tescilsiz tasarım",
+    "hükümsüzlük",
+    "tecavüz",
+    "görünüm",
+    "bilgilenmiş kullanıcı"
+  ]
+}

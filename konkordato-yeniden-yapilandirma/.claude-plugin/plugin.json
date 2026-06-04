@@ -1,0 +1,20 @@
+{
+  "name": "konkordato-yeniden-yapilandirma",
+  "version": "1.0.0",
+  "description": "Konkordato hukuku: geçici ve kesin mühlet, konkordato komiseri ve alacaklılar kurulu, projenin hazırlanması ve tasdiki, sözleşmesel yeniden yapılandırma; mali güçlük yönetimi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "konkordato",
+    "geçici mühlet",
+    "kesin mühlet",
+    "komiser",
+    "alacaklılar kurulu",
+    "tasdik",
+    "yeniden yapılandırma",
+    "borca batıklık"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "sosyal-guvenlik",
+  "version": "1.0.0",
+  "description": "Sosyal güvenlik: 5510 sayılı Kanun — sigortalılık türleri, hizmet tespiti davası, prim ve borçlanma, iş kazası/meslek hastalığı, gelir-aylık bağlanması ve SGK rücu davaları.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "SGK",
+    "hizmet tespiti",
+    "prim",
+    "emeklilik",
+    "iş kazası",
+    "meslek hastalığı",
+    "rücu",
+    "sigortalılık"
+  ]
+}

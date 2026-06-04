@@ -1,0 +1,20 @@
+{
+  "name": "yapay-zeka-hukuku",
+  "version": "1.0.0",
+  "description": "Yapay zekâ hukuku: otomatik karar ve profilleme (KVKK), algoritmik şeffaflık ve sorumluluk, veri yönetişimi, AB Yapay Zekâ Tüzüğü ile karşılaştırmalı yaklaşım ve sözleşmesel risk dağıtımı.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "yapay zekâ",
+    "otomatik karar",
+    "algoritmik şeffaflık",
+    "veri yönetişimi",
+    "sorumluluk",
+    "AB Yapay Zekâ Tüzüğü",
+    "etik",
+    "risk sınıflandırma"
+  ]
+}

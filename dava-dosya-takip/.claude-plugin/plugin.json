@@ -1,0 +1,20 @@
+{
+  "name": "dava-dosya-takip",
+  "version": "1.0.0",
+  "description": "Dava dosyası işleme: yapılandırılmış dosya özeti, taraf-vekil ve süre takvimi, vakıa kronolojisi, delil dizini ve eksik/çelişki listesi; dosyaya hızlı hâkim olmayı sağlayan Excel'lenebilir çıktılar.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "dosya özeti",
+    "kronoloji",
+    "süre takvimi",
+    "taraf vekil tablosu",
+    "delil dizini",
+    "duruşma",
+    "eksik liste",
+    "UYAP"
+  ]
+}

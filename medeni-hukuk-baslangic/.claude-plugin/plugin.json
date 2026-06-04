@@ -1,0 +1,19 @@
+{
+  "name": "medeni-hukuk-baslangic",
+  "version": "1.0.0",
+  "description": "TMK başlangıç hükümleri ve genel ilkeler: dürüstlük kuralı (m.2), iyiniyetin korunması (m.3), hâkimin takdir yetkisi (m.4), ispat yükü (m.6), hakkın kötüye kullanılması yasağı; tüm medeni hukuk için temel süzgeç.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "başlangıç hükümleri",
+    "dürüstlük kuralı",
+    "iyiniyet",
+    "ispat yükü",
+    "hakkın kötüye kullanılması",
+    "TMK m.2",
+    "TMK m.6"
+  ]
+}

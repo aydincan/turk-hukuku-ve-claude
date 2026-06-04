@@ -1,0 +1,20 @@
+{
+  "name": "anayasa-hukuku",
+  "version": "1.0.0",
+  "description": "Anayasa hukuku: temel hak ve hürriyetlerin sınırlanması rejimi (m.13), ölçülülük ve kanunilik, eşitlik ilkesi, devletin temel organları ve yetki ilişkileri; norm denetimi mantığı.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "temel hak ve hürriyetler",
+    "ölçülülük",
+    "kanunilik",
+    "eşitlik",
+    "yürütme",
+    "yasama",
+    "yargı bağımsızlığı",
+    "sınırlama rejimi"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "icra-iflas-hukuku",
+  "version": "1.0.0",
+  "description": "İcra ve iflas: 2004 sayılı İİK — ilamlı/ilamsız takip, ödeme emrine itiraz ve itirazın iptali/kaldırılması, kambiyo senetlerine özgü takip, haciz ve satış, sıra cetveli, iflas yolları.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "ilamsız takip",
+    "ilamlı takip",
+    "itirazın iptali",
+    "kambiyo takibi",
+    "haciz",
+    "sıra cetveli",
+    "iflas",
+    "istihkak"
+  ]
+}

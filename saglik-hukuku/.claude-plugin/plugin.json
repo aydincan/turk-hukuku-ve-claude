@@ -1,0 +1,20 @@
+{
+  "name": "saglik-hukuku",
+  "version": "1.0.0",
+  "description": "Sağlık hukuku: hekimin hukuki/cezai sorumluluğu, aydınlatılmış onam, malpraktis-komplikasyon ayrımı, hasta hakları, ATK/bilirkişi raporu değerlendirmesi; tıbbi uyuşmazlık denetim şeması.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "tıbbi malpraktis",
+    "aydınlatılmış onam",
+    "hekim sorumluluğu",
+    "hasta hakları",
+    "komplikasyon",
+    "bilirkişi",
+    "kusur",
+    "vekâlet"
+  ]
+}

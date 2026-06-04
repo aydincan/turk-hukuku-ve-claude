@@ -1,0 +1,14 @@
+kalem_no,malvarligi_turu,aciklama,kayitli_taraf,edinim_tarihi,mal_niteligi,edinilme_sekli,deger_TL,uzerindeki_takyidat,notlar
+1,Tasinmaz - Konut,3+1 daire (muskerek konut),B. Yilmaz,2017-05-12,Edinilmis mal,Evlilik icinde kredi ile satin alindi,4200000,Ipotek - (M) Bankasi A.S. kalan 850000 TL,Katilma alacagina esas; kredi borcu dusulerek hesaplanir
+2,Tasinmaz - Yazlik,2+1 yazlik daire,B. Yilmaz,2021-08-03,Edinilmis mal,Evlilik icinde nakit satin alindi,2100000,Yok,Tamamen edinilmis mal kabul edilir
+3,Tasinmaz - Arsa,Imarsiz arsa (300 m2),A. Yilmaz,2010-02-20,Kisisel mal,Evlilik oncesi miras (babadan),650000,Yok,TMK m.220 - kisisel mal; tasfiye disi
+4,Arac,Binek otomobil (kurgusal marka X),B. Yilmaz,2022-11-15,Edinilmis mal,Evlilik icinde satin alindi,1350000,Rehin - (T) Finans A.S. kalan 120000 TL,Katilma alacagina esas
+5,Arac,Hafif ticari arac,Demir Yapi Insaat Ltd. Sti.,2020-06-01,Sirket malvarligi,Sirket adina kayitli,900000,Yok,Sirkete ait; ortaklik payi uzerinden degerlendirilir
+6,Sirket Payi,Demir Yapi Insaat Ltd. Sti. - %50 pay,B. Yilmaz,2015-03-10,Edinilmis mal,Evlilik icinde kurulan/edinilen pay,3000000,Yok,Pay degeri bilirkisi ile tespit edilir; deger artisi edinilmis sayilir
+7,Banka Mevduati,Vadeli mevduat hesabi (M) Bankasi,B. Yilmaz,2025-09-01,Edinilmis mal,Evlilik icinde birikim,480000,Yok,Tasfiye tarihindeki bakiye esas alinir
+8,Banka Mevduati,Vadesiz hesap (K) Bankasi,A. Yilmaz,2024-01-10,Edinilmis mal,Maas birikimi,35000,Yok,Edinilmis mal
+9,Ziynet Esyasi,Altin/ziynet (dugun taki),A. Yilmaz,2012-06-14,Kisisel mal,Dugunde takilan takilar,220000,Yok,Genel kabule gore kadina ait kisisel esya - [dogrulanacak]
+10,Ev Esyasi,Muskerek konut esyalari,Ortak,2013-2024,Edinilmis mal,Evlilik icinde edinildi,180000,Yok,Aynen taksim veya bedeli paylasilir
+11,Birikim - BES,Bireysel emeklilik (B. Yilmaz),B. Yilmaz,2018-04-01,Edinilmis mal,Evlilik icinde odenen primler,260000,Yok,Evlilik ici primler edinilmis kabul edilir
+12,Borc,Konut kredisi (kalan anapara),B. Yilmaz,2017-05-12,Borc,Konut alimi kredisi,-850000,-,Pasif kalem; artik deger hesabinda dusulur
+13,Borc,Arac rehin kredisi (kalan),B. Yilmaz,2022-11-15,Borc,Arac alimi kredisi,-120000,-,Pasif kalem; artik deger hesabinda dusulur

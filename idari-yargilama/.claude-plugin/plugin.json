@@ -1,0 +1,20 @@
+{
+  "name": "idari-yargilama",
+  "version": "1.0.0",
+  "description": "İdari yargılama: 2577 sayılı İYUK — iptal ve tam yargı davaları, dava açma süreleri ve dava şartları (ehliyet/menfaat), yürütmenin durdurulması, idari merci tecavüzü ve istinaf/temyiz.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "iptal davası",
+    "tam yargı davası",
+    "yürütmenin durdurulması",
+    "dava açma süresi",
+    "ehliyet menfaat",
+    "ön karar",
+    "istinaf",
+    "yetki"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "kira-hukuku",
+  "version": "1.0.0",
+  "description": "Konut ve çatılı işyeri kiraları: kira sözleşmesi, kira bedelinin belirlenmesi ve tespit davası, tahliye sebepleri (ihtiyaç, yeniden inşa, tahliye taahhüdü, iki haklı ihtar, temerrüt) ve ilamsız tahliye icrası.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "konut kirası",
+    "çatılı işyeri",
+    "tahliye",
+    "kira tespiti",
+    "kira artışı",
+    "depozito",
+    "ihtiyaç tahliyesi",
+    "temerrüt"
+  ]
+}

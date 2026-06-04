@@ -1,0 +1,20 @@
+{
+  "name": "sozlesme-inceleme-redline",
+  "version": "1.0.0",
+  "description": "Sözleşme inceleme: madde madde risk analizi, eksik/asimetrik/geçersiz şart tespiti, redline önerileri ve alternatif lafızlar, müzakere notu ve risk skoru; TBK ve emredici hükümler süzgeci.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "sözleşme incelemesi",
+    "redline",
+    "risk maddesi",
+    "sorumluluk sınırlaması",
+    "cezai şart",
+    "fesih",
+    "tahkim şartı",
+    "müzakere notu"
+  ]
+}

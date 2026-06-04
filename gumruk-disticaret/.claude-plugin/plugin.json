@@ -1,0 +1,20 @@
+{
+  "name": "gumruk-disticaret",
+  "version": "1.0.0",
+  "description": "Gümrük ve dış ticaret: 4458 sayılı Gümrük Kanunu — gümrük rejimleri, kıymet ve menşe, ek tahakkuk ve ceza kararları, idari itiraz ve dava yolu; dış ticaret mevzuatı uyumu.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "gümrük",
+    "ek tahakkuk",
+    "menşe",
+    "gümrük kıymeti",
+    "ithalat",
+    "ihracat",
+    "itiraz",
+    "dahilde işleme"
+  ]
+}

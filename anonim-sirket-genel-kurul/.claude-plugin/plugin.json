@@ -1,0 +1,20 @@
+{
+  "name": "anonim-sirket-genel-kurul",
+  "version": "1.0.0",
+  "description": "AŞ genel kurulu hazırlık ve icrası: çağrı usulü, gündem, toplantı ve karar nisapları, vekâleten temsil, tutanak, genel kurul kararlarının iptali (TTK m.445 vd.) ve azlık haklarının kullanımı.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "genel kurul",
+    "çağrı",
+    "gündem",
+    "toplantı nisabı",
+    "karar iptali",
+    "azlık hakları",
+    "temsil",
+    "bakanlık temsilcisi"
+  ]
+}

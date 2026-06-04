@@ -1,0 +1,20 @@
+{
+  "name": "ekonomik-ceza",
+  "version": "1.0.0",
+  "description": "Ekonomik ceza hukuku: aklama (5549/MASAK), vergi kaçakçılığı (VUK m.359), nitelikli dolandırıcılık, zimmet/rüşvet, sermaye piyasası suçları; şirketler ve yöneticiler için ceza riski yönetimi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "kara para aklama",
+    "vergi kaçakçılığı",
+    "nitelikli dolandırıcılık",
+    "zimmet",
+    "rüşvet",
+    "piyasa dolandırıcılığı",
+    "sahte belge",
+    "MASAK"
+  ]
+}

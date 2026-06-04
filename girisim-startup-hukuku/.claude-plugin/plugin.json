@@ -1,0 +1,20 @@
+{
+  "name": "girisim-startup-hukuku",
+  "version": "1.0.0",
+  "description": "Girişim hukuku: kuruluş ve ortaklık yapısı, yatırım turları, term sheet, pay sahipleri sözleşmesi, kurucu vesting ve çalışan hisse opsiyonu, tasfiye tercihi ve sulandırma; yatırımcı-girişimci dengeleri.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "startup",
+    "yatırım turu",
+    "SAFE",
+    "pay sahipleri sözleşmesi",
+    "hisse opsiyonu",
+    "tasfiye tercihi",
+    "term sheet",
+    "kurucu vesting"
+  ]
+}

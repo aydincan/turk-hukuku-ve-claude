@@ -1,0 +1,20 @@
+{
+  "name": "bilisim-hukuku-siber",
+  "version": "1.0.0",
+  "description": "Bilişim hukuku: bilişim suçları (TCK m.243-245), veri ihlali ve siber olay müdahalesi, dijital delilin elde edilmesi ve değerlendirilmesi, kurumsal siber güvenlik yükümlülükleri ve hukuki sorumluluk.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "bilişim suçları",
+    "veri ihlali",
+    "oltalama",
+    "siber olay",
+    "dijital delil",
+    "fidye yazılımı",
+    "sistem güvenliği",
+    "TCK 243-245"
+  ]
+}

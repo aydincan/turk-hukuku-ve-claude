@@ -1,0 +1,20 @@
+{
+  "name": "aile-hukuku",
+  "version": "1.0.0",
+  "description": "Aile hukuku uygulaması: evlenme, boşanma sebepleri (TMK m.161-166), nafaka türleri, velayet ve kişisel ilişki, mal rejimleri ve tasfiye, soybağı; 6284 sayılı Kanun kapsamında koruma tedbirleri.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "boşanma",
+    "nafaka",
+    "velayet",
+    "mal rejimi",
+    "edinilmiş mallara katılma",
+    "soybağı",
+    "aile konutu",
+    "koruma kararı"
+  ]
+}

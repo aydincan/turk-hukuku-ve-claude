@@ -1,0 +1,20 @@
+{
+  "name": "tuketici-hukuku",
+  "version": "1.0.0",
+  "description": "Tüketicinin Korunması Hakkında Kanun uygulaması: ayıplı mal/hizmet, cayma hakkı, mesafeli ve kapıdan satış, haksız sözleşme şartları, tüketici kredisi; tüketici hakem heyeti ve tüketici mahkemesi yolu.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "tüketici",
+    "ayıplı mal",
+    "ayıplı hizmet",
+    "cayma hakkı",
+    "mesafeli sözleşme",
+    "haksız şart",
+    "tüketici hakem heyeti",
+    "abonelik"
+  ]
+}

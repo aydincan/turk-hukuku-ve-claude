@@ -1,0 +1,19 @@
+{
+  "name": "sebepsiz-zenginlesme",
+  "version": "1.0.0",
+  "description": "Sebepsiz zenginleşmeden doğan borç ilişkisi: TBK m.77 vd. — haklı sebep olmaksızın malvarlığı kayması, iade kapsamı, iyiniyetli/kötüniyetli zenginleşen ayrımı ve diğer taleplerle yarışma.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "sebepsiz zenginleşme",
+    "iade",
+    "geçerli olmayan sebep",
+    "gerçekleşmeyen sebep",
+    "TBK m.77",
+    "istihkak",
+    "geri verme"
+  ]
+}

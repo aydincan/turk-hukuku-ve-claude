@@ -1,0 +1,11 @@
+veri_kategorisi,veri_alani,kvkk_niteligi,etkilenen_kayit_sayisi,hassasiyet,risk_seviyesi,sizan_format,aciklama
+Kimlik,Ad-Soyad,Kişisel veri,48500,Orta,Orta,Açık metin,Tüm kayıtlı müşterilerin ad-soyad bilgisi
+İletişim,E-posta adresi,Kişisel veri,48500,Orta,Yüksek,Açık metin,Oltalama saldırısı riski yüksek
+İletişim,Telefon numarası,Kişisel veri,46120,Orta,Yüksek,Açık metin,SMS dolandırıcılığı ve sosyal mühendislik riski
+İletişim,Teslimat adresi,Kişisel veri,44830,Orta-Yüksek,Yüksek,Açık metin,Fiziksel konum bilgisi içerir
+Müşteri İşlem,Sipariş geçmişi,Kişisel veri,48500,Orta,Orta,Açık metin,Satın alınan ürün ve tarih bilgisi
+Müşteri İşlem,Sipariş tutarı,Kişisel veri,48500,Düşük,Düşük,Açık metin,Tekil tutar bilgisi finansal profil çıkarımına imkan verir
+Kimlik Doğrulama,Parola (hash+salt),Kişisel veri,48500,Yüksek,Orta,Özetlenmiş (hash) + tuzlanmış,Açık metin parola sızmadı; kaba kuvvet riski sınırlı
+Hesap,Üyelik tarihi,Kişisel veri,48500,Düşük,Düşük,Açık metin,Hesap oluşturma tarihi
+Özel Nitelikli,Yok,Yok,0,Yok,Yok,Yok,İhlalde özel nitelikli kişisel veri (KVKK m.6) tespit edilmemiştir
+Finansal,Ödeme kartı bilgisi,Kişisel veri,0,Çok Yüksek,Yok,Sızmadı,Kart verisi Şirket sisteminde saklanmıyor; üçüncü taraf PCI-DSS sağlayıcıda

@@ -1,0 +1,20 @@
+{
+  "name": "basin-medya-hukuku",
+  "version": "1.0.0",
+  "description": "Basın ve medya hukuku: basın özgürlüğü ile kişilik hakkı dengesi, cevap ve düzeltme (tekzip), basın yoluyla kişilik hakkı ihlali ve tazminat, RTÜK düzenlemesi ve sorumluluk rejimi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "basın özgürlüğü",
+    "cevap düzeltme",
+    "kişilik hakkı",
+    "tekzip",
+    "haber",
+    "ifade özgürlüğü",
+    "RTÜK",
+    "sorumlu müdür"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "spor-hukuku",
+  "version": "1.0.0",
+  "description": "Spor hukuku: federasyon ve TFF düzenlemeleri, disiplin ve tahkim (Tahkim Kurulu/CAS), sporcu ve menajer sözleşmeleri, transfer ve doping; spor kulüpleri için uyuşmazlık yönetimi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "spor hukuku",
+    "Tahkim Kurulu",
+    "disiplin",
+    "transfer",
+    "sporcu sözleşmesi",
+    "doping",
+    "CAS",
+    "kulüp"
+  ]
+}

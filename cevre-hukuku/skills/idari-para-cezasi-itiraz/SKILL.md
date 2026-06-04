@@ -1,0 +1,63 @@
+---
+name: idari-para-cezasi-itiraz
+description: "Çevre Kanunu kapsamında verilen idari para cezaları, faaliyet durdurma ve mühürleme kararlarına karşı itiraz/dava yolunu, süreleri ve görevli mercii belirlemek gerektiğinde; ceza tutarının ve dayanağının hukuka uygunluğunu denetlerken kullan."
+---
+
+# İdari Yaptırımlar ve İtiraz Yolu
+
+## Görev
+Çevre mevzuatı kapsamında uygulanan idari para cezası, faaliyet durdurma ve mühürleme kararlarının dayanağını ve tutarını denetlemek; doğru başvuru/dava yolunu ve süreyi belirleyerek iptalini sağlamak.
+
+## Soğuk başlangıç (intake)
+1. Hangi yaptırım: idari para cezası, faaliyet durdurma, mühürleme, lisans iptali?
+2. Karar hangi madde/yönetmelik hükmüne dayandırılmış; tebliğ tarihi nedir?
+3. Tutar nasıl hesaplanmış (tekerrür, kademe, çarpan uygulandı mı)?
+4. Tutanak/tespit usulü düzgün mü; ölçüm/numune zinciri var mı?
+
+## Denetim şeması
+1. **Dayanak ve yetki**: Ceza 2872 m.20-23'teki cetvele ve ilgili yönetmeliğe uygun mu; kararı veren makam yetkili mi (Bakanlık/il müdürlüğü/belediye yetki devri)? Yetkisizlik iptal sebebidir.
+2. **Tutar denetimi**: Maktu tutarlar her yıl yeniden değerleme oranıyla güncellenir; yanlış yıl/oran, hatalı tekerrür veya kademe uygulaması iptal/kısmi iptal nedenidir.
+3. **Usul**: Tespit tutanağı, savunma hakkı ve ölçüm/numune usulü 5326 sayılı Kabahatler Kanunu ve alan yönetmeliklerine uygun olmalıdır; usule aykırı delil cezayı sakatlar.
+4. **Yargı yolu ve süre**: Çevre Kanunu'na dayalı idari para cezalarında başvuru kural olarak idare mahkemesinedir (2577 sayılı İYUK, süre 60 gün); ancak dayanağa göre 5326 m.27 ile sulh ceza hâkimliği yolunun gündeme gelebileceği hallerde görev yolunu mutlaka kanun maddesi düzeyinde teyit et. Yanlış mercie başvuru süre kaybına yol açar.
+5. **İspat ve ara sonuç**: İdare işlemin maddi ve hukuki sebebini ispatla yükümlüdür; tutanak ve ölçümdeki tek bir zincir kopukluğu dahi iptale yetebilir.
+
+## Çıktı modülleri
+- Yaptırım künyesi tablosu (madde, tutar, tarih, merci)
+- Görev/yetki ve süre analizi
+- İtiraz/iptal dilekçesi iskeleti
+- Tutanak ve ölçüm usul denetimi listesi
+
+## Plugin bağlamı
+
+Bu beceri `cevre-hukuku` eklentisinin parçasıdır. Eklentinin diğer becerileriyle birlikte
+çalışır; bir konu eklentinin dışına taştığında ilgili başka eklentiyi işaret eder,
+aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
+
+## Kaynak kuralı (katı)
+
+- **İçtihat yalnızca doğrulanmış künyeyle.** Her karar; mahkeme (Yargıtay / Danıştay /
+  Anayasa Mahkemesi / Bölge Adliye Mahkemesi / Bölge İdare Mahkemesi), daire, **esas ve
+  karar numarası**, tarih ve doğrulanabilir kaynak ile verilir
+  (ör. `karararama.yargitay.gov.tr`, `karararama.danistay.gov.tr`,
+  `kararlarbilgibankasi.anayasa.gov.tr`, `mevzuat.gov.tr`, UYAP Emsal).
+  **Model hafızasından karar numarası ÜRETME.** Emin olunmayan her künye `[doğrulanacak]`
+  olarak işaretlenir.
+- **Mevzuat** madde / fıkra / bent ile gösterilir (ör. "TBK m.49/1", "HMK m.114/1-ç").
+- **Doktrin** yalnızca kullanıcı kaynağı sağladığında veya lisanslı canlı erişim
+  belgelendiğinde kullanılır; yazar, eser, baskı ve sayfa ile.
+- Varsayımlar açıkça **"varsayım"** diye işaretlenir; sahte kesinlik üretilmez.
+
+## Bu beceri ne yapmaz
+
+- Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
+  hukukçudadır.
+- Müvekkili, onun açık kararı olmadan bağlamaz.
+- Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
+- Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
+  görülürse dosyadan sorumlu avukata yönlendirir.
+
+---
+
+*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
+sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
+edilmelidir. Hukuki danışmanlık değildir.*

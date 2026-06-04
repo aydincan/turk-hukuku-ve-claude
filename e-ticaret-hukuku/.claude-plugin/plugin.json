@@ -1,0 +1,20 @@
+{
+  "name": "e-ticaret-hukuku",
+  "version": "1.0.0",
+  "description": "Elektronik ticaret: 6563 sayılı Kanun — hizmet/aracı hizmet sağlayıcı yükümlülükleri, ticari elektronik ileti ve İYS, mesafeli sözleşmeler ve tüketici hakları, platform düzenlemesi ve uyum.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "e-ticaret",
+    "ETBİS",
+    "aracı hizmet sağlayıcı",
+    "ticari elektronik ileti",
+    "mesafeli sözleşme",
+    "platform",
+    "iade",
+    "onay"
+  ]
+}

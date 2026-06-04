@@ -1,0 +1,65 @@
+---
+name: uyum-boslugu-raporu-eylem-plani
+description: "Tüm denetim bulgularının tek raporda birleştirilmesi, risk önceliklendirmesi ve sorumlu-termin atanmış düzeltici eylem planı çıkarılması gerektiğinde kullanılır."
+---
+
+# Uyum Boşluğu Raporu ve Eylem Planı
+
+## Görev
+Önceki becerilerin bulgularını tek bir uyum boşluğu (gap analysis) raporunda birleştirmek; her bulguyu risk seviyesine göre önceliklendirip sorumlu ve termin atanmış düzeltici eylem planına bağlamak. Bu, denetimin nihai teslim çıktısıdır.
+
+## Soğuk başlangıç (intake)
+1. Hangi başlıklarda denetim tamamlandı (envanter, aydınlatma, aktarım/VERBİS, güvenlik, ihlal, başvuru, çerez)?
+2. Yönetimin risk iştahı ve düzeltme için kaynağı/önceliği nedir?
+3. Yasal/ticari olarak hangi bulgular acil (yaptırım riski yüksek)?
+4. Yeniden denetim ne zaman planlanacak?
+
+## Denetim şeması
+1. **Bulgu konsolidasyonu**: Her başlıktan gelen bulgular tek tabloda toplanır — bulgu, ilgili madde (m.4/5/6/7/9/10/12/13/16), kanıt durumu, mevcut durum (Uygun/Kısmen/Uygunsuz).
+2. **Risk skorlama (m.18 ağırlıklı)**: Her bulguya olasılık × etki verilir; etki = idari para cezası riski (m.18) + ilgili kişi zararı/tazminat + itibar. Yüksek/orta/düşük olarak sınıflanır. Özel nitelikli veri (m.6), yurt dışı aktarım ve güvenlik bulguları kural olarak yüksek başlar.
+3. **Önceliklendirme**: "Hızlı kazanım" (düşük efor-yüksek etki) ile "yapısal" (yüksek efor) bulgular ayrılır; aydınlatma/başvuru gibi belge düzeltmeleri çoğunlukla hızlı kazanımdır.
+4. **Eylem planı**: Her bulguya düzeltici aksiyon, sorumlu kişi/birim, termin ve doğrulama yöntemi atanır.
+5. **Hesap verebilirlik döngüsü (m.4)**: Plan, periyodik gözden geçirme ve yeniden denetim tarihiyle kapatılır; uyum tek seferlik değil sürekli süreçtir.
+6. **Ara sonuç**: Skorlanmamış ve sorumlu atanmamış bulgu, rapor değil yalnızca gözlemdir.
+
+İspat yükü (accountability): Veri sorumlusu, m.4 ve tüm yükümlülüklere uyumu işleyen süreç ve belgelerle ispatlayabilmelidir; rapor bu ispat altyapısının haritasıdır.
+
+## Çıktı modülleri
+- Konsolide uyum boşluğu (gap analysis) skor tablosu.
+- Önceliklendirilmiş düzeltici eylem planı (bulgu–aksiyon–sorumlu–termin).
+- Yönetici özeti ve yeniden denetim takvimi.
+
+## Plugin bağlamı
+
+Bu beceri `kvkk-uyum-checker` eklentisinin parçasıdır. Eklentinin diğer becerileriyle birlikte
+çalışır; bir konu eklentinin dışına taştığında ilgili başka eklentiyi işaret eder,
+aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
+
+## Kaynak kuralı (katı)
+
+- **İçtihat yalnızca doğrulanmış künyeyle.** Her karar; mahkeme (Yargıtay / Danıştay /
+  Anayasa Mahkemesi / Bölge Adliye Mahkemesi / Bölge İdare Mahkemesi), daire, **esas ve
+  karar numarası**, tarih ve doğrulanabilir kaynak ile verilir
+  (ör. `karararama.yargitay.gov.tr`, `karararama.danistay.gov.tr`,
+  `kararlarbilgibankasi.anayasa.gov.tr`, `mevzuat.gov.tr`, UYAP Emsal).
+  **Model hafızasından karar numarası ÜRETME.** Emin olunmayan her künye `[doğrulanacak]`
+  olarak işaretlenir.
+- **Mevzuat** madde / fıkra / bent ile gösterilir (ör. "TBK m.49/1", "HMK m.114/1-ç").
+- **Doktrin** yalnızca kullanıcı kaynağı sağladığında veya lisanslı canlı erişim
+  belgelendiğinde kullanılır; yazar, eser, baskı ve sayfa ile.
+- Varsayımlar açıkça **"varsayım"** diye işaretlenir; sahte kesinlik üretilmez.
+
+## Bu beceri ne yapmaz
+
+- Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
+  hukukçudadır.
+- Müvekkili, onun açık kararı olmadan bağlamaz.
+- Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
+- Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
+  görülürse dosyadan sorumlu avukata yönlendirir.
+
+---
+
+*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
+sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
+edilmelidir. Hukuki danışmanlık değildir.*

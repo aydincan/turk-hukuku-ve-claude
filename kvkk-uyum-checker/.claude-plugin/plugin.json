@@ -1,0 +1,20 @@
+{
+  "name": "kvkk-uyum-checker",
+  "version": "1.0.0",
+  "description": "KVKK uyum tarayıcısı: veri işleme envanteri, aydınlatma ve açık rıza metinleri, saklama-imha politikası, aktarım ve VERBİS kontrolü; uyum boşluğu raporu ve eylem planı çıktısı.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "KVKK denetim listesi",
+    "veri envanteri",
+    "aydınlatma metni",
+    "açık rıza",
+    "saklama imha",
+    "veri ihlali",
+    "VERBİS",
+    "uyum boşluğu"
+  ]
+}

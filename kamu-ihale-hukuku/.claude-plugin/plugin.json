@@ -1,0 +1,20 @@
+{
+  "name": "kamu-ihale-hukuku",
+  "version": "1.0.0",
+  "description": "Kamu ihale hukuku: 4734/4735 sayılı Kanunlar — ihale usulleri, yeterlik ve teklif değerlendirme, aşırı düşük teklif, şikâyet ve itirazen şikâyet (KİK), ihale sözleşmesi ve yasaklama.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "kamu ihalesi",
+    "şikâyet itirazen şikâyet",
+    "KİK",
+    "yaklaşık maliyet",
+    "yasaklama",
+    "aşırı düşük teklif",
+    "sözleşme",
+    "ihale iptali"
+  ]
+}

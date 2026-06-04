@@ -1,0 +1,7 @@
+vergi_turu,donem,beyan_edilen_matrah_tl,tespit_edilen_matrah_farki_tl,vergi_orani_yuzde,tarh_edilen_vergi_tl,ceza_kati,vergi_ziyai_cezasi_tl,gecikme_faizi_tahmini_tl,toplam_yuk_tl,gerekce_kategorisi
+Kurumlar Vergisi,2022,1500000.00,4200000.00,25,1050000.00,1,1050000.00,210000.00,2310000.00,Ortulu hasilat / matrah farki
+KDV,2022-03,0.00,800000.00,18,144000.00,3,432000.00,30000.00,606000.00,Sahte belge indirim reddi
+KDV,2022-06,0.00,700000.00,18,126000.00,3,378000.00,25000.00,529000.00,Sahte belge indirim reddi
+KDV,2022-09,0.00,900000.00,18,162000.00,3,486000.00,32000.00,680000.00,Sahte belge indirim reddi
+KDV,2022-11,0.00,600000.00,18,108000.00,3,324000.00,21000.00,453000.00,Sahte belge indirim reddi
+TOPLAM,2022,1500000.00,7200000.00,,1590000.00,,2670000.00,318000.00,4578000.00,Genel toplam

@@ -1,0 +1,20 @@
+{
+  "name": "hukuk-metodolojisi",
+  "version": "1.0.0",
+  "description": "Türk hukukunda yöntem ve hukuk uygulaması: TMK m.1 çerçevesinde lafzî/amaçsal/sistematik/tarihsel yorum, kıyas ve evleviyet, hâkimin hukuk yaratması, kanun boşluğu, içtihat çalışması ve gerekçeli (mütalaa) üslubu.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "hukuk metodolojisi",
+    "yorum",
+    "kıyas",
+    "amaçsal yorum",
+    "hâkimin hukuk yaratması",
+    "TMK m.1",
+    "boşluk doldurma",
+    "menfaatler içtihadı"
+  ]
+}

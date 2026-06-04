@@ -1,0 +1,19 @@
+{
+  "name": "kat-mulkiyeti",
+  "version": "1.0.0",
+  "description": "Kat Mülkiyeti Kanunu uygulaması: kat irtifakı/kat mülkiyeti kurulması, yönetim planı, kat malikleri kurulu kararları, aidat ve ortak gider, ortak alan kullanımı ve projeye aykırılığın giderilmesi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "kat mülkiyeti",
+    "kat irtifakı",
+    "yönetim planı",
+    "aidat",
+    "ortak alan",
+    "kat malikleri kurulu",
+    "projeye aykırılık"
+  ]
+}

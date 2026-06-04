@@ -1,0 +1,18 @@
+{
+  "name": "roma-hukuku",
+  "version": "1.0.0",
+  "description": "Türk medeni hukukunun tarihî kökenleri: Roma hukuku kavramları, pandekt sistemi, İsviçre Medeni Kanunu ve Borçlar Kanunu resepsiyonu; modern TMK/TBK kavramlarının soykütüğü ve akademik temel.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "Roma hukuku",
+    "ius civile",
+    "pandekt",
+    "resepsiyon",
+    "İsviçre tesiri",
+    "hukuk tarihi"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "kisiler-hukuku",
+  "version": "1.0.0",
+  "description": "Gerçek ve tüzel kişiler hukuku: hak ve fiil ehliyeti, kişilik haklarının korunması (m.23-25), ad, yerleşim yeri, dernek ve vakıf; kişilik hakkı ihlali ve manevi tazminat denetim şeması.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "gerçek kişi",
+    "tüzel kişi",
+    "ehliyet",
+    "kişilik hakları",
+    "dernek",
+    "vakıf",
+    "ad soyad",
+    "hısımlık"
+  ]
+}

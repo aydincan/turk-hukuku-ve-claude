@@ -1,0 +1,20 @@
+{
+  "name": "marka-hukuku",
+  "version": "1.0.0",
+  "description": "Marka hukuku: 6769 sayılı SMK kapsamında marka tescili ve mutlak/nispi ret sebepleri, karıştırılma ihtimali, tanınmış marka koruması, hükümsüzlük ve iptal, marka hakkına tecavüz ve tazminat.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "marka tescili",
+    "karıştırılma ihtimali",
+    "tanınmış marka",
+    "hükümsüzlük",
+    "marka iptali",
+    "tecavüz",
+    "kullanmama",
+    "itiraz"
+  ]
+}

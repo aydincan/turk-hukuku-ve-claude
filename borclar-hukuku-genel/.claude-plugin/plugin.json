@@ -1,0 +1,20 @@
+{
+  "name": "borclar-hukuku-genel",
+  "version": "1.0.0",
+  "description": "TBK genel hükümler: sözleşmenin kurulması ve geçerliliği, irade sakatlıkları (hata-hile-korkutma), temsil, hükümsüzlük, ifa ve ifa engelleri, borçlu temerrüdü, zamanaşımı; borç ilişkisinin kaynak piramidi.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "sözleşmenin kuruluşu",
+    "irade sakatlığı",
+    "temsil",
+    "ifa",
+    "temerrüt",
+    "zamanaşımı",
+    "müteselsil borçluluk",
+    "ifa imkânsızlığı"
+  ]
+}

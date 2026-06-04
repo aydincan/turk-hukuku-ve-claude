@@ -1,0 +1,65 @@
+---
+name: uzlasma-duzeltme-pismanlik
+description: "Tarhiyat öncesi/sonrası uzlaşma, vergi hatasında düzeltme-şikâyet ve pişmanlık yollarından hangisinin uygun olduğunu seçmek; dava öncesi idari çözüm değerlendirilirken kullanılır."
+---
+
+# Uzlaşma, Düzeltme ve Pişmanlık
+
+## Görev
+Bir vergi/ceza uyuşmazlığında idari çözüm yollarını (uzlaşma, düzeltme-şikâyet, pişmanlık, cezada indirim) karşılaştırıp en uygun olanı seçmek ve dava süresiyle ilişkisini kurmak.
+
+## Soğuk başlangıç (intake)
+1. Henüz tarhiyat tamamlanmadı mı (tarhiyat öncesi) yoksa ihbarname tebliğ edildi mi (tarhiyat sonrası)?
+2. Uyuşmazlık miktar/değerlendirme farkı mı, yoksa açık bir vergi hatası mı?
+3. Beyan dışı bırakılan matrah var mı (pişmanlık ihtimali)?
+4. Tebliğ tarihi ve kalan dava açma süresi nedir?
+5. Kaçakçılık (VUK m.359) fiili iddiası var mı?
+
+## Denetim şeması
+1. **Yol elemesi:** Açık vergi hatası (hesap hatası, mükellefin şahsında/mevzuda/dönemde hata — VUK m.117-118) varsa düzeltme; takdir/değerlendirme farkı varsa uzlaşma; beyan eksikliği henüz tespit edilmeden bildirilecekse pişmanlık.
+2. **Uzlaşma:** Tarhiyat öncesi uzlaşma VUK Ek m.11 (inceleme aşamasında, ihbarname öncesi); tarhiyat sonrası uzlaşma VUK Ek m.1 vd. (ihbarname tebliğinden itibaren 30 gün içinde başvuru). Vergi ziyaının kaçakçılık (m.359) fiilinden kaynaklandığı tarhiyat uzlaşma kapsamı dışındadır.
+3. **Sürenin durması:** Uzlaşma talebi dava açma süresini durdurur; uzlaşma sağlanamaz/temin edilemezse kalan süre (en az 15 gün) içinde dava açılır (VUK Ek m.7). Bu köprüyü mutlaka kur.
+4. **Düzeltme-şikâyet:** VUK m.116-126 — düzeltme talebi reddedilirse Hazine ve Maliye Bakanlığına şikâyet (m.124), oradan da ret/zımni ret üzerine vergi mahkemesinde dava. Dava açma süresi geçmiş hatalarda bu yol bir "ikinci şans" sağlar.
+5. **Pişmanlık:** VUK m.371 — haber verme dilekçesi, 15 gün içinde beyan ve ödeme şartı; sağlanırsa vergi ziyaı cezası kesilmez ve kaçakçılık yönünden koruma sağlanabilir. İnceleme/ihbar başlamadan başvuru şarttır.
+6. **İndirim:** VUK m.376 — cezada indirim, dava açmama ve süresinde ödeme şartıyla. Ara sonuç: seçilen yolun tutar, süre ve dava hakkına etkisi netleştirilir.
+
+## Çıktı modülleri
+- Yol karşılaştırma matrisi (uygunluk / tutar etkisi / dava hakkı / süre).
+- Seçilen yola uygun başvuru/dilekçe taslağı (uzlaşma, düzeltme veya pişmanlık).
+- Süre köprüsü takvimi (talep → sonuç → kalan dava süresi).
+- Müvekkile karar notu (lehe-aleyhe değerlendirme).
+
+## Plugin bağlamı
+
+Bu beceri `vergi-hukuku` eklentisinin parçasıdır. Eklentinin diğer becerileriyle birlikte
+çalışır; bir konu eklentinin dışına taştığında ilgili başka eklentiyi işaret eder,
+aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
+
+## Kaynak kuralı (katı)
+
+- **İçtihat yalnızca doğrulanmış künyeyle.** Her karar; mahkeme (Yargıtay / Danıştay /
+  Anayasa Mahkemesi / Bölge Adliye Mahkemesi / Bölge İdare Mahkemesi), daire, **esas ve
+  karar numarası**, tarih ve doğrulanabilir kaynak ile verilir
+  (ör. `karararama.yargitay.gov.tr`, `karararama.danistay.gov.tr`,
+  `kararlarbilgibankasi.anayasa.gov.tr`, `mevzuat.gov.tr`, UYAP Emsal).
+  **Model hafızasından karar numarası ÜRETME.** Emin olunmayan her künye `[doğrulanacak]`
+  olarak işaretlenir.
+- **Mevzuat** madde / fıkra / bent ile gösterilir (ör. "TBK m.49/1", "HMK m.114/1-ç").
+- **Doktrin** yalnızca kullanıcı kaynağı sağladığında veya lisanslı canlı erişim
+  belgelendiğinde kullanılır; yazar, eser, baskı ve sayfa ile.
+- Varsayımlar açıkça **"varsayım"** diye işaretlenir; sahte kesinlik üretilmez.
+
+## Bu beceri ne yapmaz
+
+- Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
+  hukukçudadır.
+- Müvekkili, onun açık kararı olmadan bağlamaz.
+- Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
+- Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
+  görülürse dosyadan sorumlu avukata yönlendirir.
+
+---
+
+*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
+sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
+edilmelidir. Hukuki danışmanlık değildir.*

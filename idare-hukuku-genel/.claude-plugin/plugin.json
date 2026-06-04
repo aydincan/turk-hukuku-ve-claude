@@ -1,0 +1,20 @@
+{
+  "name": "idare-hukuku-genel",
+  "version": "1.0.0",
+  "description": "İdare hukuku: idari işlemin unsurları ve sakatlık halleri (yetki-şekil-sebep-konu-maksat), idari sözleşmeler, kamu hizmeti, kamulaştırma ve idarenin kusurlu/kusursuz sorumluluğu.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "idari işlem",
+    "yetki şekil sebep konu maksat",
+    "kamu hizmeti",
+    "idari sözleşme",
+    "kamulaştırma",
+    "idarenin sorumluluğu",
+    "yokluk",
+    "kamu gücü"
+  ]
+}

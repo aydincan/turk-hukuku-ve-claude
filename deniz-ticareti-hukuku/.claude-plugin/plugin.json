@@ -1,0 +1,20 @@
+{
+  "name": "deniz-ticareti-hukuku",
+  "version": "1.0.0",
+  "description": "Deniz ticareti: gemi ve donatan, navlun sözleşmeleri ve konişmento, deniz alacakları ve gemi ipoteği, müşterek avarya, çatma ve kurtarma; TTK Beşinci Kitap uygulaması.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "gemi",
+    "navlun sözleşmesi",
+    "konişmento",
+    "donatan",
+    "müşterek avarya",
+    "deniz alacakları",
+    "gemi ipoteği",
+    "çatma"
+  ]
+}

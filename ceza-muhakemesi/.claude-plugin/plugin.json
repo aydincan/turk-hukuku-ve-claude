@@ -1,0 +1,20 @@
+{
+  "name": "ceza-muhakemesi",
+  "version": "1.0.0",
+  "description": "Ceza muhakemesi: soruşturma ve kovuşturma, koruma tedbirleri (yakalama, gözaltı, tutuklama, arama-el koyma), delil yasakları, savunma hakları, iddianame, hüküm ve istinaf/temyiz kanun yolları.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "soruşturma",
+    "iddianame",
+    "tutuklama",
+    "arama",
+    "ifade",
+    "delil",
+    "istinaf",
+    "temyiz"
+  ]
+}

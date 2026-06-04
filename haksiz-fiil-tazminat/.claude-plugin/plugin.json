@@ -1,0 +1,20 @@
+{
+  "name": "haksiz-fiil-tazminat",
+  "version": "1.0.0",
+  "description": "Haksız fiil sorumluluğu: TBK m.49 vd. unsurları (fiil, hukuka aykırılık, kusur, zarar, illiyet), kusursuz sorumluluk halleri, maddi/manevi tazminatın hesabı, destekten yoksun kalma ve tazminattan indirim sebepleri.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "haksız fiil",
+    "kusur",
+    "illiyet bağı",
+    "maddi tazminat",
+    "manevi tazminat",
+    "kusursuz sorumluluk",
+    "destekten yoksun kalma",
+    "TBK m.49"
+  ]
+}

@@ -1,0 +1,16 @@
+# Roma Hukuku ve Tarihî Temeller — Metodoloji Referansı
+
+## Alanın işlevi ve sınırı
+Roma hukuku Türkiye'de yürürlükte olan pozitif hukuk değildir; hiçbir uyuşmazlık doğrudan Roma hukuku kuralına dayanılarak çözülmez. Bu alan, yürürlükteki Türk özel hukuku kavramlarının (TMK 4721, TBK 6098) soykütüğünü, sistematiğini ve dogmatik iskeletini açıklamak için kullanılır. Pratik değeri ikilidir: (1) akademik ve eğitsel düzeyde kavram köklerini çözmek; (2) yürürlükteki hükümlerin yorumunda tarihî-sistematik argüman üretmek (TMK m.1 çerçevesinde tarihsel ve sistematik yorum). Bir karara gerekçe olarak Roma maximi (ör. nemo plus iuris, pacta sunt servanda, nemo auditur, in pari causa) tek başına yazılamaz; ancak yürürlükteki maddenin amacını ve sistematik konumunu aydınlatan yardımcı argüman olur.
+
+## Sistematik ve başat çerçeve
+İncelenecek üç katman vardır. Birincisi, Roma hukukunun kendi sistematiği: ius civile / ius gentium / ius honorarium ayrımı, personae-res-actiones üçlüsü (Gaius Institutiones tasnifi), ayni hak (in rem) ile şahsi hak (in personam) ayrımı, contractus tipleri (re, verbis, litteris, consensu), delictum, ve actio temelli usul düşüncesi. İkincisi, resepsiyon zinciri: Corpus Iuris Civilis (Iustinianus, 6. yüzyıl) → Orta Çağ glossatörleri ve postglossatörleri → usus modernus pandectarum → 19. yüzyıl Alman Pandekt bilimi (Savigny, Windscheid) → İsviçre Medenî Kanunu (ZGB, 1907/1912) ve İsviçre Borçlar Kanunu (OR, 1911/1912). Üçüncüsü, Türk resepsiyonu: 1926 tarihli 743 sayılı Türk Kanunu Medenisi ve 818 sayılı Borçlar Kanunu, ZGB ve OR'den iktibas edilmiştir; bunların yerini 2001/2011 tarihli 4721 sayılı TMK ve 6098 sayılı TBK almıştır. Bu zincir, kavramların neden bugünkü biçiminde düzenlendiğini açıklar.
+
+## Çalışma yöntemi (köken-eşleştirme)
+1. Yürürlükteki Türk normunu tespit et (ör. TBK m.1 sözleşmenin kurulması, TMK m.683 mülkiyet, TBK m.49 haksız fiil).
+2. Normu İsviçre kaynağına bağla (OR/ZGB karşılığı), ardından Pandekt dogmatiğine, oradan da Roma kurumuna kadar geriye götür.
+3. Kavramın hangi ihtiyaca cevaben doğduğunu ve resepsiyon sürecinde nasıl dönüştüğünü ayrıştır; iktibasta yapılan değişiklik (ör. iyiniyet, dürüstlük kuralı TMK m.2-3) varsa işaretle.
+4. Bulguyu yürürlükteki maddenin yorumuna bağla: tarihî argümanın bugünkü çözüme katkısını somutla, ama hükmün kendisini Roma kuralıyla değiştirme.
+
+## Kaynak hijyeni
+Birincil tarihî kaynaklar künyeyle anılır: Corpus Iuris Civilis bölümleri standart atıfla (Digesta için D. kitap.başlık.fragman.paragraf, ör. D.41.1.20; Institutiones için Inst. veya Gai. kitap.paragraf, ör. Gai. 2.12; Codex için C.; Novellae için Nov.). Latince maximler doğru ve tam yazılır; uydurma Latince kullanma. Modern doktrin yazar-eser-sayfa ile (Türk Roma hukuku literatüründe Ziya Umur, Türkân Rado, Belgin Erdoğmuş, Bülent Tahiroğlu/Belgin Erdoğmuş gibi başlıca eserler ilkesel olarak anılabilir; tam künye [doğrulanacak]). Yürürlükteki normlar daima madde/fıkra ile verilir (TMK m.X, TBK m.X). Tarihî bilgi, yürürlükteki hukuk yerine geçemez; çıktıda bu sınır açıkça korunur. İçtihat gerekecek istisnai hallerde (tarihî-sistematik yorumun mahkemece kullanıldığı kararlar) karararama.yargitay.gov.tr üzerinden doğrulanır; karar numarası uydurulmaz.

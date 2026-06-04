@@ -1,0 +1,20 @@
+{
+  "name": "kendini-temsil-asliye",
+  "version": "1.0.0",
+  "description": "Vekille temsil edilmeyen tarafa rehber: küçük alacak ve sulh hukuk uyuşmazlıkları, tüketici hakem heyeti başvurusu, dilekçe ve delil hazırlığı, duruşma hazırlığı; hukuki danışmanlık yerine geçmez.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "kendini temsil",
+    "basit yargılama",
+    "sulh hukuk",
+    "tüketici hakem heyeti",
+    "dilekçe yardımı",
+    "duruşma hazırlığı",
+    "harç",
+    "delil"
+  ]
+}

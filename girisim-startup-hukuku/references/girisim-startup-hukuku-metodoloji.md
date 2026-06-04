@@ -1,0 +1,22 @@
+# Girişim ve Startup Hukuku — Metodoloji Referansı
+
+## Alanın sistematiği
+Girişim (startup) hukuku, müstakil bir kanunla değil; 6102 sayılı TTK (sermaye şirketleri, m.124 vd.), 6098 sayılı TBK (sözleşme serbestisi, m.26-27; cezai şart m.179-180), 6362 sayılı SPK (kitle fonlaması, halka açılma), 4054 sayılı Rekabet Kanunu (yoğunlaşma izni) ve vergi mevzuatının (193 GVK, 5520 KVK; 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu; 5746 sayılı Ar-Ge Kanunu) birlikte uygulanmasıyla oluşan kesişimsel bir alandır. Çalışmanın omurgası neredeyse her zaman bir Türk sermaye şirketidir: pratikte yatırım alacak girişimler kural olarak anonim şirket (AŞ, TTK m.329 vd.) olarak kurulur veya yatırım turundan önce AŞ'ye dönüştürülür; çünkü yatırımcı koruması (imtiyazlı pay, kayıtlı sermaye, ESOP) AŞ tipinde çok daha esnek kurulur. Analiz dört eksende yürür: (i) ortaklık yapısı ve cap table, (ii) yatırım enstrümanı (term sheet → SAFE/dönüştürülebilir borç → pay devri/sermaye artırımı), (iii) sözleşmesel koruma katmanı (SHA — pay sahipleri sözleşmesi, esas sözleşme), (iv) ekip ve fikri mülkiyet (kurucu vesting, ESOP, IP devri).
+
+## Başat normlar ve madde atıfları
+- Şirket tipi ve kuruluş: AŞ TTK m.329 vd., asgari/kayıtlı sermaye m.332; kayıtlı sermaye sisteminde YK ile artırım m.460; Ltd.→AŞ tür değiştirme TTK m.180-190.
+- Yatırım = pay ihracı: Yeni yatırımcıya pay, kural olarak bedelli sermaye artırımı (TTK m.456 vd.) ile çıkar; rüçhan hakkı m.461 ve mevcut pay sahipleri lehine bu hakkın bilinçli kullandırılması/sınırlanması (m.461/2) sulandırma (dilution) yönetiminin çekirdeğidir.
+- İmtiyazlar: Oyda imtiyaz m.479 (sınır: bir paya en çok 15 oy, istisnalar), kâr/tasfiye payı imtiyazı m.478-479; imtiyazlı pay sahipleri özel kurulu m.454; tasfiye tercihi tasfiye payı imtiyazı + SHA ile kurgulanır (TTK m.543 tasfiye payı dağıtımı).
+- Pay devri ve bağlam: Nama yazılı pay devri m.490, esas sözleşmesel bağlam m.491-493; SHA'daki drag-along/tag-along/önalım yalnız taraflar arası borç doğurur (ayni etki için esas sözleşme/bağlam şart).
+- Sözleşmesel koruma: Sözleşme serbestisi TBK m.26-27; SHA hükümleri (veto, bilgi alma, vesting, çıkmaz) TBK kapsamında geçerli; ihlalde cezai şart TBK m.179.
+- SAFE / dönüştürülebilir borç: Türk hukukunda isimsiz sözleşme (TBK m.26); dönüşüm bir gelecekteki sermaye artırımı taahhüdüdür — sermayenin korunması ve ayni/nakdî sermaye kuralları (TTK m.342-344, m.456) ile altlanır.
+- ESOP / hisse opsiyonu: Çalışana pay/opsiyon; AŞ'de kendi paylarını iktisap sınırı m.379-381 (sermayenin %10'u); opsiyon havuzu çoğunlukla SHA + esas sözleşme + opsiyon planıyla kurgulanır; vergi boyutu GVK ücret hükümleri.
+- Vergi/teşvik: TGB istisnası 4691 sayılı Kanun; Ar-Ge teşviki 5746; melek yatırımcı (BKY) indirimi GVK mük. m.82; kurumlar vergisi istisnaları 5520.
+- Rekabet: Devralma eşik aşımında yoğunlaşma izni (4054 m.7 ve 2010/4 sayılı Tebliğ); başlangıç düzeyi yatırımlarda genellikle eşik altıdır ama kontrol değişiminde teyit edilir.
+- KVKK: Due diligence'ta veri aktarımı 6698 m.8-9; çalışan/müşteri verisi.
+
+## Çalışma yöntemi
+1. Aşamayı sapta (kuruluş / pre-seed / seed / Seri A+ / çıkış); enstrümanı belirle (SAFE, dönüştürülebilir borç, doğrudan equity). 2. Cap table'ı oku: mevcut paylar, opsiyon havuzu, sulandırma senaryosu (pre/post-money). 3. Tarafı netleştir (girişimci mi yatırımcı mı temsil ediliyor) ve menfaat dengesini buna göre kur. 4. Belge katmanını ayır: term sheet (kural olarak bağlayıcı değil, münhasırlık/gizlilik hariç) → kesin sözleşmeler (SPA/SSA, SHA, esas sözleşme) → kurumsal kararlar (GK/YK) → tescil. 5. Emredici TTK sınırı ile sözleşme serbestisini her madde için karşılaştır (m.340 tipe bağlılık). 6. Vergi, teşvik ve rekabet ayağını paralel kontrol et. 7. Çıkışı taslak/checklist olarak ver; sayısal her şeyi [doldurulacak] yer tutucuyla bırak.
+
+## Kaynak hijyeni
+Mevzuatı madde/fıkra ile ver ve olay tarihindeki metni teyit et (asgari sermaye, kayıtlı sermaye tavanı gibi tutarlar değişkendir). İçtihat için Yargıtay (özellikle 11. HD) kararlarını karararama.yargitay.gov.tr; anayasal/temel hak boyutunu kararlarbilgibankasi.anayasa.gov.tr; idari/vergi boyutunu karararama.danistay.gov.tr üzerinden doğrula. Hiçbir esas/karar numarası uydurma; künyesi doğrulanmamış kararı `[doğrulanacak]` olarak işaretle. SAFE/ESOP gibi enstrümanlar yabancı kökenlidir; Türk hukukuna uyarlamada daima yerel emredici hükmü esas al, ABD/İngiltere şablonunu olduğu gibi aktarma. Teşvik ve vergi oranlarını güncel mevzuat/tebliğden teyit et.

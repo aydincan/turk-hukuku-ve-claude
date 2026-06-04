@@ -1,0 +1,20 @@
+{
+  "name": "atif-turk-hukuku",
+  "version": "1.0.0",
+  "description": "Türk hukukçusunun ev içi atıf düzeni: içtihat yalnızca mahkeme, daire, esas/karar numarası, tarih ve doğrulanabilir kaynakla; mevzuat madde/fıkra/bent ile; doktrin yazar-eser-sayfa ile. Model hafızasından karar zikretme yok.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "atıf",
+    "kaynak hijyeni",
+    "Yargıtay",
+    "Danıştay",
+    "AYM",
+    "esas karar numarası",
+    "pinpoint atıf",
+    "içtihat doğrulama"
+  ]
+}

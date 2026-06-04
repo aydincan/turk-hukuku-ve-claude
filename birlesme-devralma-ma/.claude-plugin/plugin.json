@@ -1,0 +1,20 @@
+{
+  "name": "birlesme-devralma-ma",
+  "version": "1.0.0",
+  "description": "Birleşme-devralma işlemleri: hukuki durum tespiti (due diligence), pay/varlık devri yapıları, pay alım satım sözleşmesi (SPA), beyan ve tekeffüller, kapanış şartları ve işlem sonrası entegrasyon; ihtiyaç halinde rekabet izni.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "M&A",
+    "hisse devri",
+    "due diligence",
+    "pay alım satım sözleşmesi",
+    "beyan ve tekeffül",
+    "kapanış",
+    "earn-out",
+    "rekabet izni"
+  ]
+}

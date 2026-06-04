@@ -1,0 +1,20 @@
+{
+  "name": "bilirkisi-rapor-inceleme",
+  "version": "1.0.0",
+  "description": "Bilirkişi raporu analizi: görevlendirme kapsamına uygunluk, metodoloji ve dayanak denetimi, hesap ve maddi hata kontrolü, çelişki tespiti; gerekçeli itiraz ve ek rapor/yeni bilirkişi talebi taslağı.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Aydın Can Polatkan"
+  },
+  "homepage": "https://github.com/aydincan/claude-ve-turk-hukuku",
+  "keywords": [
+    "bilirkişi raporu",
+    "itiraz",
+    "hesap denetimi",
+    "çelişki",
+    "ek rapor",
+    "yeniden bilirkişi",
+    "metodoloji",
+    "dayanak"
+  ]
+}
