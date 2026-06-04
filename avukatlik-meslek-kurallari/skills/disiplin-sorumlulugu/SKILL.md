@@ -63,6 +63,11 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
 - **Doktrin** yalnızca kullanıcı kaynağı sağladığında veya lisanslı canlı erişim
   belgelendiğinde kullanılır; yazar, eser, baskı ve sayfa ile.
 - Varsayımlar açıkça **"varsayım"** diye işaretlenir; sahte kesinlik üretilmez.
+- **MCP araçları varsa resmî metni onlardan çek.** `turk-hukuku-mevzuat-mcp` kuruluysa
+  kanun/madde metnini hafızadan değil `madde_getir` / `kanun_metni_getir` / `mevzuat_ara`
+  ile getir; `turk-hukuku-ictihat-mcp` kuruluysa kararları `ictihat_ara` / `karar_getir`
+  ile bulup künyeyi (mahkeme, esas/karar no, tarih) aynen aktar. Bu araçlar mevcutsa
+  doğrulamada önce onları kullan; yoksa yukarıdaki künye kuralları aynen geçerlidir.
 
 ## Bu beceri ne yapmaz
 
