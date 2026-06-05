@@ -4,8 +4,8 @@
     "baslik": "Claude ve Türk Hukuku",
     "surum": "1.0.0",
     "sahip": "Aydın Can Polatkan",
-    "anasayfa": "https://github.com/aydincan/claude-ve-turk-hukuku",
-    "kurulum_yolu": "aydincan/claude-ve-turk-hukuku",
+    "anasayfa": "https://github.com/aydincan/turk-hukuku-ve-claude",
+    "kurulum_yolu": "aydincan/turk-hukuku-ve-claude",
     "lisans": "Apache-2.0 OR MIT",
     "ithaf": "Bu çalışma, ömrünü Türk yargısına adamış babam Hâkim Vahit Polatkan'ın ebedi anısına ithaf edilmiştir.",
     "aciklama": "Claude ve Türk Hukuku — Türk hukuku için deneysel skill (beceri) koleksiyonu. Avukat, hukuk müşaviri, hâkim/savcı adayı ve hukuk öğrencisi için metodoloji, atıf hijyeni, sözleşme, dava ve mütalaa iş akışları. Katı kaynak hijyeni: içtihat yalnızca mahkeme + daire + esas/karar no + tarih + doğrulanabilir kaynakla; uydurma karar numarası yok."

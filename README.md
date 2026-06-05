@@ -27,7 +27,7 @@ uygunluğunu **bağımsız olarak** denetleyin. Ayrıntı: [`SORUMLULUK-REDDI.md
 ### Claude Code (terminal)
 
 ```bash
-/plugin marketplace add aydincan/claude-ve-turk-hukuku
+/plugin marketplace add aydincan/turk-hukuku-ve-claude
 /plugin install <eklenti-adı>@turk-hukuku-skills
 ```
 

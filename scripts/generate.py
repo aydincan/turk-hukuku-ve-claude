@@ -429,7 +429,7 @@ def build_marketplace(pazar, eklentiler):
 def build_root_readme(pazar, gruplar, eklentiler, skill_counts):
     toplam_eklenti = len(eklentiler)
     toplam_beceri = sum(skill_counts.values())
-    kurulum = pazar.get("kurulum_yolu", "aydincan/claude-ve-turk-hukuku")
+    kurulum = pazar.get("kurulum_yolu", "aydincan/turk-hukuku-ve-claude")
 
     # grup grup tablo
     bloklar = []
