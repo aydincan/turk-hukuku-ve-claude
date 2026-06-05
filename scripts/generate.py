@@ -473,7 +473,7 @@ uygunluğunu **bağımsız olarak** denetleyin. Ayrıntı: [`SORUMLULUK-REDDI.md
 ### Claude Code (terminal)
 
 ```bash
-/plugin marketplace add {kurulum}
+/plugin marketplace add https://gitlab.com/{kurulum}
 /plugin install <eklenti-adı>@{pazar['ad']}
 ```
 
