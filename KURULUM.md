@@ -11,7 +11,7 @@ eklentileri kurabilir ya da tümünü ekleyebilirsiniz.
 1. **Pazarı ekleyin:**
 
    ```bash
-   /plugin marketplace add https://gitlab.com/aydincan/turk-hukuku-ve-claude
+   /plugin marketplace add https://github.com/aydincan/turk-hukuku-ve-claude
    ```
 
 2. **Eklenti kurun** (`@turk-hukuku-skills` pazar adıdır):
@@ -43,7 +43,7 @@ Sonra çalışma alanınıza göre uzmanlık ekleyin (ör. `is-hukuku-bireysel`,
 Depoyu klonlayıp yerel yoldan pazar olarak ekleyebilirsiniz:
 
 ```bash
-git clone https://gitlab.com/aydincan/turk-hukuku-ve-claude.git
+git clone https://github.com/aydincan/turk-hukuku-ve-claude.git
 cd turk-hukuku-ve-claude
 /plugin marketplace add ./
 ```
