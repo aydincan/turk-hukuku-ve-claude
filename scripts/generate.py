@@ -62,11 +62,12 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
 - **Doktrin** yalnızca kullanıcı kaynağı sağladığında veya lisanslı canlı erişim
   belgelendiğinde kullanılır; yazar, eser, baskı ve sayfa ile.
 - Varsayımlar açıkça **"varsayım"** diye işaretlenir; sahte kesinlik üretilmez.
-- **MCP araçları varsa resmî metni onlardan çek.** `turk-hukuku-mevzuat-mcp` kuruluysa
-  kanun/madde metnini hafızadan değil `madde_getir` / `kanun_metni_getir` / `mevzuat_ara`
-  ile getir; `turk-hukuku-ictihat-mcp` kuruluysa kararları `ictihat_ara` / `karar_getir`
-  ile bulup künyeyi (mahkeme, esas/karar no, tarih) aynen aktar. Bu araçlar mevcutsa
-  doğrulamada önce onları kullan; yoksa yukarıdaki künye kuralları aynen geçerlidir.
+- **MCP sunucuları kuruluysa resmî metni onlardan çek.** `turk-hukuku-mevzuat-mcp`
+  kanun ve madde metnini mevzuat.gov.tr'den, `turk-hukuku-ictihat-mcp` kararları
+  Yargıtay/BAM (UYAP Emsal), Danıştay ve AYM (bireysel başvuru, norm denetimi)
+  bankalarından canlı getirir; hangi aracın ne zaman kullanılacağı araçların kendi
+  açıklamalarındadır. Bu sunucular varsa doğrulamada önce onları kullan ve dönen
+  künyeyi aynen aktar; yoksa yukarıdaki künye kuralları aynen geçerlidir.
 
 ## Bu beceri ne yapmaz
 
@@ -89,7 +90,7 @@ def kaltstart_bloku():
     return """## Soğuk başlangıç (intake)
 
 Başta yalnızca bir sonraki adım için zorunlu olanı sor. Materyal varsa onunla çalış ve
-en çok **bir** gezegen soru sor.
+yalnızca belirleyici olan tek soruyu sor.
 
 1. **Rol ve hedef:** Kim soruyor (avukat, hukuk müşaviri, taraf, şirket, kurum) ve
    istenen çıktı ne (mütalaa, dilekçe, tablo, kontrol listesi, sözleşme, e-posta)?
@@ -105,19 +106,14 @@ en çok **bir** gezegen soru sor.
 # --------------------------------------------------------------------------
 
 def router_konversasyon():
-    return """<!-- konvers-stil-v1 -->
+    return """## Konuşma üslubu: kısa başla, hızla belgeye in
 
-## Konuşma üslubu — kısa başla, hızla belgeye in
-
-- **İlk yanıt kısa.** Olayı yerine oturt, en çok **bir** vazgeçilmez soru sor, sonra çalış.
-- **Ders anlatma yok.** Madde tekrarı ve kendini tanıtma yok; doğrudan işe gir.
-- **Hızla belgeye.** Asgari bilgi gelir gelmez, abartılı soru yağmuru yerine
-  `[netleştirilecek: …]` yer tutucularıyla ilk taslağı ver.
-- **Genel-bakış becerisi = giriş kapısı, vaaz değil.** Triyaj → gerekirse tek soru →
-  uygun uzman beceriye yönlendir veya doğrudan ilk taslağı üret.
-- **Ayrıntı yalnızca iş ürünü gerektiriyorsa:** gerçek altlama (subsumtion), tablolar,
-  kronolojiler, risk/ispat yükü analizleri, dilekçe veya mütalaa metni.
-- **Açıklamayı yalnızca istenirse** ver.
+Bu beceri bir giriş kapısıdır: kullanıcı çoğunlukla dosyasıyla gelen bir hukukçudur ve
+çalışma planı ister, ders değil. İlk yanıtta olayı yerine oturt; yalnızca cevabı sonraki
+adımı gerçekten değiştirecek soruyu sor, gerisini `[netleştirilecek: …]` yer tutucusuyla
+bırakıp ilk taslağa geç. Ayrıntı, iş ürünü gerektiriyorsa verilir: gerçek altlama,
+tablo, kronoloji, risk ve ispat yükü analizi, dilekçe veya mütalaa metni. Gerekçe bu
+ürünün parçasıdır; madde tekrarı ve kendini tanıtma değildir.
 """
 
 
@@ -128,20 +124,18 @@ Kullanıcı yalnızca bir belge, ekran görüntüsü, tablo, ZIP veya dosya yı�
 yazmazsa, yüklemeyi iş emri say. Prompt bekleme. Dikkatli bir hukuki yardımcı gibi çalış:
 önce aceleyi sabitle, sonra materyali yerine oturt, sonra en iyi sonraki adımı öner.
 
-**Zorunlu sıra:**
+Önce süre ve aciliyet taraması, çünkü kaçırılan bir süre geri alınamaz: görünür tebligat,
+duruşma, ödeme/itiraz süresi, zamanaşımı veya hak düşürücü süre varsa yanıt
+`Süre uyarısı: ...` ile başlar; son gün, kalan gün sayısı ve süre dolmuşsa bu açıkça
+yazılır. Ardından yanıtta şunlar bulunur:
 
-1. **Süre/aciliyet taraması:** Görünür tebligat, süre, duruşma, ödeme/itiraz süresi,
-   zamanaşımı/hak düşürücü süre var mı? Aceleyse yanıta `Önce süre: ...` ile başla.
-2. **Materyal sınıflaması:** Tek cümleyle ne olduğunu söyle (dava dilekçesi, karar,
-   sözleşme, tebligat, ihbarname, bilirkişi raporu, ekstre, UYAP belgesi, tapu, e-posta).
-3. **Bağlam çıpaları:** Gönderen, muhatap, esas/karar no, mahkeme/kurum/karşı taraf,
-   tarih ve görülebilir yaşam olayı. Okunamayan kısmı açıkça belirt.
-4. **Hukuki konu:** Materyali kısaca bir hukuk dalına, norm grubuna veya çalışma moduna
-   bağla. Yalnızca gerçekten taşıyanı zikret.
-5. **Yönlendirme:** Önce bu eklentiden uygun bir uzman beceri öner; isabet netse o yönde
-   çalış, birden çok yol varsa bir birincil yol + en çok iki alternatif ver.
-6. **Tek soru:** Yalnızca yanlış adımı önlemek için gerekiyorsa, materyale bağlı tek somut
-   soru sor.
+- **Materyal sınıflaması:** tek cümleyle ne olduğu (dava dilekçesi, karar, sözleşme,
+  tebligat, ihbarname, bilirkişi raporu, ekstre, UYAP belgesi, tapu, e-posta).
+- **Bağlam çıpaları:** gönderen, muhatap, esas/karar no, mahkeme/kurum/karşı taraf, tarih,
+  görülebilir yaşam olayı; okunamayan kısım açıkça belirtilir.
+- **Hukuki konu:** materyalin bağlandığı hukuk dalı, norm grubu veya çalışma modu.
+- **Yönlendirme:** bu eklentiden uygun uzman beceri; isabet netse o yönde çalış, birden çok
+  yol varsa bir birincil yol ve en çok iki alternatif.
 """
 
 
@@ -165,7 +159,7 @@ def build_router(plugin, beceriler):
         f"Rol, hedef, süre, belge, risk ve istenen çıktıyı sorar; bu eklentideki uygun "
         f"uzman becerileri önerir ve net bir çalışma planına bağlar. Bağlam yazısı olmadan "
         f"belge yüklendiğinde bağımsız tepki verir: materyali sınıflar, süre/aciliyet "
-        f"taraması yapar, uygun uzman beceriye yönlendirir ya da tam bir gezegen soru sorar."
+        f"taraması yapar, uygun uzman beceriye yönlendirir ya da tek bir belirleyici soru sorar."
     )
 
     return f"""---
@@ -188,8 +182,7 @@ triyaj, proje yönetimi ve kalite kontrolü tek yerde: önce kısaca netleştir,
 
 ### 1. 60 saniyede intake
 
-Yalnızca yön belirlemek için gerçekten gerekeni sor. Kullanıcı yeterince verdiyse yeniden
-sorma; görünür biçimde özetle.
+Kullanıcının verdiğini görünür biçimde özetle; yeniden sorma.
 
 | Nokta | Soru | Neden önemli? |
 |---|---|---|
@@ -229,10 +222,8 @@ sorma; görünür biçimde özetle.
 
 ## Kalite sözü
 
-- Hızlı ama telaşsız çalış.
-- Yalnızca yanıtı sonraki adımı gerçekten değiştiriyorsa soru sor.
 - Varsayımları görünür ve kısa tut.
-- Randa kalmadan önce bu eklentinin uygun uzman becerilerini öner.
+- Bitirmeden önce bu eklentinin uygun uzman becerilerini öner.
 - Sonda her zaman net bir sonraki adım ver.
 {kaynak_footer(slug)}"""
 
