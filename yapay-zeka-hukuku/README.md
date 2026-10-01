@@ -4,6 +4,9 @@ Yapay zekâ hukuku: otomatik karar ve profilleme (KVKK), algoritmik şeffaflık 
 
 **Başat mevzuat:** 6698 KVKK, TBK 6098
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/yapay-zeka-hukuku](https://turk-hukuku.com/beceriler/yapay-zeka-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

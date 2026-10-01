@@ -4,6 +4,9 @@ Alternatif uyuşmazlık çözümü: iç ve milletlerarası tahkim (4686/HMK), ta
 
 **Başat mevzuat:** 4686, 6325 HUAK, HMK 6100
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/tahkim-arabuluculuk](https://turk-hukuku.com/beceriler/tahkim-arabuluculuk/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

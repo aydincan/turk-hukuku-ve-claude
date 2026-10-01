@@ -4,6 +4,9 @@ TBK genel hükümler: sözleşmenin kurulması ve geçerliliği, irade sakatlık
 
 **Başat mevzuat:** TBK 6098
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/borclar-hukuku-genel](https://turk-hukuku.com/beceriler/borclar-hukuku-genel/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@ Sağlık hukuku: hekimin hukuki/cezai sorumluluğu, aydınlatılmış onam, malp
 
 **Başat mevzuat:** 1219, 3359, TBK 6098
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/saglik-hukuku](https://turk-hukuku.com/beceriler/saglik-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@ Vergi yargısı: vergi/ceza ihbarnamesine ve ödeme emrine karşı dava, ihtiraz
 
 **Başat mevzuat:** 213 VUK, 2577 İYUK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/vergi-davalari](https://turk-hukuku.com/beceriler/vergi-davalari/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

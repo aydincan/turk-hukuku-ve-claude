@@ -4,6 +4,9 @@ TCK özel hükümler: kişilere karşı (yaralama, tehdit, hakaret), malvarlığ
 
 **Başat mevzuat:** TCK 5237
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/ceza-hukuku-ozel](https://turk-hukuku.com/beceriler/ceza-hukuku-ozel/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

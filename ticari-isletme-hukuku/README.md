@@ -4,6 +4,9 @@ TTK genel hükümler ve ticari işletme: tacir sıfatı ve sonuçları, ticari i
 
 **Başat mevzuat:** TTK 6102
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/ticari-isletme-hukuku](https://turk-hukuku.com/beceriler/ticari-isletme-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

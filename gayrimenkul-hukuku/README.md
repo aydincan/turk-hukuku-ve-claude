@@ -4,6 +4,9 @@ Gayrimenkul işlem ve uyuşmazlıkları: taşınmaz satış vaadi, kat karşıl�
 
 **Başat mevzuat:** TMK 4721, TBK 6098, 634 KMK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/gayrimenkul-hukuku](https://turk-hukuku.com/beceriler/gayrimenkul-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

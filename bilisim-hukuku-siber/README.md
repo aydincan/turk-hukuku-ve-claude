@@ -4,6 +4,9 @@ Bilişim hukuku: bilişim suçları (TCK m.243-245), veri ihlali ve siber olay m
 
 **Başat mevzuat:** TCK 5237, 6698 KVKK, 5651
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/bilisim-hukuku-siber](https://turk-hukuku.com/beceriler/bilisim-hukuku-siber/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

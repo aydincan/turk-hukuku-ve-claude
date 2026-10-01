@@ -4,6 +4,9 @@ Türk medeni hukukunun tarihî kökenleri: Roma hukuku kavramları, pandekt sist
 
 **Başat mevzuat:** —
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/roma-hukuku](https://turk-hukuku.com/beceriler/roma-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

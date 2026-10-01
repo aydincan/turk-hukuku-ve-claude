@@ -4,6 +4,9 @@ Birleşme-devralma işlemleri: hukuki durum tespiti (due diligence), pay/varlık
 
 **Başat mevzuat:** TTK 6102, 6362 SPK, 4054
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/birlesme-devralma-ma](https://turk-hukuku.com/beceriler/birlesme-devralma-ma/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

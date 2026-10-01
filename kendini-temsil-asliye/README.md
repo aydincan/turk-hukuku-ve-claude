@@ -4,6 +4,9 @@ Vekille temsil edilmeyen tarafa rehber: küçük alacak ve sulh hukuk uyuşmazl�
 
 **Başat mevzuat:** HMK 6100
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/kendini-temsil-asliye](https://turk-hukuku.com/beceriler/kendini-temsil-asliye/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

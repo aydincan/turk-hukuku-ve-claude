@@ -4,6 +4,9 @@ Kıymetli evrak ve kambiyo senetleri: çek, bono ve poliçenin unsurları, ciro 
 
 **Başat mevzuat:** TTK 6102, 5941 Çek K.
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/kiymetli-evrak](https://turk-hukuku.com/beceriler/kiymetli-evrak/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

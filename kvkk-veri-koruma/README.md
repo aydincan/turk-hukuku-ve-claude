@@ -4,6 +4,9 @@ KVKK uyumu: veri işleme şartları ve açık rıza, aydınlatma yükümlülüğ
 
 **Başat mevzuat:** 6698 KVKK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/kvkk-veri-koruma](https://turk-hukuku.com/beceriler/kvkk-veri-koruma/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

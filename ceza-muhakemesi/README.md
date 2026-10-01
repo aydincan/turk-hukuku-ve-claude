@@ -4,6 +4,9 @@ Ceza muhakemesi: soruşturma ve kovuşturma, koruma tedbirleri (yakalama, gözal
 
 **Başat mevzuat:** CMK 5271
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/ceza-muhakemesi](https://turk-hukuku.com/beceriler/ceza-muhakemesi/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

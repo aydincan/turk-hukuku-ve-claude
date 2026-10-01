@@ -4,6 +4,9 @@ Fikir ve Sanat Eserleri Kanunu: eser türleri ve sahipliği, mali ve manevi hakl
 
 **Başat mevzuat:** 5846 FSEK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/telif-haklari](https://turk-hukuku.com/beceriler/telif-haklari/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@ Türk hukukçusunun ev içi atıf düzeni: içtihat yalnızca mahkeme, daire, es
 
 **Başat mevzuat:** —
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/atif-turk-hukuku](https://turk-hukuku.com/beceriler/atif-turk-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

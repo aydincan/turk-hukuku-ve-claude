@@ -4,6 +4,9 @@ Elektronik ticaret: 6563 sayılı Kanun — hizmet/aracı hizmet sağlayıcı y�
 
 **Başat mevzuat:** 6563, 6502 TKHK, 6698 KVKK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/e-ticaret-hukuku](https://turk-hukuku.com/beceriler/e-ticaret-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

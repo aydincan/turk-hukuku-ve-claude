@@ -4,6 +4,9 @@ Gümrük ve dış ticaret: 4458 sayılı Gümrük Kanunu — gümrük rejimleri,
 
 **Başat mevzuat:** 4458
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/gumruk-disticaret](https://turk-hukuku.com/beceriler/gumruk-disticaret/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

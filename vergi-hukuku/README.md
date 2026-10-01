@@ -4,6 +4,9 @@ Vergi hukuku: VUK genel esasları, vergiyi doğuran olay ve tarhiyat, vergi ziya
 
 **Başat mevzuat:** 213 VUK, 193 GVK, 5520 KVK, 3065 KDV
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/vergi-hukuku](https://turk-hukuku.com/beceriler/vergi-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

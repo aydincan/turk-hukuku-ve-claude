@@ -4,6 +4,9 @@ Basın ve medya hukuku: basın özgürlüğü ile kişilik hakkı dengesi, cevap
 
 **Başat mevzuat:** 5187, TCK 5237, TMK 4721
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/basin-medya-hukuku](https://turk-hukuku.com/beceriler/basin-medya-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

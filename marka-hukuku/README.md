@@ -4,6 +4,9 @@ Marka hukuku: 6769 sayılı SMK kapsamında marka tescili ve mutlak/nispi ret se
 
 **Başat mevzuat:** 6769 SMK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/marka-hukuku](https://turk-hukuku.com/beceriler/marka-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

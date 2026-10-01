@@ -4,6 +4,9 @@ Sermaye piyasası: 6362 sayılı Kanun kapsamında halka arz ve izahname, kamuyu
 
 **Başat mevzuat:** 6362 SPK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/sermaye-piyasasi-hukuku](https://turk-hukuku.com/beceriler/sermaye-piyasasi-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@ Konkordato hukuku: geçici ve kesin mühlet, konkordato komiseri ve alacaklılar
 
 **Başat mevzuat:** 2004 İİK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/konkordato-yeniden-yapilandirma](https://turk-hukuku.com/beceriler/konkordato-yeniden-yapilandirma/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

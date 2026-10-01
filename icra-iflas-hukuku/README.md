@@ -4,6 +4,9 @@
 
 **Başat mevzuat:** 2004 İİK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/icra-iflas-hukuku](https://turk-hukuku.com/beceriler/icra-iflas-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

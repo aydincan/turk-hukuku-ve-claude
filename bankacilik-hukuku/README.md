@@ -4,6 +4,9 @@ Bankacılık hukuku: 5411 sayılı Kanun çerçevesinde bankacılık faaliyeti v
 
 **Başat mevzuat:** 5411, 6098 TBK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/bankacilik-hukuku](https://turk-hukuku.com/beceriler/bankacilik-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

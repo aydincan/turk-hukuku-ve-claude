@@ -4,6 +4,9 @@ Yabancılar ve uluslararası koruma: 6458 sayılı Kanun — ikamet izinleri, s�
 
 **Başat mevzuat:** 6458 YUKK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/goc-yabancilar-hukuku](https://turk-hukuku.com/beceriler/goc-yabancilar-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

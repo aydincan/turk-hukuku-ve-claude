@@ -4,6 +4,9 @@ Sosyal güvenlik: 5510 sayılı Kanun — sigortalılık türleri, hizmet tespit
 
 **Başat mevzuat:** 5510
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/sosyal-guvenlik](https://turk-hukuku.com/beceriler/sosyal-guvenlik/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@ Miras hukuku: yasal ve atanmış mirasçılık, saklı paylı mirasçılar (m.50
 
 **Başat mevzuat:** TMK 4721
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/miras-hukuku](https://turk-hukuku.com/beceriler/miras-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

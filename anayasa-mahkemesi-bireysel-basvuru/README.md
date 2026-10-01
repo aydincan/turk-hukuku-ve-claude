@@ -4,6 +4,9 @@ Anayasa Mahkemesi'ne bireysel başvuru: konu ve kişi bakımından yetki, başvu
 
 **Başat mevzuat:** Anayasa 2709, 6216
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/anayasa-mahkemesi-bireysel-basvuru](https://turk-hukuku.com/beceriler/anayasa-mahkemesi-bireysel-basvuru/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

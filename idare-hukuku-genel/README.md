@@ -4,6 +4,9 @@
 
 **Başat mevzuat:** Anayasa 2709, 2577 İYUK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/idare-hukuku-genel](https://turk-hukuku.com/beceriler/idare-hukuku-genel/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

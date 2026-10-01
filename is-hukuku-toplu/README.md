@@ -4,6 +4,9 @@ Toplu iş hukuku: 6356 sayılı Kanun — sendika özgürlüğü ve güvenceler,
 
 **Başat mevzuat:** 6356
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/is-hukuku-toplu](https://turk-hukuku.com/beceriler/is-hukuku-toplu/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

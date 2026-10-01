@@ -4,6 +4,9 @@ Spor hukuku: federasyon ve TFF düzenlemeleri, disiplin ve tahkim (Tahkim Kurulu
 
 **Başat mevzuat:** 7405, 6222, TFF
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/spor-hukuku](https://turk-hukuku.com/beceriler/spor-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

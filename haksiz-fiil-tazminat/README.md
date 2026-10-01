@@ -4,6 +4,9 @@ Haksız fiil sorumluluğu: TBK m.49 vd. unsurları (fiil, hukuka aykırılık, k
 
 **Başat mevzuat:** TBK 6098
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/haksiz-fiil-tazminat](https://turk-hukuku.com/beceriler/haksiz-fiil-tazminat/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@ Tasarım hukuku: tescilli ve tescilsiz tasarım koruması, yenilik ve ayırt edi
 
 **Başat mevzuat:** 6769 SMK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/tasarim-hukuku](https://turk-hukuku.com/beceriler/tasarim-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

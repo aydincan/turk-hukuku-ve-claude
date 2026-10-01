@@ -4,6 +4,9 @@ Deniz ticareti: gemi ve donatan, navlun sözleşmeleri ve konişmento, deniz ala
 
 **Başat mevzuat:** TTK 6102
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/deniz-ticareti-hukuku](https://turk-hukuku.com/beceriler/deniz-ticareti-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

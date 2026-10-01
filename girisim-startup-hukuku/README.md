@@ -4,6 +4,9 @@ Girişim hukuku: kuruluş ve ortaklık yapısı, yatırım turları, term sheet,
 
 **Başat mevzuat:** TTK 6102, TBK 6098
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/girisim-startup-hukuku](https://turk-hukuku.com/beceriler/girisim-startup-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

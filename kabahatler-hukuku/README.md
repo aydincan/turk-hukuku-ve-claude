@@ -4,6 +4,9 @@ Kabahatler hukuku: 5326 sayılı Kanun — idari para cezalarının genel rejimi
 
 **Başat mevzuat:** 5326
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/kabahatler-hukuku](https://turk-hukuku.com/beceriler/kabahatler-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

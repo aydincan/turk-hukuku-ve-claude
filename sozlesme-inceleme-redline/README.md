@@ -4,6 +4,9 @@ Sözleşme inceleme: madde madde risk analizi, eksik/asimetrik/geçersiz şart t
 
 **Başat mevzuat:** TBK 6098
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/sozlesme-inceleme-redline](https://turk-hukuku.com/beceriler/sozlesme-inceleme-redline/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

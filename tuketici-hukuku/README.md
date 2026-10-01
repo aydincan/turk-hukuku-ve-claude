@@ -4,6 +4,9 @@ Tüketicinin Korunması Hakkında Kanun uygulaması: ayıplı mal/hizmet, cayma 
 
 **Başat mevzuat:** 6502 TKHK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/tuketici-hukuku](https://turk-hukuku.com/beceriler/tuketici-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

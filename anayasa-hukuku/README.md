@@ -4,6 +4,9 @@ Anayasa hukuku: temel hak ve hürriyetlerin sınırlanması rejimi (m.13), ölç
 
 **Başat mevzuat:** Anayasa 2709
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/anayasa-hukuku](https://turk-hukuku.com/beceriler/anayasa-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

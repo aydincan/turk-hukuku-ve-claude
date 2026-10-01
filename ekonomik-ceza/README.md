@@ -4,6 +4,9 @@ Ekonomik ceza hukuku: aklama (5549/MASAK), vergi kaçakçılığı (VUK m.359), 
 
 **Başat mevzuat:** TCK 5237, 5549, 6362 SPK, 213 VUK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/ekonomik-ceza](https://turk-hukuku.com/beceriler/ekonomik-ceza/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

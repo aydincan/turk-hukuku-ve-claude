@@ -4,6 +4,9 @@ Sigorta hukuku: sigorta sözleşmesi, beyan yükümlülüğü, prim ve riziko, t
 
 **Başat mevzuat:** TTK 6102, 5684
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/sigorta-hukuku](https://turk-hukuku.com/beceriler/sigorta-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@ Tapu ve kadastro uygulaması: tapu sicili ilkeleri, kadastro tespitine itiraz, t
 
 **Başat mevzuat:** TMK 4721, 3402, 2644
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/tapu-kadastro](https://turk-hukuku.com/beceriler/tapu-kadastro/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

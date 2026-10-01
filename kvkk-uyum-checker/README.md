@@ -4,6 +4,9 @@ KVKK uyum tarayıcısı: veri işleme envanteri, aydınlatma ve açık rıza met
 
 **Başat mevzuat:** 6698 KVKK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/kvkk-uyum-checker](https://turk-hukuku.com/beceriler/kvkk-uyum-checker/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

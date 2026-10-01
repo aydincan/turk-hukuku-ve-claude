@@ -4,6 +4,9 @@ TMK başlangıç hükümleri ve genel ilkeler: dürüstlük kuralı (m.2), iyini
 
 **Başat mevzuat:** TMK 4721
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/medeni-hukuk-baslangic](https://turk-hukuku.com/beceriler/medeni-hukuk-baslangic/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@ Medeni yargılama: 6100 sayılı HMK — dava şartları ve ilk itirazlar, göre
 
 **Başat mevzuat:** HMK 6100
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/hukuk-muhakemesi](https://turk-hukuku.com/beceriler/hukuk-muhakemesi/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

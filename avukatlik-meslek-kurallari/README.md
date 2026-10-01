@@ -4,6 +4,9 @@ Avukatlık hukuku: 1136 sayılı Kanun ve meslek kuralları — sır saklama, ç
 
 **Başat mevzuat:** 1136
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/avukatlik-meslek-kurallari](https://turk-hukuku.com/beceriler/avukatlik-meslek-kurallari/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

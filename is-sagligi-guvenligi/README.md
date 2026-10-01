@@ -4,6 +4,9 @@
 
 **Başat mevzuat:** 6331
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/is-sagligi-guvenligi](https://turk-hukuku.com/beceriler/is-sagligi-guvenligi/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

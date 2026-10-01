@@ -4,6 +4,9 @@ Telekom ve internet düzenlemesi: 5809 sayılı Kanun ve BTK yetkilendirme, 5651
 
 **Başat mevzuat:** 5809, BTK, 5651
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/telekomunikasyon-bilisim](https://turk-hukuku.com/beceriler/telekomunikasyon-bilisim/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

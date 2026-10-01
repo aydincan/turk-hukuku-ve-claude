@@ -4,6 +4,9 @@ Fikri ve sınai haklarda dava: Fikri ve Sınai Haklar Hukuk/Ceza Mahkemeleri, ih
 
 **Başat mevzuat:** 6769 SMK, 5846 FSEK, HMK 6100
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/fikri-mulkiyet-dava](https://turk-hukuku.com/beceriler/fikri-mulkiyet-dava/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

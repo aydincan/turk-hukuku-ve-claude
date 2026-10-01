@@ -4,6 +4,9 @@ Sebepsiz zenginleşmeden doğan borç ilişkisi: TBK m.77 vd. — haklı sebep o
 
 **Başat mevzuat:** TBK 6098
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/sebepsiz-zenginlesme](https://turk-hukuku.com/beceriler/sebepsiz-zenginlesme/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

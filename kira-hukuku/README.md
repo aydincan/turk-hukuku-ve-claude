@@ -4,6 +4,9 @@ Konut ve çatılı işyeri kiraları: kira sözleşmesi, kira bedelinin belirlen
 
 **Başat mevzuat:** TBK 6098
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/kira-hukuku](https://turk-hukuku.com/beceriler/kira-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@
 
 **Başat mevzuat:** 4857 İş K., 6698 KVKK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/ik-insan-kaynaklari](https://turk-hukuku.com/beceriler/ik-insan-kaynaklari/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

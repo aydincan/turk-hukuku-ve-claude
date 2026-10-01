@@ -4,6 +4,9 @@ Enerji hukuku: EPDK düzenlemesi altında elektrik/doğal gaz piyasaları, lisan
 
 **Başat mevzuat:** 6446, 4646, EPDK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/enerji-hukuku](https://turk-hukuku.com/beceriler/enerji-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@ Rekabet hukuku: 4054 sayılı Kanun — rekabeti sınırlayıcı anlaşmalar (m.
 
 **Başat mevzuat:** 4054
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/rekabet-hukuku](https://turk-hukuku.com/beceriler/rekabet-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

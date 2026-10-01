@@ -4,6 +4,9 @@ Kat Mülkiyeti Kanunu uygulaması: kat irtifakı/kat mülkiyeti kurulması, yön
 
 **Başat mevzuat:** 634 KMK, TMK 4721
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/kat-mulkiyeti](https://turk-hukuku.com/beceriler/kat-mulkiyeti/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

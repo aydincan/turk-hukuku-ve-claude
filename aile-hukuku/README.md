@@ -4,6 +4,9 @@ Aile hukuku uygulaması: evlenme, boşanma sebepleri (TMK m.161-166), nafaka tü
 
 **Başat mevzuat:** TMK 4721, 6284
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/aile-hukuku](https://turk-hukuku.com/beceriler/aile-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

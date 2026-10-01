@@ -4,6 +4,9 @@ Sade hukuk dili: karmaşık dilekçe, karar ve sözleşmeleri müvekkilin anlaya
 
 **Başat mevzuat:** —
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/sade-hukuk-dili](https://turk-hukuku.com/beceriler/sade-hukuk-dili/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

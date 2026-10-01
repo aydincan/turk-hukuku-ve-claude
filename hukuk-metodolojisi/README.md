@@ -4,6 +4,9 @@ Türk hukukunda yöntem ve hukuk uygulaması: TMK m.1 çerçevesinde lafzî/ama�
 
 **Başat mevzuat:** TMK m.1, Anayasa
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/hukuk-metodolojisi](https://turk-hukuku.com/beceriler/hukuk-metodolojisi/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

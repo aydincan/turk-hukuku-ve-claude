@@ -4,6 +4,9 @@ Ceza ve güvenlik tedbirlerinin infazı: 5275 sayılı Kanun — infaz rejimi ve
 
 **Başat mevzuat:** 5275
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/infaz-hukuku](https://turk-hukuku.com/beceriler/infaz-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

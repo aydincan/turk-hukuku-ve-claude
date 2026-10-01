@@ -4,6 +4,9 @@ Sermaye şirketleri: anonim ve limited şirket kuruluşu, organlar, pay ve pay s
 
 **Başat mevzuat:** TTK 6102
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/sirketler-hukuku](https://turk-hukuku.com/beceriler/sirketler-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

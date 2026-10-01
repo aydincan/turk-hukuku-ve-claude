@@ -4,6 +4,9 @@ Layiha üretimi: HMK/İYUK/CMK'ya uygun dava, cevap, replik-düplik, istinaf ve 
 
 **Başat mevzuat:** HMK 6100, CMK 5271, 2577 İYUK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/dava-dilekce-atolyesi](https://turk-hukuku.com/beceriler/dava-dilekce-atolyesi/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

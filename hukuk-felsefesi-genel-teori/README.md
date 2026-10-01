@@ -4,6 +4,9 @@ Hukuk teorisi ve felsefesi katmanı: hukuki pozitivizm, doğal hukuk, norm geçe
 
 **Başat mevzuat:** —
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/hukuk-felsefesi-genel-teori](https://turk-hukuku.com/beceriler/hukuk-felsefesi-genel-teori/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

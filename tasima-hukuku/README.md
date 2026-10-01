@@ -4,6 +4,9 @@ Kara taşıması ve lojistik: TTK taşıma hükümleri ve CMR Konvansiyonu, taş
 
 **Başat mevzuat:** TTK 6102, CMR
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/tasima-hukuku](https://turk-hukuku.com/beceriler/tasima-hukuku/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

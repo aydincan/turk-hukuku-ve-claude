@@ -338,6 +338,9 @@ def build_plugin_readme(plugin, beceriler, pazar):
 
 **Başat mevzuat:** {kanunlar}
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/{plugin['slug']}](https://turk-hukuku.com/beceriler/{plugin['slug']}/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).
@@ -429,7 +432,7 @@ def build_root_readme(pazar, gruplar, eklentiler, skill_counts):
         if not gege:
             continue
         satirlar = "\n".join(
-            f"| `{e['slug']}` | {e['baslik']} | {e['aciklama']} |"
+            f"| `{e['slug']}` | [{e['baslik']}](https://turk-hukuku.com/beceriler/{e['slug']}/) | {e['aciklama']} |"
             for e in gege
         )
         bloklar.append(f"### {gad}\n\n| Eklenti | Başlık | Açıklama |\n|---|---|---|\n{satirlar}\n")
@@ -448,6 +451,10 @@ def build_root_readme(pazar, gruplar, eklentiler, skill_counts):
 **Yazar:** {pazar['sahip']}
 
 > *{pazar.get('ithaf', '')}*
+
+> **Terminal kullanmıyor musunuz?** Aynı beceriler ve resmî kaynak bağlantısı, Mac ve Windows
+> için bir [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var: indirin, yapay
+> zekâ anahtarınızı ekleyin, sorun. Tüm hukuk alanları ve rehberler: [turk-hukuku.com](https://turk-hukuku.com/).
 
 ---
 

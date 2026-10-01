@@ -4,6 +4,9 @@ Bilirkişi raporu analizi: görevlendirme kapsamına uygunluk, metodoloji ve day
 
 **Başat mevzuat:** HMK 6100, 6754
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/bilirkisi-rapor-inceleme](https://turk-hukuku.com/beceriler/bilirkisi-rapor-inceleme/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

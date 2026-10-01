@@ -4,6 +4,9 @@ Hukuk bürosu işletmesi: müvekkil kabulü ve çıkar çatışması taraması, 
 
 **Başat mevzuat:** 1136, 6698 KVKK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/hukuk-burosu-yonetimi](https://turk-hukuku.com/beceriler/hukuk-burosu-yonetimi/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

@@ -4,6 +4,9 @@ TCK genel hükümler ve suç genel teorisi: tipiklik, hukuka aykırılık ve kus
 
 **Başat mevzuat:** TCK 5237
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/ceza-hukuku-genel](https://turk-hukuku.com/beceriler/ceza-hukuku-genel/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

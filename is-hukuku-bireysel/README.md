@@ -4,6 +4,9 @@ Bireysel iş hukuku: iş sözleşmesi türleri, feshin geçerli/haklı sebebi, i
 
 **Başat mevzuat:** 4857 İş K., TBK 6098
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/is-hukuku-bireysel](https://turk-hukuku.com/beceriler/is-hukuku-bireysel/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

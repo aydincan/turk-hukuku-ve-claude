@@ -4,6 +4,9 @@ Hukuki mütalaa ve görüş yazımı: olayın tespiti, hukuki sorunun çerçevel
 
 **Başat mevzuat:** —
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/hukuki-mutalaa](https://turk-hukuku.com/beceriler/hukuki-mutalaa/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

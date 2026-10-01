@@ -4,6 +4,9 @@ Dava dosyası işleme: yapılandırılmış dosya özeti, taraf-vekil ve süre t
 
 **Başat mevzuat:** HMK 6100, CMK 5271
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/dava-dosya-takip](https://turk-hukuku.com/beceriler/dava-dosya-takip/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).

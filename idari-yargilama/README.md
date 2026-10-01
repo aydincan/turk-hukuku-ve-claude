@@ -4,6 +4,9 @@
 
 **Başat mevzuat:** 2577 İYUK
 
+**Alan sayfası:** [turk-hukuku.com/beceriler/idari-yargilama](https://turk-hukuku.com/beceriler/idari-yargilama/) ·
+Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var.
+
 ## Beceriler
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme (önce bunu çalıştırın).
