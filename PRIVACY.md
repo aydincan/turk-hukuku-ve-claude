@@ -21,7 +21,8 @@ Bu sunucular bu depoya **dahil değildir**; ayrı olarak kurulur ve her birinin 
 notuna tabidir.
 
 - Bu sunucular, **yalnızca sizin yaptığınız sorguyu** ilgili resmî ve kamuya açık kaynaklara
-  (`mevzuat.gov.tr`, UYAP Emsal, Yargıtay / Danıştay / AYM karar siteleri) iletir.
+  (`mevzuat.gov.tr`, Adalet Bakanlığı ve UYAP Emsal karar bankaları, Danıştay ve AYM karar
+  siteleri) iletir.
 - **Hiçbir kişisel veri toplamaz, saklamaz veya proje sahibine göndermez; telemetri yoktur.**
 - Sorgu metninizde müvekkil veya kişisel veri bulundurmamaya dikkat edin (KVKK, meslek sırrı).
 
