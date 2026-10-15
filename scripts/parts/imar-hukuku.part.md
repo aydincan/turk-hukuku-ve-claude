@@ -67,7 +67,7 @@ Bir imar planı veya plan değişikliğinin hukuka uygunluğunu denetlemek; ipta
 
 ## Soğuk başlangıç (intake)
 - Plan hangi ölçekte (1/5000 nazım, 1/1000 uygulama) ve hangi idarece onaylandı?
-- Plan/değişiklik askıya çıktı mı, askı tarihleri neler, itiraz ettiniz mi?
+- Plan/değişiklik askıya çıktı mı, askı tarihleri neler, müvekkil itiraz etti mi?
 - Müvekkilin taşınmazı plan sınırı içinde mi, menfaati nasıl etkileniyor?
 - Üst ölçekli plana veya ada/parsel dengesine aykırılık iddiası var mı?
 

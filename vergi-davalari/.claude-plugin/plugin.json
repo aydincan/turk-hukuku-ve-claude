@@ -1,6 +1,6 @@
 {
   "name": "vergi-davalari",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Vergi yargısı: vergi/ceza ihbarnamesine ve ödeme emrine karşı dava, ihtirazi kayıtla beyan, dava açma süreleri, yürütmenin durdurulması, matrah/ceza denetimi; vergi mahkemesi-BİM-Danıştay yolu.",
   "license": "Apache-2.0 OR MIT",
   "author": {

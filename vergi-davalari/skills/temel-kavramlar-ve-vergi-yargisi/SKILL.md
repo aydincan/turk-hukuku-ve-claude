@@ -10,7 +10,7 @@ Müvekkilin elindeki belgeden hareketle uyuşmazlığı doğru sınıflandırmak
 
 ## Soğuk başlangıç (intake)
 1. Elinizde tam olarak hangi belge var: vergi/ceza ihbarnamesi mi, ödeme emri mi, düzeltme/şikâyet reddi mi, ihtiyati haciz/tahakkuk yazısı mı?
-2. Belge size ne zaman tebliğ edildi (eline geçti)? Tebligat usulü ne?
+2. Belge mükellefe ne zaman tebliğ edildi (eline geçti)? Tebligat usulü ne?
 3. Uyuşmazlık verginin aslına mı, cezaya mı, faize/gecikme zammına mı yoksa tahsil aşamasına mı ilişkin?
 4. Daha önce uzlaşma, düzeltme veya izaha davet süreci işletildi mi?
 
@@ -52,10 +52,23 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
   açıklamalarındadır. Bu sunucular varsa doğrulamada önce onları kullan ve dönen
   künyeyi aynen aktar; yoksa yukarıdaki künye kuralları aynen geçerlidir.
 
+## Kimin için
+
+Bu beceri avukatlar ve hukukçular içindir (avukat, stajyer avukat, şirket hukukçusu,
+akademisyen, hukuk öğrencisi). Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse:
+kanunun ne dediğini ve ilgili kararları genel olarak açıkla, resmî metni getir; bir süre
+işliyor olabilirse kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş,
+strateji, sonuç tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme.
+Vakit kaybetmeden bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu
+sınırı yanıtta açıkça söyle.
+
 ## Bu beceri ne yapmaz
 
 - Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
   hukukçudadır.
+- Hukukçu olmayan bir kişiye kendi somut işi için hukuki görüş, strateji önerisi, sonuç
+  tahmini ya da imzalanmaya veya verilmeye hazır belge sunmaz; genel bilgi ve resmî metinle
+  yetinir, bir avukata ya da baronun adli yardım bürosuna yönlendirir.
 - Müvekkili, onun açık kararı olmadan bağlamaz.
 - Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
 - Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
@@ -63,6 +76,8 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
 
 ---
 
-*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
-sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
-edilmelidir. Hukuki danışmanlık değildir.*
+*Bu beceri hukukçular içindir ve hukukçunun çalışmasını yapılandırır; deneyseldir ve tek
+başına hukuki sonuç doğurmaz. Çıktılar taslaktır; kullanılmadan önce dosyayı üstlenen
+yetkili hukukçu tarafından incelenmeli, yürürlükteki mevzuat ve doğrulanmış içtihatla teyit
+edilmelidir. Müvekkile ya da başka bir kişiye iletilecek metinlerde yapay zekâdan
+yararlanıldığı belirtilmelidir. Hukuki danışmanlık değildir.*

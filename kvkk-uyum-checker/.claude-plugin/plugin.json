@@ -1,6 +1,6 @@
 {
   "name": "kvkk-uyum-checker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "KVKK uyum tarayıcısı: veri işleme envanteri, aydınlatma ve açık rıza metinleri, saklama-imha politikası, aktarım ve VERBİS kontrolü; uyum boşluğu raporu ve eylem planı çıktısı.",
   "license": "Apache-2.0 OR MIT",
   "author": {

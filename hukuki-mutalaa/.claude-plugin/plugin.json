@@ -1,7 +1,7 @@
 {
   "name": "hukuki-mutalaa",
-  "version": "1.0.0",
-  "description": "Hukuki mütalaa ve görüş yazımı: olayın tespiti, hukuki sorunun çerçevelenmesi, mevzuat-içtihat-doktrin değerlendirmesi (altlama), seçeneklerin tartılması ve gerekçeli sonuç; risk haritası ve eylem önerisi.",
+  "version": "1.1.0",
+  "description": "Avukatlar ve akademisyenler için hukuki mütalaa taslağı: olayın tespiti, hukuki sorunun çerçevelenmesi, mevzuat, içtihat ve doktrin değerlendirmesi (altlama), seçeneklerin tartılması ve gerekçeli sonuç; risk haritası ve eylem önerisi, mütalaayı imzalayacak hukukçunun değerlendirmesi için.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Aydın Can Polatkan"

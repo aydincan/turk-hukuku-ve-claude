@@ -35,7 +35,7 @@ Toplu iş hukukunun üç sütununu (sendika özgürlüğü, toplu iş sözleşme
 ## Soğuk başlangıç (intake)
 - Taraflar kim: işçi/sendika/işveren/işveren sendikası mı?
 - Uyuşmazlık mevcut bir TİS'in yorum-uygulamasından mı (hak), yoksa yeni TİS şartlarından mı (menfaat) doğuyor?
-- İşyeri/işletme düzeyi ne; hangi işkolundasınız?
+- İşyeri/işletme düzeyi ne; işyeri hangi işkolunda?
 - Yürürlükte TİS var mı, süresi nedir?
 
 ## Denetim şeması

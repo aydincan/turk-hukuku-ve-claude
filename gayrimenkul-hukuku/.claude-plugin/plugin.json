@@ -1,6 +1,6 @@
 {
   "name": "gayrimenkul-hukuku",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Gayrimenkul işlem ve uyuşmazlıkları: taşınmaz satış vaadi, kat karşılığı inşaat sözleşmesi, arsa payı düzeltimi, ön ödemeli konut satışı; tapu, sözleşme ve dava boyutlarının birlikte ele alındığı uygulama eklentisi.",
   "license": "Apache-2.0 OR MIT",
   "author": {

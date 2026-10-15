@@ -1,6 +1,6 @@
 {
   "name": "telekomunikasyon-bilisim",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Telekom ve internet düzenlemesi: 5809 sayılı Kanun ve BTK yetkilendirme, 5651 kapsamında içerik/yer/erişim sağlayıcı sorumluluğu, erişim engelleme ve içerik kaldırma; düzenleyici uyum.",
   "license": "Apache-2.0 OR MIT",
   "author": {

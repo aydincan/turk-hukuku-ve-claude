@@ -1,6 +1,6 @@
 {
   "name": "sirketler-hukuku",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sermaye şirketleri: anonim ve limited şirket kuruluşu, organlar, pay ve pay sahipliği, sermaye artırımı/azaltımı, yönetici sorumluluğu (TTK m.553 vd.), sermaye kaybı ve borca batıklık (TTK m.376).",
   "license": "Apache-2.0 OR MIT",
   "author": {

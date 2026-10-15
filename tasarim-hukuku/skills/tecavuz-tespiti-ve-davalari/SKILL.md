@@ -19,7 +19,7 @@ Tasarım hakkına tecavüzü tespit etmek ve uygun davaları/talepleri belirleme
 2. Koruma kapsamı karşılaştırması (SMK m.57): "Bilgilenmiş kullanıcı"da bıraktığı genel izlenim aynı/ayırt edilemez ise tecavüz vardır. Karşılaştırma görsel ve bütünseldir; seçenek özgürlüğü darsa benzerlik eşiği yükselir.
 3. Önceki kullanım / tüketilme: Sessiz kalma yoluyla hak kaybı (SMK m.81/3 ve genel hükümler), hakkın tüketilmesi (m.152) ve ön kullanım hakkı (m.81/2'ye bağlı durumlar) savunma olarak değerlendirilir.
 4. Talepler (SMK m.149): Tecavüzün tespiti, durdurulması (men), giderilmesi (ref), maddi ve manevi tazminat, el koyma, ürünler/araçlar üzerinde mülkiyet/imha/şekil değiştirme, kararın ilanı. İhtiyati tedbir için m.159 ve HMK m.389 vd.
-5. Hükümsüzlük def'i (SMK m.81/2): Tecavüz davasında davalı, tasarımın hükümsüz olduğunu def'i olarak ileri sürebilir; hükümsüzlük tespitiyle tecavüz iddiası düşer. Bu nedenle dava açmadan önce kendi tasarımınızın geçerliliğini test edin.
+5. Hükümsüzlük def'i (SMK m.81/2): Tecavüz davasında davalı, tasarımın hükümsüz olduğunu def'i olarak ileri sürebilir; hükümsüzlük tespitiyle tecavüz iddiası düşer. Bu nedenle dava açmadan önce müvekkilin tasarımının geçerliliği test edilir.
 6. Görev/yetki (SMK m.156): FSHHM; yetki davalının yerleşim yeri veya tecavüzün işlendiği yer.
 
 ## Çıktı modülleri
@@ -53,10 +53,23 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
   açıklamalarındadır. Bu sunucular varsa doğrulamada önce onları kullan ve dönen
   künyeyi aynen aktar; yoksa yukarıdaki künye kuralları aynen geçerlidir.
 
+## Kimin için
+
+Bu beceri avukatlar ve hukukçular içindir (avukat, stajyer avukat, şirket hukukçusu,
+akademisyen, hukuk öğrencisi). Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse:
+kanunun ne dediğini ve ilgili kararları genel olarak açıkla, resmî metni getir; bir süre
+işliyor olabilirse kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş,
+strateji, sonuç tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme.
+Vakit kaybetmeden bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu
+sınırı yanıtta açıkça söyle.
+
 ## Bu beceri ne yapmaz
 
 - Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
   hukukçudadır.
+- Hukukçu olmayan bir kişiye kendi somut işi için hukuki görüş, strateji önerisi, sonuç
+  tahmini ya da imzalanmaya veya verilmeye hazır belge sunmaz; genel bilgi ve resmî metinle
+  yetinir, bir avukata ya da baronun adli yardım bürosuna yönlendirir.
 - Müvekkili, onun açık kararı olmadan bağlamaz.
 - Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
 - Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
@@ -64,6 +77,8 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
 
 ---
 
-*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
-sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
-edilmelidir. Hukuki danışmanlık değildir.*
+*Bu beceri hukukçular içindir ve hukukçunun çalışmasını yapılandırır; deneyseldir ve tek
+başına hukuki sonuç doğurmaz. Çıktılar taslaktır; kullanılmadan önce dosyayı üstlenen
+yetkili hukukçu tarafından incelenmeli, yürürlükteki mevzuat ve doğrulanmış içtihatla teyit
+edilmelidir. Müvekkile ya da başka bir kişiye iletilecek metinlerde yapay zekâdan
+yararlanıldığı belirtilmelidir. Hukuki danışmanlık değildir.*

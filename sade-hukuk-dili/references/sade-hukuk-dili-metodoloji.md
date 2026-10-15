@@ -52,4 +52,5 @@ varsa "[doğrulanacak]" işaretiyle bırakılır, tahminle doldurulmaz.
 Her sade dil ürününde okuyucu kitlesi (müvekkil/karşı taraf/üçüncü kişi), aktarılan belgenin
 künyesi, sadeleştirme düzeyi ve asıl metne yönlendirme bulunmalıdır. Eksik bilgi varsa metne
 "[doldurulacak]" yer tutucusu konur; hukukçu olmayan okuyucuyu yanıltacak kesinlik iddiasından
-kaçınılır.
+kaçınılır. Müvekkile ya da başka bir kişiye iletilecek metinlerde, hazırlanmasında yapay
+zekâdan yararlanıldığı belirtilmelidir.

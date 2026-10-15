@@ -1,6 +1,6 @@
 {
   "name": "hukuk-burosu-yonetimi",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Hukuk bürosu işletmesi: müvekkil kabulü ve çıkar çatışması taraması, dosya ve süre yönetimi, vekâlet ücreti ve tahsilat, büro KVKK uyumu, iş akışı ve kalite kontrol panoları.",
   "license": "Apache-2.0 OR MIT",
   "author": {

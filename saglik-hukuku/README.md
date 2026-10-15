@@ -19,7 +19,7 @@ Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://
 - `dava-usul-gorev-yetki` — Tıbbi uyuşmazlıkta hangi mahkemenin görevli ve yetkili olduğunu, hangi dava türünün açılacağını ve dava şartlarını belirlemek için kullanılır; adli/idari yargı ayrımını çözer.
 - `sureler-zamanasimi` — Tıbbi sorumluluk talebinde hangi zamanaşımı süresinin (sözleşme, haksız fiil, idari, cezai) işlediğini ve başlangıç anını hesaplamak için kullanılır; rejim seçiminin tazminat hakkına etkisini ortaya koyar.
 - `ispat-delil-bilirkisi` — Tıbbi uyuşmazlıkta ispat yükünün dağılımını, hangi delillerin toplanacağını ve ATK/bilirkişi raporlarının nasıl denetleneceğini belirlemek için kullanılır.
-- `dilekce-sozlesme-taslagi` — Tıbbi uyuşmazlıkta dava dilekçesi, onam formu, sağlık hizmeti sözleşmesi veya idareye başvuru gibi belgelerin iskeletini üretmek için kullanılır; yer tutucu disipliniyle hazır taslak sağlar.
+- `dilekce-sozlesme-taslagi` — Tıbbi uyuşmazlıkta dava dilekçesi, onam formu, sağlık hizmeti sözleşmesi veya idareye başvuru gibi belgelerin iskeletini üretmek için kullanılır; yer tutucu disipliniyle avukat incelemesine hazır taslak sağlar.
 - `risk-strateji-iletisim` — Tıbbi uyuşmazlıkta hekim, hastane veya hasta tarafının dava başarı şansını, risklerini ve müzakere/sulh seçeneklerini değerlendirmek ve müvekkile sade bir yol haritası sunmak için kullanılır.
 
 ## Kullanım
@@ -30,6 +30,8 @@ Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://
 
 Eklenti kurulduktan sonra Claude'a olayınızı anlatın ya da belgeyi yükleyin; `genel-bakis`
 becerisi sizi uygun uzman beceriye yönlendirir.
+
+Beceriler hukukçular içindir; çıktılar avukat incelemesi için taslaktır.
 
 ---
 

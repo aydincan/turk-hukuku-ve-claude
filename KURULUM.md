@@ -24,6 +24,7 @@ eklentileri kurabilir ya da tümünü ekleyebilirsiniz.
 
 3. **Kullanmaya başlayın:** Claude'a olayınızı anlatın ya da bir belge yükleyin. Eklentinin
    `genel-bakis` becerisi sizi triyajdan geçirir ve uygun uzman beceriye yönlendirir.
+   Beceriler hukukçular içindir; çıktılar avukat incelemesi için taslaktır.
 
 ### Hangi eklentiler önce?
 

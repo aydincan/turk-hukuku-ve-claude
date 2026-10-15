@@ -33,7 +33,7 @@ Girişimi doğru şirket tipi, doğru ortaklık yapısı ve okunabilir bir cap t
 
 ## Soğuk başlangıç (intake)
 1. Şirket tipi nedir (AŞ / Ltd. / henüz kurulmadı) ve neden?
-2. Hangi aşamadasınız: kuruluş, pre-seed, seed, Seri A+ veya çıkış?
+2. Girişim hangi aşamada: kuruluş, pre-seed, seed, Seri A+ veya çıkış?
 3. Mevcut pay dağılımı, kurucu sayısı ve varsa opsiyon havuzu nedir?
 4. Kim temsil ediliyor: girişimci/kurucular mı, yatırımcı mı?
 5. Yurtdışı holding (ör. flip) düşünülüyor mu; yoksa tamamen Türkiye mi?

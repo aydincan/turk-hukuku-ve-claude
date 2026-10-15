@@ -170,7 +170,7 @@ Tescilli markayı geçmişe etkili ortadan kaldıran **hükümsüzlük** (m.25, 
 <<<BECERI>>>
 slug: kullanmama-defi-ve-ispati
 ad: Kullanmama Def'i ve Kullanımın İspatı
-aciklama: Karşı taraf markayı uzun süredir kullanmıyorsa veya size karşı kullanmama itirazı/def'i ileri sürüldüyse; beş yıllık ciddi kullanım koşulu ve ispat yükünü m.9-m.19/2 üzerinden yönetmek için kullanılır.
+aciklama: Karşı taraf markayı uzun süredir kullanmıyorsa veya müvekkile karşı kullanmama itirazı/def'i ileri sürüldüyse; beş yıllık ciddi kullanım koşulu ve ispat yükünü m.9-m.19/2 üzerinden yönetmek için kullanılır.
 <<<GOVDE>>>
 # Kullanmama Def'i ve Kullanımın İspatı
 

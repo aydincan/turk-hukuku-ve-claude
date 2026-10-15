@@ -1,7 +1,7 @@
 {
   "name": "dava-dilekce-atolyesi",
-  "version": "1.0.0",
-  "description": "Layiha üretimi: HMK/İYUK/CMK'ya uygun dava, cevap, replik-düplik, istinaf ve temyiz dilekçeleri; vakıa-hukuki sebep-talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini.",
+  "version": "1.1.0",
+  "description": "Avukatlar için layiha taslağı: HMK, İYUK ve CMK'ya uygun dava, cevap, replik, düplik, istinaf ve temyiz dilekçeleri; vakıa, hukuki sebep ve talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini. Çıktı, avukat denetimine hazır müsveddedir.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Aydın Can Polatkan"

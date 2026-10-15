@@ -38,7 +38,7 @@ Müvekkilin elindeki belgeden hareketle uyuşmazlığı doğru sınıflandırmak
 
 ## Soğuk başlangıç (intake)
 1. Elinizde tam olarak hangi belge var: vergi/ceza ihbarnamesi mi, ödeme emri mi, düzeltme/şikâyet reddi mi, ihtiyati haciz/tahakkuk yazısı mı?
-2. Belge size ne zaman tebliğ edildi (eline geçti)? Tebligat usulü ne?
+2. Belge mükellefe ne zaman tebliğ edildi (eline geçti)? Tebligat usulü ne?
 3. Uyuşmazlık verginin aslına mı, cezaya mı, faize/gecikme zammına mı yoksa tahsil aşamasına mı ilişkin?
 4. Daha önce uzlaşma, düzeltme veya izaha davet süreci işletildi mi?
 
@@ -92,9 +92,9 @@ aciklama: 6183 sayılı Kanun kapsamında düzenlenen ödeme emrine, hacze, e-ha
 Kesinleşmiş ya da kesinleştiği varsayılan kamu alacağının tahsili için çıkarılan ödeme emri ve takip işlemlerine karşı, AATUHK'nın sınırlı itiraz sebepleri çerçevesinde dava kurmak; tahsil aşamasının hukuka uygunluğunu denetlemek.
 
 ## Soğuk başlangıç (intake)
-1. Ödeme emri size ne zaman tebliğ edildi? Üzerindeki alacağın türü ve dönemi ne?
+1. Ödeme emri mükellefe ne zaman tebliğ edildi? Üzerindeki alacağın türü ve dönemi ne?
 2. Bu alacağın aslına ilişkin daha önce ihbarname tebliğ edildi mi, dava açıldı mı?
-3. İtiraz sebebiniz hangisi: böyle bir borç yok / kısmen ödedim / borç zamanaşımına uğradı?
+3. İtiraz sebebi hangisi: böyle bir borç yok / kısmen ödendi / borç zamanaşımına uğradı?
 4. Halihazırda haciz, e-haciz, banka bloke veya ihtiyati haciz uygulandı mı?
 
 ## Denetim şeması
@@ -311,7 +311,7 @@ aciklama: Vergi mahkemesi kararına karşı bölge idare mahkemesine istinaf ve 
 Vergi mahkemesi kararına karşı hangi kanun yolunun açık olduğunu (istinaf/temyiz/kesinlik) belirlemek; başvuru süresini, parasal sınırları ve bozma-kaldırma sebeplerini doğru kurgulamak.
 
 ## Soğuk başlangıç (intake)
-1. Vergi mahkemesi kararı lehe mi aleyhe mi; karar size ne zaman tebliğ edildi?
+1. Vergi mahkemesi kararı lehe mi aleyhe mi; karar ne zaman tebliğ edildi?
 2. Uyuşmazlığın parasal değeri (vergi aslı + ceza) ne kadar?
 3. Karar tek hâkimle mi kurul halinde mi verildi?
 4. İtiraz edilecek husus maddi vakıa mı yoksa hukuki yorum/usul mü?

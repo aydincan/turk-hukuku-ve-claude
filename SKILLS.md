@@ -478,7 +478,7 @@ Her eklentinin `genel-bakis` (giriş/triyaj/yönlendirme) becerisi vardır; aşa
 - `karistirilma-ihtimali-nispi-ret` — İki marka arasında benzerlik ve karıştırılma riski değerlendirilecekse veya yayına itiraz/hükümsüzlük m.6 dayanaklı ileri sürülecekse; işaret-mal benzerliği ve global değerlendirmeyi yürütmek için kullanılır.
 - `taninmis-marka-korumasi` — Markanın tanınmışlık düzeyi ve sınıf-aşırı koruması tartışmalıysa veya tanınmış marka taklidi/sulandırma iddiası varsa; m.6/4-5 ile Paris 1. mük. 6. md. korumasını denetlemek için kullanılır.
 - `hukumsuzluk-ve-iptal` — Tescilli bir markanın geçersiz kılınması veya sonradan kullanmama/jenerikleşme nedeniyle iptali gündemdeyse; m.25 hükümsüzlük ve m.26 iptal sebeplerini, sessiz kalma ve kullanmama süzgecini denetlemek için kullanılır.
-- `kullanmama-defi-ve-ispati` — Karşı taraf markayı uzun süredir kullanmıyorsa veya size karşı kullanmama itirazı/def'i ileri sürüldüyse; beş yıllık ciddi kullanım koşulu ve ispat yükünü m.9-m.19/2 üzerinden yönetmek için kullanılır.
+- `kullanmama-defi-ve-ispati` — Karşı taraf markayı uzun süredir kullanmıyorsa veya müvekkile karşı kullanmama itirazı/def'i ileri sürüldüyse; beş yıllık ciddi kullanım koşulu ve ispat yükünü m.9-m.19/2 üzerinden yönetmek için kullanılır.
 - `marka-tecavuzu-ve-onleme` — İzinsiz kullanım, taklit, iltibas veya benzer işaretle marka hakkına saldırı söz konusuysa; m.29 tecavüz hallerini ve m.149-150 dava taleplerini denetlemek için kullanılır.
 - `tazminat-ve-yoksun-kazanc` — Tecavüz nedeniyle maddi-manevi tazminat veya itibar tazminatı talep edilecekse; m.150-151 hesap yöntemlerini ve yoksun kalınan kazancın üç seçenekli hesabını yürütmek için kullanılır.
 - `turkpatent-basvuru-itiraz` — Marka tescil başvurusu, yayına itiraz, karara itiraz veya YİDK kararına karşı dava aşamalarında; idari sürecin süreleri ve usulünü m.11-m.20 ve m.172 üzerinden yönetmek için kullanılır.
@@ -1017,7 +1017,7 @@ Her eklentinin `genel-bakis` (giriş/triyaj/yönlendirme) becerisi vardır; aşa
 - `dava-usul-gorev-yetki` — Tıbbi uyuşmazlıkta hangi mahkemenin görevli ve yetkili olduğunu, hangi dava türünün açılacağını ve dava şartlarını belirlemek için kullanılır; adli/idari yargı ayrımını çözer.
 - `sureler-zamanasimi` — Tıbbi sorumluluk talebinde hangi zamanaşımı süresinin (sözleşme, haksız fiil, idari, cezai) işlediğini ve başlangıç anını hesaplamak için kullanılır; rejim seçiminin tazminat hakkına etkisini ortaya koyar.
 - `ispat-delil-bilirkisi` — Tıbbi uyuşmazlıkta ispat yükünün dağılımını, hangi delillerin toplanacağını ve ATK/bilirkişi raporlarının nasıl denetleneceğini belirlemek için kullanılır.
-- `dilekce-sozlesme-taslagi` — Tıbbi uyuşmazlıkta dava dilekçesi, onam formu, sağlık hizmeti sözleşmesi veya idareye başvuru gibi belgelerin iskeletini üretmek için kullanılır; yer tutucu disipliniyle hazır taslak sağlar.
+- `dilekce-sozlesme-taslagi` — Tıbbi uyuşmazlıkta dava dilekçesi, onam formu, sağlık hizmeti sözleşmesi veya idareye başvuru gibi belgelerin iskeletini üretmek için kullanılır; yer tutucu disipliniyle avukat incelemesine hazır taslak sağlar.
 - `risk-strateji-iletisim` — Tıbbi uyuşmazlıkta hekim, hastane veya hasta tarafının dava başarı şansını, risklerini ve müzakere/sulh seçeneklerini değerlendirmek ve müvekkile sade bir yol haritası sunmak için kullanılır.
 
 ### `eczacilik-ilac` — Eczacılık ve İlaç Hukuku
@@ -1236,21 +1236,6 @@ Her eklentinin `genel-bakis` (giriş/triyaj/yönlendirme) becerisi vardır; aşa
 - `cerez-pazarlama-uyumu` — Web sitesi çerezleri, çerez aydınlatması ve ticari elektronik ileti (İYS) süreçlerinin KVKK ve ilgili mevzuata uygunluğu denetlenirken kullanılır.
 - `uyum-boslugu-raporu-eylem-plani` — Tüm denetim bulgularının tek raporda birleştirilmesi, risk önceliklendirmesi ve sorumlu-termin atanmış düzeltici eylem planı çıkarılması gerektiğinde kullanılır.
 
-### `kendini-temsil-asliye` — Kendini Temsil — Hukuk Mahkemeleri
-
-- `genel-bakis` — Giriş, triyaj ve yönlendirme
-- `temel-kavramlar-ve-sistem` — Davasını avukatsız takip etmek isteyen kişi temel kavramları (asil, dava ehliyeti, görev, dava şartı arabuluculuk) öğrenmek istediğinde ve uyuşmazlığını doğru kategoriye yerleştirmek istediğinde kullanılır.
-- `gorev-yetki-ve-forum` — Kullanıcı davayı hangi mahkemede ve hangi yerde açacağını bilmek istediğinde, sulh-asliye-tüketici ayrımı veya yetkili yer (yerleşim, sözleşme, haksız fiil yeri) sorusu gündeme geldiğinde kullanılır.
-- `tuketici-hakem-heyeti-basvuru` — Tüketici sıfatıyla mal veya hizmet uyuşmazlığı yaşayan kişi ayıplı ürün, iade, abonelik, haksız şart veya cayma gibi konularda parasal sınır altı uyuşmazlık için hakem heyetine başvuracağında kullanılır.
-- `dava-dilekcesi-hazirlama` — Kullanıcı mahkemeye verilecek dava dilekçesini yazmak istediğinde, talep sonucunu netleştirmek, vakıaları sıralamak ve delilleri bağlamak istediğinde kullanılır.
-- `cevap-dilekcesi-ve-savunma` — Kendisine dava açılmış ve cevap dilekçesi vermesi gereken davalı, itirazlarını ve karşı delillerini düzenlemek istediğinde veya zamanaşımı, yetki, takas gibi savunmaları ileri sürmek istediğinde kullanılır.
-- `ispat-ve-delil-sunumu` — Kullanıcı iddiasını nasıl ispatlayacağını, hangi delilin geçerli olduğunu, tanık mı senet mi gerektiğini veya bilirkişi-keşif-yemin yollarını öğrenmek istediğinde kullanılır.
-- `sureler-ve-zamanasimi` — Kullanıcı dava açma, itiraz, cevap, istinaf gibi sürelerin ne zaman dolacağını veya alacağının zamanaşımına uğrayıp uğramadığını hesaplamak istediğinde kullanılır.
-- `durusma-hazirligi-ve-on-inceleme` — Duruşmaya kendisi katılacak taraf ön inceleme ve tahkikat duruşmasına nasıl hazırlanacağını, ne söyleyeceğini, hangi belgeleri götüreceğini ve davranış kurallarını öğrenmek istediğinde kullanılır.
-- `harc-gider-ve-adli-yardim` — Kullanıcı dava açmanın maliyetini (harç, gider avansı, delil avansı), tutarın nasıl belirlendiğini veya ödeme gücü yoksa adli yardımdan nasıl yararlanacağını öğrenmek istediğinde kullanılır.
-- `karar-sonrasi-kanun-yollari-ve-icra` — Karar çıktıktan sonra istinaf-temyiz başvurusu yapmak, lehine kararı icraya koymak veya aleyhine kararın icrasını durdurmak isteyen taraf için kullanılır.
-- `risk-strateji-ve-karar-verme` — Kullanıcı dava açmaya değer mi, sulh mü daha iyi, kazanma şansı ve maliyet-fayda dengesi nedir gibi stratejik kararlar vermek istediğinde kullanılır.
-
 ### `bilirkisi-rapor-inceleme` — Bilirkişi Raporu İnceleme
 
 - `genel-bakis` — Giriş, triyaj ve yönlendirme
@@ -1274,7 +1259,7 @@ Her eklentinin `genel-bakis` (giriş/triyaj/yönlendirme) becerisi vardır; aşa
 - `karar-sadelestirme` — Yargıtay, Danıştay, AYM, BAM/BİM veya ilk derece kararını müvekkilin anlayacağı dile çevirmek; ne kazanıldı ne kaybedildi, gerekçe ne, hangi yol açık sorularını yanıtlamak gerektiğinde kullanılır.
 - `sozlesme-sadelestirme` — Bir sözleşmeyi veya belirli maddelerini imzalamadan önce müvekkilin anlayacağı dile çevirmek; hangi yükümlülük, hangi risk, hangi çıkış var sorularını yalın anlatmak gerektiğinde kullanılır.
 - `muvekkil-bilgilendirme-metni` — Müvekkile davanın/işin durumunu, seçeneklerini ve sonraki adımları anlatan yazılı bilgilendirme metni üretmek; aydınlatma yükümlülüğünü yalın ama eksiksiz yerine getirmek gerektiğinde kullanılır.
-- `ihtarname-tebligat-sadelestirme` — Alınan bir ihtarnameyi, tebligatı veya icra/ödeme emrini müvekkile açıklamak; ne istendiğini, hangi süre içinde ne yapılması gerektiğini ve yapılmazsa ne olacağını yalın anlatmak gerektiğinde kullanılır.
+- `ihtarname-tebligat-sadelestirme` — Müvekkile gelen ihtarnameyi, tebligatı veya ödeme emrini avukatın müvekkile anlatması için sadeleştirmek; ne istendiğini, süreyi ve yapılmazsa sonucunu, avukatın vereceği karara yer bırakarak yalın anlatmak gerektiğinde kullanılır.
 - `hukuki-terim-sozlugu` — Bir metindeki hukuki ve Latince terimleri, kalıpları ve kısaltmaları müvekkile açıklayan sözlük üretmek; terimin yanlış eşanlamlıyla değiştirilmeden doğru karşılığını ve anlam farkını vermek gerektiğinde kullanılır.
 - `ozet-cikarma` — Uzun bir dava dosyasını, bilirkişi raporunu, sözleşmeyi veya yazışma zincirini hukukçu olmayan bir karar verici için kısa, yalın ve doğru yönetici özetine indirgemek gerektiğinde kullanılır.
 - `surec-yol-haritasi-anlatimi` — Müvekkile bir davanın veya idari/icra sürecinin aşamalarını, tahmini sürelerini ve her aşamada ne olacağını yalın bir yol haritası olarak anlatmak gerektiğinde kullanılır.

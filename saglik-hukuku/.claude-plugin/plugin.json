@@ -1,6 +1,6 @@
 {
   "name": "saglik-hukuku",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sağlık hukuku: hekimin hukuki/cezai sorumluluğu, aydınlatılmış onam, malpraktis-komplikasyon ayrımı, hasta hakları, ATK/bilirkişi raporu değerlendirmesi; tıbbi uyuşmazlık denetim şeması.",
   "license": "Apache-2.0 OR MIT",
   "author": {

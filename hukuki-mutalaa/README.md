@@ -1,6 +1,6 @@
 # Hukuki Mütalaa ve Görüş Yazımı
 
-Hukuki mütalaa ve görüş yazımı: olayın tespiti, hukuki sorunun çerçevelenmesi, mevzuat-içtihat-doktrin değerlendirmesi (altlama), seçeneklerin tartılması ve gerekçeli sonuç; risk haritası ve eylem önerisi.
+Avukatlar ve akademisyenler için hukuki mütalaa taslağı: olayın tespiti, hukuki sorunun çerçevelenmesi, mevzuat, içtihat ve doktrin değerlendirmesi (altlama), seçeneklerin tartılması ve gerekçeli sonuç; risk haritası ve eylem önerisi, mütalaayı imzalayacak hukukçunun değerlendirmesi için.
 
 **Başat mevzuat:** —
 
@@ -31,6 +31,8 @@ Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://
 
 Eklenti kurulduktan sonra Claude'a olayınızı anlatın ya da belgeyi yükleyin; `genel-bakis`
 becerisi sizi uygun uzman beceriye yönlendirir.
+
+Beceriler hukukçular içindir; çıktılar avukat incelemesi için taslaktır.
 
 ---
 

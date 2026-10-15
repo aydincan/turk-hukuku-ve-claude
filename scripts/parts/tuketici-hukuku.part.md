@@ -345,7 +345,7 @@ Tüketici uyuşmazlığının gerektirdiği yazılı metni (ihtarname, hakem hey
 7. **Ara sonuç:** Metin usulen eksiksiz mi, talep ve sebep tutarlı mı, yer tutucular işaretli mi?
 
 ## Çıktı modülleri
-- Seçilen türde hazır taslak metin.
+- Seçilen türde avukat incelemesine hazır taslak metin.
 - Zorunlu unsur kontrol listesi.
 - Delil dizini.
 - Doldurulacak alanlar özeti.

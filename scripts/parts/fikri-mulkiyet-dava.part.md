@@ -59,7 +59,7 @@ Davayı doğru mahkemede, doğru yerde ve doğru yargı kolunda açmak; görevsi
 - Talep tecavüz/tazminat mı, hükümsüzlük mü, yoksa TÜRKPATENT (YİDK) kararının iptali mi?
 - Karşı taraf gerçek/tüzel kişi mi, TÜRKPATENT mi?
 - Tecavüz fiili nerede gerçekleşti veya etkisi nerede görüldü; davalının yerleşim yeri neresi?
-- Bulunduğunuz yerde ihtisas FSHM var mı?
+- Davanın açılabileceği yerde ihtisas FSHM var mı?
 
 ## Denetim şeması
 1. Görev: Fikri-sınai hukuk uyuşmazlıkları Fikrî ve Sınaî Haklar Hukuk Mahkemesi'nde görülür (SMK m.156/1; FSEK m.76). İhtisas mahkemesi bulunmayan yerde HSK'nın görevlendirdiği asliye hukuk mahkemesi FSHM sıfatıyla bakar; bu husus dilekçede belirtilir.
@@ -309,7 +309,7 @@ Fikri-sınai tecavüzün ceza boyutunu (marka suçları SMK m.30, telif suçlar�
 ## Soğuk başlangıç (intake)
 - Tecavüz markaya mı yoksa telife mi ilişkin; hak tescilli mi?
 - Taklit ürün üretimi/satışı/ithali var mı; ticari ölçek nedir?
-- Şikâyet süresi içinde misiniz; uzlaşma kapsamı düşünüldü mü?
+- Şikâyet süresi içinde kalınıyor mu; uzlaşma kapsamı düşünüldü mü?
 - Arama-el koyma için yeterli somut delil var mı?
 
 ## Denetim şeması

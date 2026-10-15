@@ -63,6 +63,16 @@ KATI KURALLAR:
   \`[doğrulanacak]\` diye işaretle ya da arama kaynağını an (karararama.yargitay.gov.tr,
   karararama.danistay.gov.tr, kararlarbilgibankasi.anayasa.gov.tr). ASLA sahte esas/karar
   numarası yazma.
+- HİTAP: Beceriler dosyayı üstlenen avukat ve hukukçu içindir. Soğuk başlangıç soruları ve
+  çıktı modülleri bu hukukçuya hitap eder ya da nötr kalır ("Tebliğ tarihi nedir?",
+  "Müvekkil sözleşmeyi ne zaman imzaladı?"). Tarafa ASLA doğrudan hitap etme ("size ne zaman
+  tebliğ edildi", "itiraz sebebiniz"). Müvekkile gidecek bir bilgilendirme metni gerekiyorsa
+  onu avukatın inceleyip göndereceği bir taslak olarak yaz.
+- SONUÇ VAADİ YOK: Tarafa kazanma ihtimali vaat etme, kesin sonuç tahmini yazma. Risk ve
+  strateji değerlendirmesi avukata yöneliktir; karar dosyayı üstlenen avukattadır.
+- TASLAK DİLİ: Dilekçe, sözleşme, ihtarname ve başvuru çıktıları taslaktır; onları "avukat
+  incelemesine hazır taslak" olarak adlandır. "İmzaya hazır", "dava açılmaya hazır",
+  "verilmeye hazır" gibi ifadeler KULLANMA.
 - 'Kaynak kuralı', 'Bu beceri ne yapmaz', 'Plugin bağlamı' ve sorumluluk reddi bloklarını
   YAZMA — bunlar üretici tarafından otomatik ekleniyor. Sadece maddi gövdeye odaklan.
 

@@ -178,7 +178,7 @@ talep kurmak. İptal davası kararın esasının yeniden incelenmesi DEĞİLDİR
 1. Karar iç tahkim (HMK) mi milletlerarası (MTK) mi kararı?
 2. Karar tarafa ne zaman bildirildi (süre hesabı için)?
 3. Hangi sakatlık iddia ediliyor (yetki yokluğu, usul, kamu düzeni)?
-4. Karşı taraf mısınız yoksa iptal mi istiyorsunuz?
+4. Müvekkil iptal davasının davalısı mı, yoksa kararın iptalini mi istiyor?
 
 ## Denetim şeması
 1. **Yetkili mahkeme ve süre**: İç tahkimde **bölge adliye mahkemesi**, kararın
@@ -435,7 +435,7 @@ penceresi, tahkim süresi ve zamanaşımı durması gibi sert süreleri tek takv
 hatırlatma kurar.
 
 ## Soğuk başlangıç (intake)
-1. Hangi aşamadasınız (tahkim başlangıcı, hakem kararı sonrası, arabuluculuk son tutanak)?
+1. Dosya hangi aşamada (tahkim başlangıcı, hakem kararı sonrası, arabuluculuk son tutanak)?
 2. Belirleyici tarih nedir (kararın bildirimi, son tutanak tarihi, başvuru tarihi)?
 3. İç tahkim mi MTK mı, dava şartı arabuluculuk mu?
 4. Asıl talebin zamanaşımı/hak düşürücü süresi ne durumda?

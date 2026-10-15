@@ -287,7 +287,7 @@ aciklama: Tıbbi uyuşmazlıkta ispat yükünün dağılımını, hangi deliller
 <<<BECERI>>>
 slug: dilekce-sozlesme-taslagi
 ad: Dilekçe, Sözleşme ve Başvuru Taslağı
-aciklama: Tıbbi uyuşmazlıkta dava dilekçesi, onam formu, sağlık hizmeti sözleşmesi veya idareye başvuru gibi belgelerin iskeletini üretmek için kullanılır; yer tutucu disipliniyle hazır taslak sağlar.
+aciklama: Tıbbi uyuşmazlıkta dava dilekçesi, onam formu, sağlık hizmeti sözleşmesi veya idareye başvuru gibi belgelerin iskeletini üretmek için kullanılır; yer tutucu disipliniyle avukat incelemesine hazır taslak sağlar.
 <<<GOVDE>>>
 # Dilekçe, Sözleşme ve Başvuru Taslağı
 

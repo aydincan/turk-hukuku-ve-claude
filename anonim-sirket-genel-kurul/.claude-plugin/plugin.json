@@ -1,6 +1,6 @@
 {
   "name": "anonim-sirket-genel-kurul",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "AŞ genel kurulu hazırlık ve icrası: çağrı usulü, gündem, toplantı ve karar nisapları, vekâleten temsil, tutanak, genel kurul kararlarının iptali (TTK m.445 vd.) ve azlık haklarının kullanımı.",
   "license": "Apache-2.0 OR MIT",
   "author": {

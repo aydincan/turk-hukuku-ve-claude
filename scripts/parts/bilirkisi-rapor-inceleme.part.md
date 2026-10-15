@@ -36,7 +36,7 @@ Bilirkişi raporunu denetlemeye başlamadan önce zihinsel çerçeveyi kurmak: r
 - Rapor hangi yargı kolundan (hukuk/ceza/idari) ve hangi dava türünden geliyor?
 - Bilirkişi hangi uzmanlık alanından; rapor o alanla mı sınırlı kalmış?
 - Görevlendirme kararını gördünüz mü; bilirkişiye sorulan sorular elinizde mi?
-- Rapor size ne zaman tebliğ edildi (iki haftalık itiraz süresi için)?
+- Rapor ne zaman tebliğ edildi (iki haftalık itiraz süresi için)?
 
 ## Denetim şeması
 1. **Caizlik süzgeci (HMK m.266):** Konu hâkimlik mesleğinin genel/hukuki bilgisiyle çözülebilecek nitelikteyse bilirkişiye gidilmesi başlı başına hukuka aykırıdır. Örn. "sözleşme geçerli midir", "fesih haklı mıdır" gibi salt hukuki sorular bilirkişiye havale edilemez. Ara sonuç: konu teknik mi, hukuki mi?
@@ -62,9 +62,9 @@ Raporu dört eksende (usul, metodoloji, hesap, çelişki) sistematik denetleyip 
 
 ## Soğuk başlangıç (intake)
 - Görevlendirme kararındaki sorular ile raporun yanıtladığı sorular örtüşüyor mu?
-- Hangi husus(lar) sizin aleyhinize ve neden hatalı olduğunu düşünüyorsunuz?
+- Hangi husus(lar) müvekkilin aleyhine ve neden hatalı görülüyor?
 - Dosyada raporla çelişen başka delil/rapor var mı?
-- Hedefiniz raporu tümden çürütmek mi, yoksa belirli kalemleri düzeltmek mi?
+- Hedef raporu tümden çürütmek mi, yoksa belirli kalemleri düzeltmek mi?
 
 ## Denetim şeması
 1. **Usul ekseni:** Bilirkişinin yetkisi, yemini, uzmanlık alanı sınırı (6754 s.K. m.3), görevlendirme kapsamına uygunluk (HMK m.273). Kapsam aşımı veya eksik yanıt belirlenir.
@@ -203,7 +203,7 @@ Bilirkişinin kişisel tarafsızlığını ve bağımsızlığını denetlemek; 
 ## Soğuk başlangıç (intake)
 - Bilirkişinin taraflarla akrabalık, husumet, menfaat veya iş ilişkisi var mı?
 - Bilirkişi daha önce aynı işte taraflardan biri için görüş/danışmanlık vermiş mi?
-- Ret sebebini ne zaman ve nasıl öğrendiniz (süre yönünden)?
+- Ret sebebi ne zaman ve nasıl öğrenildi (süre yönünden)?
 - Tarafsızlık şüphesini somutlaştıran belge/olgu nedir?
 
 ## Denetim şeması
@@ -229,10 +229,10 @@ aciklama: Tespit edilen bulguları iki haftalık süre içinde mahkemeye sunulac
 Denetim bulgularını HMK m.281'e uygun, süresinde ve somutlaştırılmış bir itiraz dilekçesine dökmek; talep sonucunu (ek rapor / yeni heyet / itibar edilmemesi) bulgu ağırlığına göre netleştirmek.
 
 ## Soğuk başlangıç (intake)
-- Rapor size hangi tarihte tebliğ edildi (iki haftalık sürenin başlangıcı)?
+- Rapor hangi tarihte tebliğ edildi (iki haftalık sürenin başlangıcı)?
 - Hangi bulgular dilekçeye girecek ve her biri hangi dayanağa çıpalı?
-- Asıl talebiniz ek rapor mu, yeni bilirkişi mi, rapora itibar edilmemesi mi?
-- Karşı uzman mütalaası ekleyecek misiniz?
+- Asıl talep ek rapor mu, yeni bilirkişi mi, rapora itibar edilmemesi mi?
+- Karşı uzman mütalaası eklenecek mi?
 
 ## Denetim şeması
 1. **Süre kontrolü (HMK m.281):** İtiraz, raporun tebliğinden itibaren iki hafta içinde yapılır. Son gün hesaplanır; süre geçecekse ek süre/mazeret değerlendirilir. Süre dilekçenin en üstünde teyit edilir.
@@ -314,9 +314,9 @@ Resmî bilirkişi raporunun teknik yanını, tarafın kendi seçtiği bir uzmand
 
 ## Soğuk başlangıç (intake)
 - Raporun çürütülmek istenen teknik noktası tam olarak nedir?
-- Bu alanda mütalaa verebilecek bağımsız bir uzman erişiminiz var mı?
+- Bu alanda mütalaa verebilecek bağımsız bir uzmana erişim var mı?
 - Mütalaa, rapordaki yöntem hatasını mı yoksa hesap/veri hatasını mı hedefliyor?
-- Mütalaayı itiraz süresine yetiştirebilecek misiniz?
+- Mütalaa itiraz süresine yetiştirilebilecek mi?
 
 ## Denetim şeması
 1. **Delil niteliği:** Tarafın aldığı uzman mütalaası, mahkemece atanan bilirkişi raporu gibi bağlayıcı bir delil olmayıp tarafın iddiasını destekleyen, hâkimin serbest takdirine (HMK m.282) sunulan bir görüştür. Bu sınır mütalaada açıkça belirtilmelidir.

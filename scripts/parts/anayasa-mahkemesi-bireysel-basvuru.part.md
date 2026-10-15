@@ -130,7 +130,7 @@ Otuz günlük başvuru süresinin doğru başlangıç anını saptamak, hesabı 
 
 ## Soğuk başlangıç (intake)
 - Nihai (kesin) karar nedir ve başvurucuya ne zaman tebliğ edildi?
-- Tebligat yapılmadıysa kararı fiilen ne zaman öğrendiniz, bunu neyle ispatlarsınız?
+- Tebligat yapılmadıysa başvurucu kararı fiilen ne zaman öğrendi, bu neyle ispatlanabilir?
 - Süreyi kaçırmaya yol açan bir mücbir sebep / ağır engel var mı?
 - Bugün itibarıyla kaç gün geçti?
 
@@ -162,9 +162,9 @@ Anayasa m.36 ve AİHS m.6 kapsamındaki adil yargılanma güvencelerinden hangis
 
 ## Soğuk başlangıç (intake)
 - Hangi yargılamada, hangi güvence ihlal edildi (erişim, gerekçe, eşitlik, süre)?
-- Mahkeme esaslı iddialarınızı/delillerinizi gerekçeyle karşıladı mı?
+- Mahkeme başvurucunun esaslı iddialarını/delillerini gerekçeyle karşıladı mı?
 - Yargılama ne kadar sürdü; gecikme kime atfedilebilir?
-- Şikâyetiniz sonucun yanlışlığına mı, usulün adilliğine mi ilişkin?
+- Şikâyet sonucun yanlışlığına mı, usulün adilliğine mi ilişkin?
 
 ## Denetim şeması
 1. Uygulanabilirlik — m.36: medeni hak ve yükümlülükler ile suç isnadı uyuşmazlıklarında güvence devreye girer.
@@ -343,7 +343,7 @@ aciklama: Bireysel başvuru formunun doldurulması, ihlal iddialarının altlanm
 
 İspat yükü: tüm iddiaların belgeyle desteklenmesi başvurucuya aittir.
 
-Ara sonuç: forma hazır, eksiksiz başvuru taslağı.
+Ara sonuç: forma aktarılmaya ve avukat incelemesine hazır, eksiksiz başvuru taslağı.
 
 ## Çıktı modülleri
 - Başvuru formu taslağı (alan alan, [doldurulacak] yer tutucularıyla).

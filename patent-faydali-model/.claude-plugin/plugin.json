@@ -1,6 +1,6 @@
 {
   "name": "patent-faydali-model",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Patent ve faydalı model: patentlenebilirlik şartları (yenilik, buluş basamağı, sanayiye uygulanabilirlik), istem yorumu, hükümsüzlük, çalışan buluşları ve patent hakkına tecavüz; SMK uygulaması.",
   "license": "Apache-2.0 OR MIT",
   "author": {

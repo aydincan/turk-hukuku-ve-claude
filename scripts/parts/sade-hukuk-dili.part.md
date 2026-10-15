@@ -53,7 +53,8 @@ varsa "[doğrulanacak]" işaretiyle bırakılır, tahminle doldurulmaz.
 Her sade dil ürününde okuyucu kitlesi (müvekkil/karşı taraf/üçüncü kişi), aktarılan belgenin
 künyesi, sadeleştirme düzeyi ve asıl metne yönlendirme bulunmalıdır. Eksik bilgi varsa metne
 "[doldurulacak]" yer tutucusu konur; hukukçu olmayan okuyucuyu yanıltacak kesinlik iddiasından
-kaçınılır.
+kaçınılır. Müvekkile ya da başka bir kişiye iletilecek metinlerde, hazırlanmasında yapay
+zekâdan yararlanıldığı belirtilmelidir.
 <<<BECERI>>>
 slug: temel-kavramlar-ve-sistem
 ad: Sade Dilin Temel İlkeleri ve Sistematiği
@@ -251,12 +252,12 @@ borcunu (TBK m.506; Avukatlık K. m.34, TBB Meslek Kuralları m.3-4) sade ama ek
 <<<BECERI>>>
 slug: ihtarname-tebligat-sadelestirme
 ad: İhtarname ve Tebligat Sadeleştirme
-aciklama: Alınan bir ihtarnameyi, tebligatı veya icra/ödeme emrini müvekkile açıklamak; ne istendiğini, hangi süre içinde ne yapılması gerektiğini ve yapılmazsa ne olacağını yalın anlatmak gerektiğinde kullanılır.
+aciklama: Müvekkile gelen ihtarnameyi, tebligatı veya ödeme emrini avukatın müvekkile anlatması için sadeleştirmek; ne istendiğini, süreyi ve yapılmazsa sonucunu, avukatın vereceği karara yer bırakarak yalın anlatmak gerektiğinde kullanılır.
 <<<GOVDE>>>
 # İhtarname ve Tebligat Sadeleştirme
 
 ## Görev
-Müvekkile ulaşan ihtarname, tebligat, ödeme emri veya icra emrini; "kim, ne istiyor, kaç gün
+Müvekkile ulaşan ihtarname, tebligat, ödeme emri veya icra emrini, avukatın müvekkile anlatması için; "kim, ne istiyor, kaç gün
 içinde ne yapmalıyım, yapmazsam ne olur" sorularına net cevap verecek şekilde sadeleştirmek.
 Bu belgelerde süreler hayati olduğu için doğruluk önceliklidir.
 
@@ -273,7 +274,8 @@ Bu belgelerde süreler hayati olduğu için doğruluk önceliklidir.
 2. TALEBİN NETLİĞİ: Ne istendiği (asıl alacak, faiz, masraf ayrımıyla) ve dayanağı yalın aktarılır.
 3. SEÇENEKLER VE SONUÇLAR (risk): "Öderim / itiraz ederim / hiçbir şey yapmam" seçeneklerinin
    sonuçları açıkça yazılır. İtiraz edilmezse takibin kesinleşeceği (İİK m.62/son, m.78 haciz)
-   net belirtilir; kambiyo takibinde itirazın icrayı durdurmadığı uyarılır.
+   net belirtilir; kambiyo takibinde itirazın icrayı durdurmadığı uyarılır. Hangi yolun izleneceği
+   avukatın değerlendirmesine ve müvekkilin kararına bırakılır.
 4. YETKİ/İCRA DAİRESİ: Hangi icra dairesi/mahkeme, hangi merciye itiraz yapılacağı belirtilir.
 5. İSPAT NOTU: İtiraz veya ödeme tarihinin ve şeklinin kanıtlanabilir olması gerektiği hatırlatılır.
 6. ARA SONUÇ (istisna): Sade açıklama bilgilendirmedir; asıl bağlayıcı belge tebliğ edilen

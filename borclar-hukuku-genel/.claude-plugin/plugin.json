@@ -1,6 +1,6 @@
 {
   "name": "borclar-hukuku-genel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "TBK genel hükümler: sözleşmenin kurulması ve geçerliliği, irade sakatlıkları (hata-hile-korkutma), temsil, hükümsüzlük, ifa ve ifa engelleri, borçlu temerrüdü, zamanaşımı; borç ilişkisinin kaynak piramidi.",
   "license": "Apache-2.0 OR MIT",
   "author": {

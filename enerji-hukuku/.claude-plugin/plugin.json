@@ -1,6 +1,6 @@
 {
   "name": "enerji-hukuku",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Enerji hukuku: EPDK düzenlemesi altında elektrik/doğal gaz piyasaları, lisanslama, yenilenebilir enerji destekleri (YEKDEM), tarifeler ve düzenleyici uyum; enerji yatırım sözleşmeleri.",
   "license": "Apache-2.0 OR MIT",
   "author": {

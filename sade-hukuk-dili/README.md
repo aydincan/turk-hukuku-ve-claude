@@ -1,6 +1,6 @@
 # Sade Hukuk Dili Çevirmeni
 
-Sade hukuk dili: karmaşık dilekçe, karar ve sözleşmeleri müvekkilin anlayacağı yalın Türkçeye çevirme; hukuki doğruluğu koruyarak özetleme, terim açıklama ve bilgilendirme metni üretimi.
+Avukatlar için sade hukuk dili: karmaşık dilekçe, karar ve sözleşmeleri avukatın müvekkile anlatması için yalın Türkçeye çevirme; hukuki doğruluğu koruyarak özetleme, terim açıklama ve bilgilendirme metni taslağı. Çıktı, müvekkile iletilmeden önce avukatın incelemesine sunulur.
 
 **Başat mevzuat:** —
 
@@ -15,7 +15,7 @@ Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://
 - `karar-sadelestirme` — Yargıtay, Danıştay, AYM, BAM/BİM veya ilk derece kararını müvekkilin anlayacağı dile çevirmek; ne kazanıldı ne kaybedildi, gerekçe ne, hangi yol açık sorularını yanıtlamak gerektiğinde kullanılır.
 - `sozlesme-sadelestirme` — Bir sözleşmeyi veya belirli maddelerini imzalamadan önce müvekkilin anlayacağı dile çevirmek; hangi yükümlülük, hangi risk, hangi çıkış var sorularını yalın anlatmak gerektiğinde kullanılır.
 - `muvekkil-bilgilendirme-metni` — Müvekkile davanın/işin durumunu, seçeneklerini ve sonraki adımları anlatan yazılı bilgilendirme metni üretmek; aydınlatma yükümlülüğünü yalın ama eksiksiz yerine getirmek gerektiğinde kullanılır.
-- `ihtarname-tebligat-sadelestirme` — Alınan bir ihtarnameyi, tebligatı veya icra/ödeme emrini müvekkile açıklamak; ne istendiğini, hangi süre içinde ne yapılması gerektiğini ve yapılmazsa ne olacağını yalın anlatmak gerektiğinde kullanılır.
+- `ihtarname-tebligat-sadelestirme` — Müvekkile gelen ihtarnameyi, tebligatı veya ödeme emrini avukatın müvekkile anlatması için sadeleştirmek; ne istendiğini, süreyi ve yapılmazsa sonucunu, avukatın vereceği karara yer bırakarak yalın anlatmak gerektiğinde kullanılır.
 - `hukuki-terim-sozlugu` — Bir metindeki hukuki ve Latince terimleri, kalıpları ve kısaltmaları müvekkile açıklayan sözlük üretmek; terimin yanlış eşanlamlıyla değiştirilmeden doğru karşılığını ve anlam farkını vermek gerektiğinde kullanılır.
 - `ozet-cikarma` — Uzun bir dava dosyasını, bilirkişi raporunu, sözleşmeyi veya yazışma zincirini hukukçu olmayan bir karar verici için kısa, yalın ve doğru yönetici özetine indirgemek gerektiğinde kullanılır.
 - `surec-yol-haritasi-anlatimi` — Müvekkile bir davanın veya idari/icra sürecinin aşamalarını, tahmini sürelerini ve her aşamada ne olacağını yalın bir yol haritası olarak anlatmak gerektiğinde kullanılır.
@@ -30,6 +30,8 @@ Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://
 
 Eklenti kurulduktan sonra Claude'a olayınızı anlatın ya da belgeyi yükleyin; `genel-bakis`
 becerisi sizi uygun uzman beceriye yönlendirir.
+
+Beceriler hukukçular içindir; çıktılar avukat incelemesi için taslaktır.
 
 ---
 

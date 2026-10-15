@@ -1,6 +1,6 @@
 {
   "name": "deniz-ticareti-hukuku",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Deniz ticareti: gemi ve donatan, navlun sözleşmeleri ve konişmento, deniz alacakları ve gemi ipoteği, müşterek avarya, çatma ve kurtarma; TTK Beşinci Kitap uygulaması.",
   "license": "Apache-2.0 OR MIT",
   "author": {

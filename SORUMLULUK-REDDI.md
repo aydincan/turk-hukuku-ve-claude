@@ -6,12 +6,25 @@
 > kullanımına ilişkin sorumluluğu reddeder; ancak hukuki içerik bakımından aşağıdaki
 > ek uyarılar geçerlidir.
 
+## Kimin için
+
+Beceriler **avukatlar ve hukukçular için** hazırlanmıştır (avukat, stajyer avukat, şirket
+hukukçusu, akademisyen, hukuk öğrencisi). Çıktılar taslaktır; kullanılmadan önce dosyayı
+üstlenen yetkili hukukçu tarafından incelenmelidir. Müvekkile ya da başka bir kişiye
+iletilecek metinlerde, hazırlanmasında yapay zekâdan yararlanıldığı belirtilmelidir.
+
+Hukukçu olmayan biri kendi işi için sorduğunda beceriler kanunun ne dediğini ve ilgili
+kararları genel olarak açıklar, resmî metni getirir ve bir süre işliyor olabilirse kanundaki
+süreyi ve dayanağını yazar. Kişiye özel hukuki görüş, strateji, sonuç tahmini ya da
+imzalanmaya veya mahkemeye verilmeye hazır belge üretmez; vakit kaybetmeden bir avukata ya
+da baronun adli yardım bürosuna başvurmayı önerir.
+
 ## 1. Hukuki danışmanlık değildir
 
 Bu depodaki hiçbir skill (beceri), şablon, dilekçe iskeleti veya analiz **avukatlık
 hizmeti, hukuki görüş veya danışmanlık oluşturmaz.** Bu içeriği okumak veya kullanmak
-**avukat–müvekkil ilişkisi doğurmaz.** Somut bir hukuki sorununuz varsa yetkili bir
-avukata danışın. Tüm çıktıların hukuki sorumluluğu, onları kullanan **yetkili hukukçuya**
+**avukat-müvekkil ilişkisi doğurmaz.** Somut bir hukuki sorununuz varsa vakit kaybetmeden
+bir avukata ya da baronun adli yardım bürosuna başvurun. Tüm çıktıların hukuki sorumluluğu, onları kullanan **yetkili hukukçuya**
 aittir.
 
 ## 2. Doğrulama zorunluluğu (kaynak hijyeni)

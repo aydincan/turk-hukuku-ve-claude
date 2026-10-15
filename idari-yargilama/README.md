@@ -32,6 +32,8 @@ Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://
 Eklenti kurulduktan sonra Claude'a olayınızı anlatın ya da belgeyi yükleyin; `genel-bakis`
 becerisi sizi uygun uzman beceriye yönlendirir.
 
+Beceriler hukukçular içindir; çıktılar avukat incelemesi için taslaktır.
+
 ---
 
 > ⚠️ **Sorumluluk reddi:** Bu eklenti deneyseldir ve **hukuki danışmanlık değildir**.

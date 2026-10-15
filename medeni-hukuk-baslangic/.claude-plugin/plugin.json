@@ -1,6 +1,6 @@
 {
   "name": "medeni-hukuk-baslangic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "TMK başlangıç hükümleri ve genel ilkeler: dürüstlük kuralı (m.2), iyiniyetin korunması (m.3), hâkimin takdir yetkisi (m.4), ispat yükü (m.6), hakkın kötüye kullanılması yasağı; tüm medeni hukuk için temel süzgeç.",
   "license": "Apache-2.0 OR MIT",
   "author": {

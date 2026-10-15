@@ -1,6 +1,6 @@
 {
   "name": "girisim-startup-hukuku",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Girişim hukuku: kuruluş ve ortaklık yapısı, yatırım turları, term sheet, pay sahipleri sözleşmesi, kurucu vesting ve çalışan hisse opsiyonu, tasfiye tercihi ve sulandırma; yatırımcı-girişimci dengeleri.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -129,7 +129,7 @@ HMK m.119'un zorunlu unsurlarını eksiksiz taşıyan, vakıa-altlama-talep omur
 2. Talep sonucu netliği: İnfaz edilebilir biçimde yazın; alacakta ana para + faiz (başlangıç tarihi ve oranı TBK m.88/120 veya 3095 s.K.) + yargılama gideri + vekâlet ücreti. Belirsiz alacak davası ise HMK m.107 dayanağını ve fazlaya ilişkin hakkı belirtin.
 3. Harç ve gider: Nispi/maktu harç değere göre; eksik harç dava şartı niteliğinde tamamlanır.
 4. Delil bağlama: HMK m.194 somutlaştırma yükü; her delili ilgili vakıaya bağlayın. Senetle ispat sınırı (m.200) aşılıyorsa tanık caiz değildir, dikkat edin.
-5. Dava şartları kontrolü (m.114): arabuluculuk, görev, yetki, hukuki yarar. Ara sonuç: unsurlar tamsa imzaya hazır; değilse `[doldurulacak]` yer tutucuları ve eksik listesi.
+5. Dava şartları kontrolü (m.114): arabuluculuk, görev, yetki, hukuki yarar. Ara sonuç: unsurlar tamsa taslak, avukatın son incelemesine ve imzasına hazırdır; değilse `[doldurulacak]` yer tutucuları ve eksik listesi.
 
 ## Çıktı modülleri
 - Tam dava dilekçesi taslağı (m.119 başlıklı)
@@ -157,7 +157,7 @@ Davalı savunmasını HMK m.126-129 çerçevesinde kurmak; ilk itirazları, esas
 2. İlk itirazlar (HMK m.116-117): Kesin olmayan yetki, derdestlik, tahkim itirazı, iş bölümü; hepsi cevap dilekçesinde birlikte ileri sürülür, sonradan ileri sürülemez.
 3. Esasa cevap (m.129): Davacının her vakıasına karşı açık tutum (kabul/inkâr/bilmeme); savunma sebepleri ve karşı deliller. Zamanaşımı def'i mutlaka burada ileri sürülmeli (TBK m.161 — hâkim re'sen dikkate almaz).
 4. Karşı dava (m.132-134): Asıl dava ile bağlantı veya takas/mahsup şartı; süresinde ve aynı dilekçede.
-5. Replik-düplik (m.136): Davacı cevaba cevap, davalı ikinci cevap verir; teksif ilkesi (m.141) gereği bundan sonra iddia/savunma genişletilemez (ıslah ve karşı tarafın açık muvafakati hariç). Ara sonuç: süre/itiraz/def'i eksiksizse imzaya hazır.
+5. Replik-düplik (m.136): Davacı cevaba cevap, davalı ikinci cevap verir; teksif ilkesi (m.141) gereği bundan sonra iddia/savunma genişletilemez (ıslah ve karşı tarafın açık muvafakati hariç). Ara sonuç: süre/itiraz/def'i eksiksizse taslak, avukatın son incelemesine ve imzasına hazırdır.
 
 ## Çıktı modülleri
 - Cevap dilekçesi taslağı (ilk itiraz + esasa cevap + def'iler)
@@ -185,7 +185,7 @@ aciklama: İptal veya tam yargı davası için İYUK m.3 ve m.5 unsurlarına uyg
 2. Dava açma süresi (m.7): Kural olarak Danıştay ve idare mahkemelerinde 60 gün, vergi mahkemelerinde 30 gün; süre yazılı bildirimi izleyen günden işler. Özel kanunlardaki farklı süreleri kontrol edin. Süre kamu düzeninden, re'sen incelenir.
 3. Üst makama başvuru (m.11): İşlemin kaldırılması/değiştirilmesi için dava süresi içinde üst makama başvuru süreyi durdurur; cevap verilmez/red gelirse kalan süre işler.
 4. İptal sebepleri: İdari işlemin beş unsuru — yetki, şekil, sebep, konu, maksat — üzerinden sakatlık iddialarını altlayın.
-5. Yürütmenin durdurulması (m.27): İki şart birlikte — telafisi güç/imkânsız zarar ve açık hukuka aykırılık; talebi gerekçelendirip teminat hususunu belirtin. Tam yargıda zarar ve idari kusur/sorumluluk dayanağını kurun. Ara sonuç: süre içinde ve unsurlar tamsa dilekçe hazır.
+5. Yürütmenin durdurulması (m.27): İki şart birlikte — telafisi güç/imkânsız zarar ve açık hukuka aykırılık; talebi gerekçelendirip teminat hususunu belirtin. Tam yargıda zarar ve idari kusur/sorumluluk dayanağını kurun. Ara sonuç: süre içinde ve unsurlar tamsa dilekçe taslağı avukat incelemesine hazır.
 
 ## Çıktı modülleri
 - İptal/tam yargı dava dilekçesi taslağı (İYUK m.3 başlıklı)
@@ -213,7 +213,7 @@ Soruşturma ve kovuşturma evrelerinde mağdur/şüpheli/sanık vekilliğine uyg
 2. Katılma (CMK m.237-239): Suçtan zarar gören, kovuşturmada katılma talep eder; davaya katılma kararı verilirse haklar genişler.
 3. Koruma tedbirine itiraz (CMK m.267-271): Tutuklama, adli kontrol ve diğer hâkim/mahkeme kararlarına itiraz; süre kural olarak yedi gün (m.268). Salıverilme talebi (m.104) her zaman mümkündür.
 4. Savunma/esas hakkında beyan: İddianamedeki (m.170) suç vasıflandırmasını tartışın; suç genel teorisi katmanlarına göre (tipiklik, hukuka aykırılık, kusurluluk) savunmayı kurun; lehe deliller ve TCK m.21/22 kast-taksir ayrımı.
-5. Delil değerlendirme: Hukuka aykırı delil yasağı (CMK m.206/2, m.217/2; Anayasa m.38/6). Ara sonuç: evre ve sıfata uygun dilekçe, süre içinde hazır.
+5. Delil değerlendirme: Hukuka aykırı delil yasağı (CMK m.206/2, m.217/2; Anayasa m.38/6). Ara sonuç: evre ve sıfata uygun dilekçe taslağı, süre içinde avukat incelemesine hazır.
 
 ## Çıktı modülleri
 - İlgili ceza dilekçesi taslağı (şikâyet/katılma/itiraz/savunma)
@@ -241,7 +241,7 @@ aciklama: İlk derece kararına karşı istinaf veya temyiz dilekçesi hazırlam
 2. İstinaf sebepleri (HMK m.342, m.355): Dilekçe istinaf sebeplerini içermeli; BAM kural olarak sebeplerle bağlı, kamu düzeni hariç. Sebepleri somutlaştırın: yanlış vakıa tespiti, delil değerlendirme hatası, hukukun yanlış uygulanması, usul hatası (gerekçe yokluğu HMK m.297).
 3. Temyiz sebepleri (HMK m.371): Yargıtay yalnızca hukuka aykırılığı denetler; maddi vakıa yeniden incelenmez. Sebepleri hukuk normuna aykırılık ekseninde yazın.
 4. Talep: Kararın kaldırılması/bozulması ve (istinafta) yeniden esas hakkında karar veya gönderme.
-5. Harç ve ek: Kanun yolu harcı yatırılmalı; dilekçe karar örneğiyle sunulur. Ara sonuç: süre/sınır/sebep uygunsa dilekçe hazır; kesinse müvekkil bilgilendirilir.
+5. Harç ve ek: Kanun yolu harcı yatırılmalı; dilekçe karar örneğiyle sunulur. Ara sonuç: süre/sınır/sebep uygunsa dilekçe taslağı avukat incelemesine hazır; kesinse müvekkil bilgilendirilir.
 
 ## Çıktı modülleri
 - İstinaf/temyiz dilekçesi taslağı (sebepler numaralı)
@@ -353,7 +353,7 @@ Yargılama sonuna kadar hakkın korunması için geçici hukuki koruma talebini 
 2. İhtiyati tedbir şartları (HMK m.389-390): Hakkın elde edilmesinin önemli ölçüde zorlaşması veya gecikmede sakınca/ciddi zarar; talep edenin hakkı yaklaşık ispat (m.390/3). Tedbir kararı ve kapsamı somut yazılmalı.
 3. İhtiyati haciz şartları (İİK m.257): Muaccel (veya istisnaen müeccel) para alacağı; rehinle temin edilmemiş olması; alacağın ve sebebinin yaklaşık ispatı.
 4. Teminat: İhtiyati tedbirde HMK m.392, ihtiyati hacizde İİK m.259 — haksız tedbir/haciz nedeniyle doğabilecek zararlar için teminat; istisna ve muafiyetleri kontrol edin.
-5. Uygulama ve süre: Tedbirin uygulanması (HMK m.393 — bir hafta içinde icra); ihtiyati hacizde dava açma/takip süresi (İİK m.264 — yedi/bir hafta). Ara sonuç: şart-teminat-süre uygunsa talep hazır; haksız çıkma tazminatı riski (HMK m.399; İİK m.259/son) notlanır.
+5. Uygulama ve süre: Tedbirin uygulanması (HMK m.393 — bir hafta içinde icra); ihtiyati hacizde dava açma/takip süresi (İİK m.264 — yedi/bir hafta). Ara sonuç: şart-teminat-süre uygunsa talep taslağı avukat incelemesine hazır; haksız çıkma tazminatı riski (HMK m.399; İİK m.259/son) notlanır.
 
 ## Çıktı modülleri
 - İhtiyati tedbir/haciz talep dilekçesi taslağı

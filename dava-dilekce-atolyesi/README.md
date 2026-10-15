@@ -1,6 +1,6 @@
 # Dava Dilekçesi ve Layiha Atölyesi
 
-Layiha üretimi: HMK/İYUK/CMK'ya uygun dava, cevap, replik-düplik, istinaf ve temyiz dilekçeleri; vakıa-hukuki sebep-talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini.
+Avukatlar için layiha taslağı: HMK, İYUK ve CMK'ya uygun dava, cevap, replik, düplik, istinaf ve temyiz dilekçeleri; vakıa, hukuki sebep ve talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini. Çıktı, avukat denetimine hazır müsveddedir.
 
 **Başat mevzuat:** HMK 6100, CMK 5271, 2577 İYUK
 
@@ -32,6 +32,8 @@ Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://
 
 Eklenti kurulduktan sonra Claude'a olayınızı anlatın ya da belgeyi yükleyin; `genel-bakis`
 becerisi sizi uygun uzman beceriye yönlendirir.
+
+Beceriler hukukçular içindir; çıktılar avukat incelemesi için taslaktır.
 
 ---
 

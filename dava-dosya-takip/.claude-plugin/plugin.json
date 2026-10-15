@@ -1,6 +1,6 @@
 {
   "name": "dava-dosya-takip",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Dava dosyası işleme: yapılandırılmış dosya özeti, taraf-vekil ve süre takvimi, vakıa kronolojisi, delil dizini ve eksik/çelişki listesi; dosyaya hızlı hâkim olmayı sağlayan Excel'lenebilir çıktılar.",
   "license": "Apache-2.0 OR MIT",
   "author": {

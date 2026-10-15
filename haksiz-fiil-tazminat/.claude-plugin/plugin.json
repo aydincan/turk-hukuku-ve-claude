@@ -1,6 +1,6 @@
 {
   "name": "haksiz-fiil-tazminat",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Haksız fiil sorumluluğu: TBK m.49 vd. unsurları (fiil, hukuka aykırılık, kusur, zarar, illiyet), kusursuz sorumluluk halleri, maddi/manevi tazminatın hesabı, destekten yoksun kalma ve tazminattan indirim sebepleri.",
   "license": "Apache-2.0 OR MIT",
   "author": {

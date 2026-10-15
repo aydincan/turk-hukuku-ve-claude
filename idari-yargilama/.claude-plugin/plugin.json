@@ -1,6 +1,6 @@
 {
   "name": "idari-yargilama",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "İdari yargılama: 2577 sayılı İYUK — iptal ve tam yargı davaları, dava açma süreleri ve dava şartları (ehliyet/menfaat), yürütmenin durdurulması, idari merci tecavüzü ve istinaf/temyiz.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,7 +1,7 @@
 {
   "name": "sade-hukuk-dili",
-  "version": "1.0.0",
-  "description": "Sade hukuk dili: karmaşık dilekçe, karar ve sözleşmeleri müvekkilin anlayacağı yalın Türkçeye çevirme; hukuki doğruluğu koruyarak özetleme, terim açıklama ve bilgilendirme metni üretimi.",
+  "version": "1.1.0",
+  "description": "Avukatlar için sade hukuk dili: karmaşık dilekçe, karar ve sözleşmeleri avukatın müvekkile anlatması için yalın Türkçeye çevirme; hukuki doğruluğu koruyarak özetleme, terim açıklama ve bilgilendirme metni taslağı. Çıktı, müvekkile iletilmeden önce avukatın incelemesine sunulur.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Aydın Can Polatkan"

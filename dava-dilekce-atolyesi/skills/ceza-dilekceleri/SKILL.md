@@ -19,7 +19,7 @@ Soruşturma ve kovuşturma evrelerinde mağdur/şüpheli/sanık vekilliğine uyg
 2. Katılma (CMK m.237-239): Suçtan zarar gören, kovuşturmada katılma talep eder; davaya katılma kararı verilirse haklar genişler.
 3. Koruma tedbirine itiraz (CMK m.267-271): Tutuklama, adli kontrol ve diğer hâkim/mahkeme kararlarına itiraz; süre kural olarak yedi gün (m.268). Salıverilme talebi (m.104) her zaman mümkündür.
 4. Savunma/esas hakkında beyan: İddianamedeki (m.170) suç vasıflandırmasını tartışın; suç genel teorisi katmanlarına göre (tipiklik, hukuka aykırılık, kusurluluk) savunmayı kurun; lehe deliller ve TCK m.21/22 kast-taksir ayrımı.
-5. Delil değerlendirme: Hukuka aykırı delil yasağı (CMK m.206/2, m.217/2; Anayasa m.38/6). Ara sonuç: evre ve sıfata uygun dilekçe, süre içinde hazır.
+5. Delil değerlendirme: Hukuka aykırı delil yasağı (CMK m.206/2, m.217/2; Anayasa m.38/6). Ara sonuç: evre ve sıfata uygun dilekçe taslağı, süre içinde avukat incelemesine hazır.
 
 ## Çıktı modülleri
 - İlgili ceza dilekçesi taslağı (şikâyet/katılma/itiraz/savunma)
@@ -53,10 +53,23 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
   açıklamalarındadır. Bu sunucular varsa doğrulamada önce onları kullan ve dönen
   künyeyi aynen aktar; yoksa yukarıdaki künye kuralları aynen geçerlidir.
 
+## Kimin için
+
+Bu beceri avukatlar ve hukukçular içindir (avukat, stajyer avukat, şirket hukukçusu,
+akademisyen, hukuk öğrencisi). Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse:
+kanunun ne dediğini ve ilgili kararları genel olarak açıkla, resmî metni getir; bir süre
+işliyor olabilirse kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş,
+strateji, sonuç tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme.
+Vakit kaybetmeden bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu
+sınırı yanıtta açıkça söyle.
+
 ## Bu beceri ne yapmaz
 
 - Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
   hukukçudadır.
+- Hukukçu olmayan bir kişiye kendi somut işi için hukuki görüş, strateji önerisi, sonuç
+  tahmini ya da imzalanmaya veya verilmeye hazır belge sunmaz; genel bilgi ve resmî metinle
+  yetinir, bir avukata ya da baronun adli yardım bürosuna yönlendirir.
 - Müvekkili, onun açık kararı olmadan bağlamaz.
 - Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
 - Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
@@ -64,6 +77,8 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
 
 ---
 
-*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
-sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
-edilmelidir. Hukuki danışmanlık değildir.*
+*Bu beceri hukukçular içindir ve hukukçunun çalışmasını yapılandırır; deneyseldir ve tek
+başına hukuki sonuç doğurmaz. Çıktılar taslaktır; kullanılmadan önce dosyayı üstlenen
+yetkili hukukçu tarafından incelenmeli, yürürlükteki mevzuat ve doğrulanmış içtihatla teyit
+edilmelidir. Müvekkile ya da başka bir kişiye iletilecek metinlerde yapay zekâdan
+yararlanıldığı belirtilmelidir. Hukuki danışmanlık değildir.*

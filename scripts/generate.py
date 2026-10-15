@@ -69,10 +69,23 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
   açıklamalarındadır. Bu sunucular varsa doğrulamada önce onları kullan ve dönen
   künyeyi aynen aktar; yoksa yukarıdaki künye kuralları aynen geçerlidir.
 
+## Kimin için
+
+Bu beceri avukatlar ve hukukçular içindir (avukat, stajyer avukat, şirket hukukçusu,
+akademisyen, hukuk öğrencisi). Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse:
+kanunun ne dediğini ve ilgili kararları genel olarak açıkla, resmî metni getir; bir süre
+işliyor olabilirse kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş,
+strateji, sonuç tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme.
+Vakit kaybetmeden bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu
+sınırı yanıtta açıkça söyle.
+
 ## Bu beceri ne yapmaz
 
 - Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
   hukukçudadır.
+- Hukukçu olmayan bir kişiye kendi somut işi için hukuki görüş, strateji önerisi, sonuç
+  tahmini ya da imzalanmaya veya verilmeye hazır belge sunmaz; genel bilgi ve resmî metinle
+  yetinir, bir avukata ya da baronun adli yardım bürosuna yönlendirir.
 - Müvekkili, onun açık kararı olmadan bağlamaz.
 - Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
 - Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
@@ -80,9 +93,11 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
 
 ---
 
-*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
-sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
-edilmelidir. Hukuki danışmanlık değildir.*
+*Bu beceri hukukçular içindir ve hukukçunun çalışmasını yapılandırır; deneyseldir ve tek
+başına hukuki sonuç doğurmaz. Çıktılar taslaktır; kullanılmadan önce dosyayı üstlenen
+yetkili hukukçu tarafından incelenmeli, yürürlükteki mevzuat ve doğrulanmış içtihatla teyit
+edilmelidir. Müvekkile ya da başka bir kişiye iletilecek metinlerde yapay zekâdan
+yararlanıldığı belirtilmelidir. Hukuki danışmanlık değildir.*
 """
 
 
@@ -92,8 +107,12 @@ def kaltstart_bloku():
 Başta yalnızca bir sonraki adım için zorunlu olanı sor. Materyal varsa onunla çalış ve
 yalnızca belirleyici olan tek soruyu sor.
 
-1. **Rol ve hedef:** Kim soruyor (avukat, hukuk müşaviri, taraf, şirket, kurum) ve
-   istenen çıktı ne (mütalaa, dilekçe, tablo, kontrol listesi, sözleşme, e-posta)?
+1. **Rol ve hedef:** Kim soruyor (avukat, stajyer avukat, hukuk müşaviri veya şirket
+   hukukçusu, akademisyen, hukuk öğrencisi) ve istenen çıktı ne (mütalaa, dilekçe, tablo,
+   kontrol listesi, sözleşme, e-posta)? Soran, kendi işi için gelen ve hukukçu olmayan bir
+   kişiyse aşağıdaki "Kimin için" kuralı geçerlidir: genel bilgi, resmî metin ve kanundaki
+   süre verilir; kişiye özel görüş, strateji ya da belge üretilmez; bir avukata ya da
+   baronun adli yardım bürosuna yönlendirilir.
 2. **Olay:** Çekişmesiz olgular, çekişmeli noktalar ve eksikler neler?
 3. **Süreler:** Hak düşürücü süre, zamanaşımı, tebligat, duruşma, itiraz süresi var mı?
 4. **Belgeler:** Hangi sözleşme, tebligat, bilirkişi raporu, tapu, ekstre, e-posta var?
@@ -136,6 +155,11 @@ yazılır. Ardından yanıtta şunlar bulunur:
 - **Hukuki konu:** materyalin bağlandığı hukuk dalı, norm grubu veya çalışma modu.
 - **Yönlendirme:** bu eklentiden uygun uzman beceri; isabet netse o yönde çalış, birden çok
   yol varsa bir birincil yol ve en çok iki alternatif.
+
+Süre uyarısı bir hesaptır; dosyayı üstlenen hukukçu tarafından teyit edilmelidir. Belgeyi
+yükleyen, kendi işi için gelen ve hukukçu olmayan bir kişiyse: belgenin ne olduğunu genel
+olarak açıkla, kanundaki süreyi ve dayanağını yaz, vakit kaybetmeden bir avukata ya da
+baronun adli yardım bürosuna başvurmasını öner; strateji ya da verilmeye hazır belge üretme.
 """
 
 
@@ -186,7 +210,7 @@ Kullanıcının verdiğini görünür biçimde özetle; yeniden sorma.
 
 | Nokta | Soru | Neden önemli? |
 |---|---|---|
-| Rol | Kim soruyor: avukat, müşavir, taraf, şirket, kurum? | Bakış açısı ve üslubu belirler. |
+| Rol | Kim soruyor: avukat, stajyer, müşavir, akademisyen? Hukukçu olmayan kişi kendi işi için soruyorsa genel bilgiyle yetin ve avukata ya da baronun adli yardım bürosuna yönlendir. | Bakış açısı ve üslubu belirler. |
 | Hedef | Sonunda ne olmalı: inceleme, dilekçe, mütalaa, kontrol listesi, sözleşme? | Çıktıyı baştan doğru kurar. |
 | Olay | Ne oldu, taraflar kim, hangi tarih ve tutarlar kesin? | Havada iş kurmamak için. |
 | Süreler | Süre, tebligat, itiraz, dava açma, zamanaşımı, kapanış tarihi var mı? | Acele işleri önce sabitler. |
@@ -214,7 +238,7 @@ Kullanıcının verdiğini görünür biçimde özetle; yeniden sorma.
 
 - **Önce bu eklentinin becerilerini** öner. Konu görünür biçimde başka dala taşıyorsa
   ilgili diğer eklentiyi (ör. `hukuk-metodolojisi`, `atif-turk-hukuku`,
-  `hukuk-muhakemesi`, `icra-iflas-hukuku`) köprü olarak an,
+  `hukuk-muhakemesi`, `icra-iflas-hukuku`) köprü olarak an.
 - Hiçbir zaman yalnızca beceri adı verme; **ne için, ne zaman, hangi girdi eksik, çıktı ne**
   olduğunu da söyle.
 - Dosya büyük/dağınıksa önce bir dosya/tablo/triyaj becerisi öner, sonra maddi inceleme.
@@ -224,7 +248,8 @@ Kullanıcının verdiğini görünür biçimde özetle; yeniden sorma.
 
 - Varsayımları görünür ve kısa tut.
 - Bitirmeden önce bu eklentinin uygun uzman becerilerini öner.
-- Sonda her zaman net bir sonraki adım ver.
+- Sonda her zaman net bir sonraki adım ver; kullanıcı hukukçu değilse bu adım bir avukata
+  ya da baronun adli yardım bürosuna başvurmaktır.
 {kaynak_footer(slug)}"""
 
 
@@ -254,11 +279,12 @@ yapılandırılmış, aktarılabilir bir iş ürünü üretir.
 
 Çıktı şu içeriksel kurguyu izlemeli:
 
-1. **Olayı sabitle** — çekişmeli/çekişmesiz olguları ayır, eksik tablosu çıkar.
-2. **Hukuki nitelendirme** — başat mevzuat ({kanunlar}); ilgili doğrulanmış içtihat;
+1. **Olayı sabitle:** çekişmeli/çekişmesiz olguları ayır, eksik tablosu çıkar.
+2. **Hukuki nitelendirme:** başat mevzuat ({kanunlar}); ilgili doğrulanmış içtihat;
    varsa kullanıcı kaynaklı doktrin.
-3. **Altlama (subsumtion)** — üst cümle, tanım/şart, somut olaya uygulama, ara sonuç.
-4. **Sonuç ve eylem önerisi** — somut, sorumlu kişi ve süre ile.
+3. **Altlama (subsumtion):** üst cümle, tanım/şart, somut olaya uygulama, ara sonuç.
+4. **Sonuç ve eylem önerisi:** dosyayı üstlenen hukukçunun değerlendirmesi için; somut,
+   sorumlu kişi ve süre ile.
 
 ## Çıktı modülleri
 
@@ -355,6 +381,8 @@ Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://
 Eklenti kurulduktan sonra Claude'a olayınızı anlatın ya da belgeyi yükleyin; `genel-bakis`
 becerisi sizi uygun uzman beceriye yönlendirir.
 
+Beceriler hukukçular içindir; çıktılar avukat incelemesi için taslaktır.
+
 ---
 
 > ⚠️ **Sorumluluk reddi:** Bu eklenti deneyseldir ve **hukuki danışmanlık değildir**.
@@ -440,9 +468,10 @@ def build_root_readme(pazar, gruplar, eklentiler, skill_counts):
 
     return f"""# {pazar['baslik']}
 
-> **{pazar['baslik']}** — Türk hukuku için deneysel bir Claude Code beceri (skill)
-> koleksiyonu. Avukat, hukuk müşaviri, hâkim/savcı adayı, akademisyen ve hukuk öğrencisi
-> için metodoloji, atıf hijyeni, sözleşme, dava ve mütalaa iş akışları.
+> **{pazar['baslik']}:** avukatlar ve hukukçular için Türk hukuku üzerine deneysel bir
+> Claude Code beceri (skill) koleksiyonu. Avukat, stajyer avukat, şirket hukukçusu,
+> akademisyen ve hukuk öğrencisi için metodoloji, atıf hijyeni, sözleşme, dava ve mütalaa
+> iş akışları.
 
 {pazar['aciklama']}
 
@@ -465,6 +494,13 @@ teknik bir oyun alanıdır. Çıktılar **yürürlükteki mevzuat ve doğrulanm�
 teyit edilmelidir. Avukat-müvekkil sırrı (TCK m.285-286, 1136 s.K.), KVKK (6698),
 yurt dışı veri aktarımı ve mesleki yükümlülükler bakımından dağıtımın kendi durumunuza
 uygunluğunu **bağımsız olarak** denetleyin. Ayrıntı: [`SORUMLULUK-REDDI.md`](./SORUMLULUK-REDDI.md).
+
+**Avukatlar ve hukukçular için.** Çıktılar taslaktır; kullanılmadan önce dosyayı üstlenen
+yetkili hukukçu tarafından incelenmelidir. Müvekkile ya da başka bir kişiye iletilecek
+metinlerde, hazırlanmasında yapay zekâdan yararlanıldığı belirtilmelidir. Hukukçu olmayan
+biri kendi işi için sorduğunda beceriler genel bilgi, resmî metin ve kanundaki süreyle
+yetinir; kişiye özel görüş ya da belge üretmez, bir avukata ya da baronun adli yardım
+bürosuna yönlendirir.
 
 ## Kurulum
 
@@ -493,7 +529,8 @@ Ayrıntılı kurulum (Claude Desktop dâhil) için [`KURULUM.md`](./KURULUM.md).
 3. **Olayı anlatın veya dosyayı yükleyin** (sessiz yükleme desteklenir).
 4. Her eklentinin `genel-bakis` becerisi sizi triyajdan geçirir ve uygun uzman beceriye
    yönlendirir.
-5. **Çıktı**: gerekçeli mütalaa, dilekçe/sözleşme taslağı, kontrol listesi veya yapılandırılmış analiz.
+5. **Çıktı**: gerekçeli mütalaa, dilekçe/sözleşme taslağı, kontrol listesi veya yapılandırılmış
+   analiz; hepsi avukat incelemesi için taslaktır.
 
 ## Kaynak hijyeni (projenin omurgası)
 

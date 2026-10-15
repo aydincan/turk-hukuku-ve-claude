@@ -1,6 +1,6 @@
 {
   "name": "sigorta-hukuku",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sigorta hukuku: sigorta sözleşmesi, beyan yükümlülüğü, prim ve riziko, tazminat ve rücu; zorunlu/ihtiyari sigortalar, trafik sigortası ve Sigorta Tahkim Komisyonu yolu.",
   "license": "Apache-2.0 OR MIT",
   "author": {

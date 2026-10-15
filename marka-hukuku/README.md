@@ -15,7 +15,7 @@ Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://
 - `karistirilma-ihtimali-nispi-ret` — İki marka arasında benzerlik ve karıştırılma riski değerlendirilecekse veya yayına itiraz/hükümsüzlük m.6 dayanaklı ileri sürülecekse; işaret-mal benzerliği ve global değerlendirmeyi yürütmek için kullanılır.
 - `taninmis-marka-korumasi` — Markanın tanınmışlık düzeyi ve sınıf-aşırı koruması tartışmalıysa veya tanınmış marka taklidi/sulandırma iddiası varsa; m.6/4-5 ile Paris 1. mük. 6. md. korumasını denetlemek için kullanılır.
 - `hukumsuzluk-ve-iptal` — Tescilli bir markanın geçersiz kılınması veya sonradan kullanmama/jenerikleşme nedeniyle iptali gündemdeyse; m.25 hükümsüzlük ve m.26 iptal sebeplerini, sessiz kalma ve kullanmama süzgecini denetlemek için kullanılır.
-- `kullanmama-defi-ve-ispati` — Karşı taraf markayı uzun süredir kullanmıyorsa veya size karşı kullanmama itirazı/def'i ileri sürüldüyse; beş yıllık ciddi kullanım koşulu ve ispat yükünü m.9-m.19/2 üzerinden yönetmek için kullanılır.
+- `kullanmama-defi-ve-ispati` — Karşı taraf markayı uzun süredir kullanmıyorsa veya müvekkile karşı kullanmama itirazı/def'i ileri sürüldüyse; beş yıllık ciddi kullanım koşulu ve ispat yükünü m.9-m.19/2 üzerinden yönetmek için kullanılır.
 - `marka-tecavuzu-ve-onleme` — İzinsiz kullanım, taklit, iltibas veya benzer işaretle marka hakkına saldırı söz konusuysa; m.29 tecavüz hallerini ve m.149-150 dava taleplerini denetlemek için kullanılır.
 - `tazminat-ve-yoksun-kazanc` — Tecavüz nedeniyle maddi-manevi tazminat veya itibar tazminatı talep edilecekse; m.150-151 hesap yöntemlerini ve yoksun kalınan kazancın üç seçenekli hesabını yürütmek için kullanılır.
 - `turkpatent-basvuru-itiraz` — Marka tescil başvurusu, yayına itiraz, karara itiraz veya YİDK kararına karşı dava aşamalarında; idari sürecin süreleri ve usulünü m.11-m.20 ve m.172 üzerinden yönetmek için kullanılır.
@@ -32,6 +32,8 @@ Terminal kullanmıyorsanız aynı beceriler [masaüstü uygulamasında](https://
 
 Eklenti kurulduktan sonra Claude'a olayınızı anlatın ya da belgeyi yükleyin; `genel-bakis`
 becerisi sizi uygun uzman beceriye yönlendirir.
+
+Beceriler hukukçular içindir; çıktılar avukat incelemesi için taslaktır.
 
 ---
 

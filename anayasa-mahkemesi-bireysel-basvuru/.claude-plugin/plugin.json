@@ -1,6 +1,6 @@
 {
   "name": "anayasa-mahkemesi-bireysel-basvuru",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Anayasa Mahkemesi'ne bireysel başvuru: konu ve kişi bakımından yetki, başvuru yollarının tüketilmesi ve süre, kabul edilebilirlik kriterleri, ihlal kararı ve sonuçları; AİHM ile ilişki.",
   "license": "Apache-2.0 OR MIT",
   "author": {

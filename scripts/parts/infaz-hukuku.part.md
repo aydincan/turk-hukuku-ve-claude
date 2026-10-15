@@ -263,7 +263,7 @@ aciklama: Ceza infaz kurumu işlem ve kararlarına karşı infaz hâkimliğine �
 ## Soğuk başlangıç (intake)
 - Hangi işlem/karar şikâyet konusu (disiplin, nakil, infaz hesabı, hak kısıtlaması)?
 - İşlem hükümlüye ne zaman tebliğ/uygulanıp öğrenildi (süre için)?
-- Hangi infaz kurumu/savcılık yetki alanındasınız (yetki için)?
+- Hükümlü hangi infaz kurumunda, hangi savcılığın yetki alanında (yetki için)?
 - Daha önce idareye başvuru yapıldı mı?
 
 ## Denetim şeması

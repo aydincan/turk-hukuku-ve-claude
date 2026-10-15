@@ -19,7 +19,7 @@ HMK m.119'un zorunlu unsurlarını eksiksiz taşıyan, vakıa-altlama-talep omur
 2. Talep sonucu netliği: İnfaz edilebilir biçimde yazın; alacakta ana para + faiz (başlangıç tarihi ve oranı TBK m.88/120 veya 3095 s.K.) + yargılama gideri + vekâlet ücreti. Belirsiz alacak davası ise HMK m.107 dayanağını ve fazlaya ilişkin hakkı belirtin.
 3. Harç ve gider: Nispi/maktu harç değere göre; eksik harç dava şartı niteliğinde tamamlanır.
 4. Delil bağlama: HMK m.194 somutlaştırma yükü; her delili ilgili vakıaya bağlayın. Senetle ispat sınırı (m.200) aşılıyorsa tanık caiz değildir, dikkat edin.
-5. Dava şartları kontrolü (m.114): arabuluculuk, görev, yetki, hukuki yarar. Ara sonuç: unsurlar tamsa imzaya hazır; değilse `[doldurulacak]` yer tutucuları ve eksik listesi.
+5. Dava şartları kontrolü (m.114): arabuluculuk, görev, yetki, hukuki yarar. Ara sonuç: unsurlar tamsa taslak, avukatın son incelemesine ve imzasına hazırdır; değilse `[doldurulacak]` yer tutucuları ve eksik listesi.
 
 ## Çıktı modülleri
 - Tam dava dilekçesi taslağı (m.119 başlıklı)
@@ -53,10 +53,23 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
   açıklamalarındadır. Bu sunucular varsa doğrulamada önce onları kullan ve dönen
   künyeyi aynen aktar; yoksa yukarıdaki künye kuralları aynen geçerlidir.
 
+## Kimin için
+
+Bu beceri avukatlar ve hukukçular içindir (avukat, stajyer avukat, şirket hukukçusu,
+akademisyen, hukuk öğrencisi). Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse:
+kanunun ne dediğini ve ilgili kararları genel olarak açıkla, resmî metni getir; bir süre
+işliyor olabilirse kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş,
+strateji, sonuç tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme.
+Vakit kaybetmeden bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu
+sınırı yanıtta açıkça söyle.
+
 ## Bu beceri ne yapmaz
 
 - Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
   hukukçudadır.
+- Hukukçu olmayan bir kişiye kendi somut işi için hukuki görüş, strateji önerisi, sonuç
+  tahmini ya da imzalanmaya veya verilmeye hazır belge sunmaz; genel bilgi ve resmî metinle
+  yetinir, bir avukata ya da baronun adli yardım bürosuna yönlendirir.
 - Müvekkili, onun açık kararı olmadan bağlamaz.
 - Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
 - Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
@@ -64,6 +77,8 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
 
 ---
 
-*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
-sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
-edilmelidir. Hukuki danışmanlık değildir.*
+*Bu beceri hukukçular içindir ve hukukçunun çalışmasını yapılandırır; deneyseldir ve tek
+başına hukuki sonuç doğurmaz. Çıktılar taslaktır; kullanılmadan önce dosyayı üstlenen
+yetkili hukukçu tarafından incelenmeli, yürürlükteki mevzuat ve doğrulanmış içtihatla teyit
+edilmelidir. Müvekkile ya da başka bir kişiye iletilecek metinlerde yapay zekâdan
+yararlanıldığı belirtilmelidir. Hukuki danışmanlık değildir.*

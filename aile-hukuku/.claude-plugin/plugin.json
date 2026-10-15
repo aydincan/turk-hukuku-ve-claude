@@ -1,6 +1,6 @@
 {
   "name": "aile-hukuku",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Aile hukuku uygulaması: evlenme, boşanma sebepleri (TMK m.161-166), nafaka türleri, velayet ve kişisel ilişki, mal rejimleri ve tasfiye, soybağı; 6284 sayılı Kanun kapsamında koruma tedbirleri.",
   "license": "Apache-2.0 OR MIT",
   "author": {

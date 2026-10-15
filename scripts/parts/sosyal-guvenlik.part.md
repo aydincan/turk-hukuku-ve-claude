@@ -338,7 +338,7 @@ Sosyal güvenlik uyuşmazlığına uygun idari başvuru, itiraz ve yargı dilek�
 2. İskelet — HMK m.119: Dava dilekçesinde mahkeme, taraflar, konu, vakıalar, hukuki sebepler, deliller ve talep sonucu eksiksiz yer alır; cevapta HMK m.129 unsurları.
 3. Dayanak yerleştirme: İlgili 5510 maddeleri (statüye/uyuşmazlığa göre m.4, m.13, m.21, m.28, m.41, m.60, m.80, m.86, m.93) ve usul (7036, HMK) doğru atıfla bağlanır.
 4. Delil bağlama: Her vakıaya delil iliştirilir; SGK'dan getirtilecek belgeler ve tanıklar dilekçede gösterilir.
-5. Yer tutucu disiplini: Bilinmeyen tarih/tutar/ad alanları `[doldurulacak]` ile işaretlenir; uydurma rakam/künye girilmez. Ara sonuç: gönderime hazır taslak iskeleti.
+5. Yer tutucu disiplini: Bilinmeyen tarih/tutar/ad alanları `[doldurulacak]` ile işaretlenir; uydurma rakam/künye girilmez. Ara sonuç: avukat incelemesine hazır taslak iskeleti.
 
 ## Çıktı modülleri
 - Seçilen tür için dilekçe/itiraz iskeleti.

@@ -41,6 +41,11 @@ yazılır. Ardından yanıtta şunlar bulunur:
 - **Yönlendirme:** bu eklentiden uygun uzman beceri; isabet netse o yönde çalış, birden çok
   yol varsa bir birincil yol ve en çok iki alternatif.
 
+Süre uyarısı bir hesaptır; dosyayı üstlenen hukukçu tarafından teyit edilmelidir. Belgeyi
+yükleyen, kendi işi için gelen ve hukukçu olmayan bir kişiyse: belgenin ne olduğunu genel
+olarak açıkla, kanundaki süreyi ve dayanağını yaz, vakit kaybetmeden bir avukata ya da
+baronun adli yardım bürosuna başvurmasını öner; strateji ya da verilmeye hazır belge üretme.
+
 
 ### 1. 60 saniyede intake
 
@@ -48,7 +53,7 @@ Kullanıcının verdiğini görünür biçimde özetle; yeniden sorma.
 
 | Nokta | Soru | Neden önemli? |
 |---|---|---|
-| Rol | Kim soruyor: avukat, müşavir, taraf, şirket, kurum? | Bakış açısı ve üslubu belirler. |
+| Rol | Kim soruyor: avukat, stajyer, müşavir, akademisyen? Hukukçu olmayan kişi kendi işi için soruyorsa genel bilgiyle yetin ve avukata ya da baronun adli yardım bürosuna yönlendir. | Bakış açısı ve üslubu belirler. |
 | Hedef | Sonunda ne olmalı: inceleme, dilekçe, mütalaa, kontrol listesi, sözleşme? | Çıktıyı baştan doğru kurar. |
 | Olay | Ne oldu, taraflar kim, hangi tarih ve tutarlar kesin? | Havada iş kurmamak için. |
 | Süreler | Süre, tebligat, itiraz, dava açma, zamanaşımı, kapanış tarihi var mı? | Acele işleri önce sabitler. |
@@ -85,7 +90,7 @@ Kullanıcının verdiğini görünür biçimde özetle; yeniden sorma.
 
 - **Önce bu eklentinin becerilerini** öner. Konu görünür biçimde başka dala taşıyorsa
   ilgili diğer eklentiyi (ör. `hukuk-metodolojisi`, `atif-turk-hukuku`,
-  `hukuk-muhakemesi`, `icra-iflas-hukuku`) köprü olarak an,
+  `hukuk-muhakemesi`, `icra-iflas-hukuku`) köprü olarak an.
 - Hiçbir zaman yalnızca beceri adı verme; **ne için, ne zaman, hangi girdi eksik, çıktı ne**
   olduğunu da söyle.
 - Dosya büyük/dağınıksa önce bir dosya/tablo/triyaj becerisi öner, sonra maddi inceleme.
@@ -95,7 +100,8 @@ Kullanıcının verdiğini görünür biçimde özetle; yeniden sorma.
 
 - Varsayımları görünür ve kısa tut.
 - Bitirmeden önce bu eklentinin uygun uzman becerilerini öner.
-- Sonda her zaman net bir sonraki adım ver.
+- Sonda her zaman net bir sonraki adım ver; kullanıcı hukukçu değilse bu adım bir avukata
+  ya da baronun adli yardım bürosuna başvurmaktır.
 
 ## Plugin bağlamı
 
@@ -123,10 +129,23 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
   açıklamalarındadır. Bu sunucular varsa doğrulamada önce onları kullan ve dönen
   künyeyi aynen aktar; yoksa yukarıdaki künye kuralları aynen geçerlidir.
 
+## Kimin için
+
+Bu beceri avukatlar ve hukukçular içindir (avukat, stajyer avukat, şirket hukukçusu,
+akademisyen, hukuk öğrencisi). Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse:
+kanunun ne dediğini ve ilgili kararları genel olarak açıkla, resmî metni getir; bir süre
+işliyor olabilirse kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş,
+strateji, sonuç tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme.
+Vakit kaybetmeden bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu
+sınırı yanıtta açıkça söyle.
+
 ## Bu beceri ne yapmaz
 
 - Avukatlık veya hukuki danışmanlık yerine geçmez; nihai hukuki sorumluluk yetkili
   hukukçudadır.
+- Hukukçu olmayan bir kişiye kendi somut işi için hukuki görüş, strateji önerisi, sonuç
+  tahmini ya da imzalanmaya veya verilmeye hazır belge sunmaz; genel bilgi ve resmî metinle
+  yetinir, bir avukata ya da baronun adli yardım bürosuna yönlendirir.
 - Müvekkili, onun açık kararı olmadan bağlamaz.
 - Belgelerle ya da net beyanla desteklenmeyen vakıaları olgu gibi değerlendirmez.
 - Menfaat çatışması veya meslek kuralı (1136 s.K., TBB Meslek Kuralları) sorunu
@@ -134,6 +153,8 @@ aksi hâlde bu eklentinin uygun bir sonraki becerisini önerir.
 
 ---
 
-*Bu beceri deneyseldir ve hukukçunun çalışmasını yapılandırmaya yarar; tek başına hukuki
-sonuç doğurmaz. Tüm çıktılar yürürlükteki mevzuat ve doğrulanmış güncel içtihatla teyit
-edilmelidir. Hukuki danışmanlık değildir.*
+*Bu beceri hukukçular içindir ve hukukçunun çalışmasını yapılandırır; deneyseldir ve tek
+başına hukuki sonuç doğurmaz. Çıktılar taslaktır; kullanılmadan önce dosyayı üstlenen
+yetkili hukukçu tarafından incelenmeli, yürürlükteki mevzuat ve doğrulanmış içtihatla teyit
+edilmelidir. Müvekkile ya da başka bir kişiye iletilecek metinlerde yapay zekâdan
+yararlanıldığı belirtilmelidir. Hukuki danışmanlık değildir.*
